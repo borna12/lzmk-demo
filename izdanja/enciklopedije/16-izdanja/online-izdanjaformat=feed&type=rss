@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Enciklopedije</title>
+		<description><![CDATA[]]></description>
+		<link>https://localhost/lzmk/16-izdanja/online-izdanja</link>
+		<lastBuildDate>Thu, 02 Sep 2021 15:12:42 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://localhost/lzmk/izdanja/enciklopedije/16-izdanja/online-izdanja?format=feed&amp;type=rss"/>
+		<language>hr-hr</language>
+		<item>
+			<title>Online izdanja</title>
+			<link>https://localhost/lzmk/izdanja/online-izdanja</link>
+			<guid isPermaLink="true">https://localhost/lzmk/izdanja/online-izdanja</guid>
+			<description><![CDATA[<p> </p>
+<p style="padding-left: 200px;"><strong>Enciklopedije i leksikoni</strong></p>
+<p style="padding-left: 200px;"><a title="Hrvatska enciklopedija" href="http://www.enciklopedija.hr/" target="_blank" rel="noopener noreferrer">Hrvatska enciklopedija</a></p>
+<p style="padding-left: 200px;"><a href="https://tehnika.lzmk.hr/">Portal hrvatske tehničke baštine</a></p>
+<p style="padding-left: 200px;"><a title="Proleksis enciklopedija" href="http://proleksis.lzmk.hr/" target="_blank" rel="noopener noreferrer">Proleksis enciklopedija</a></p>
+<p> </p>
+<p style="padding-left: 200px;"><strong>Izdanja na <a href="http://enciklopedija.lzmk.hr/" target="_blank" rel="noopener noreferrer">Portalu znanja</a></strong></p>
+<p style="padding-left: 200px;"><a href="http://filmska.lzmk.hr/" target="_blank" rel="noopener noreferrer">Filmska enciklopedija</a></p>
+<p style="padding-left: 200px;"><a title="Filmski leksikon" href="http://film.lzmk.hr/" target="_blank" rel="noopener noreferrer">Filmski leksikon</a></p>
+<p style="padding-left: 200px;"><a title="Hrvatski biografski leksikon" href="http://hbl.lzmk.hr/">Hrvatski biografski leksikon</a></p>
+<p style="padding-left: 200px;"><a title="Hrvatski obiteljski leksikon" href="http://hol.lzmk.hr/" target="_blank" rel="noopener noreferrer">Hrvatski obiteljski leksikon</a></p>
+<p style="padding-left: 200px;"><a title="Istarska enciklopedija" href="http://istra.lzmk.hr/" target="_blank" rel="noopener noreferrer">Istarska enciklopedija</a></p>
+<p style="padding-left: 200px;"><a title="Krležijana" href="http://krlezijana.lzmk.hr/" target="_blank" rel="noopener noreferrer">Krležijana</a></p>
+<p style="padding-left: 200px;"><a title="Medicinski leksikon" href="http://medicinski.lzmk.hr/" target="_blank" rel="noopener noreferrer">Medicinski leksikon</a></p>
+<p style="padding-left: 200px;"><a title="Nogometni leksikon" href="http://nogomet.lzmk.hr/" target="_blank" rel="noopener noreferrer">Nogometni leksikon</a></p>
+<p style="padding-left: 200px;"><a title="Pomorski leksikon" href="http://pomorski.lzmk.hr/" target="_blank" rel="noopener noreferrer">Pomorski leksikon</a></p>
+<p style="padding-left: 200px;"><a href="https://tehnicki.lzmk.hr/" target="_blank" rel="noopener noreferrer">Tehnički leksikon</a></p>
+<p> </p>
+<p style="padding-left: 200px;"><strong>Ostala izdanja</strong></p>
+<p style="padding-left: 200px;"><a href="http://bibliografija.lzmk.hr/" target="_blank" rel="noopener noreferrer">Bibliografija izdanja Leksikografskoga zavoda Miroslav Krleža</a></p>
+<p style="padding-left: 200px;"><a title="Digitalizirani katalog" href="http://katalog.lzmk.hr/" target="_blank" rel="noopener noreferrer">Digitalizirani katalog</a></p>
+<p style="padding-left: 200px;"><a title="Hrvatska – zemlja i ljudi" href="http://www.croatia.eu/" target="_blank" rel="noopener noreferrer">Hrvatska – zemlja i ljudi</a></p>
+<p style="padding-left: 200px;"><a href="https://egzonimi.lzmk.hr" target="_blank" rel="noopener noreferrer">Hrvatski egzonimi</a></p>
+<p style="padding-left: 200px;"><a title="Leksikon Marina Držića mrežno izdanje" href="http://muzej-marindrzic.eu/leksikon-marina-drzica-online-izdanje-lmzk-i-dmd/" target="_blank" rel="noopener noreferrer">Leksikon Marina Držića</a></p>
+<p style="padding-left: 200px;"><a href="http://zbl.lzmk.hr/" target="_blank" rel="noopener noreferrer">Židovski biografski leksikon</a></p>
+<p> </p>
+<p style="padding-left: 200px;"><strong>Časopisi i zbornici</strong></p>
+<p style="padding-left: 200px;"><a title="Studia lexicographica" href="http://studialexicographica.lzmk.hr/index.php/sl/index" target="_blank" rel="noopener noreferrer">Studia lexicographica</a></p>
+<p style="padding-left: 200px;"><a href="https://localhost/lzmk/lzmk/projekti/radovi-lzmk" hreflang="hr">Radovi Leksikografskoga zavoda Miroslav Krleža</a></p>]]></description>
+			<category>Online izdanja</category>
+			<pubDate>Mon, 03 Jul 2017 13:26:11 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

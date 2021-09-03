@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hr-hr">
+	<title type="text">Atlasi</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/izdanja/atlasi/16-izdanja/online-izdanja</id>
+	<updated>2021-09-02T15:12:29+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/izdanja/atlasi/16-izdanja/online-izdanja?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Online izdanja</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/online-izdanja"/>
+		<published>2017-07-03T13:26:11+02:00</published>
+		<updated>2017-07-03T13:26:11+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/online-izdanja</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;strong&gt;Enciklopedije i leksikoni&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Hrvatska enciklopedija&quot; href=&quot;http://www.enciklopedija.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatska enciklopedija&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;https://tehnika.lzmk.hr/&quot;&gt;Portal hrvatske tehničke baštine&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Proleksis enciklopedija&quot; href=&quot;http://proleksis.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Proleksis enciklopedija&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;strong&gt;Izdanja na &lt;a href=&quot;http://enciklopedija.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Portalu znanja&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;http://filmska.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Filmska enciklopedija&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Filmski leksikon&quot; href=&quot;http://film.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Filmski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Hrvatski biografski leksikon&quot; href=&quot;http://hbl.lzmk.hr/&quot;&gt;Hrvatski biografski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Hrvatski obiteljski leksikon&quot; href=&quot;http://hol.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatski obiteljski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Istarska enciklopedija&quot; href=&quot;http://istra.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Istarska enciklopedija&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Krležijana&quot; href=&quot;http://krlezijana.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Krležijana&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Medicinski leksikon&quot; href=&quot;http://medicinski.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Medicinski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Nogometni leksikon&quot; href=&quot;http://nogomet.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Nogometni leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Pomorski leksikon&quot; href=&quot;http://pomorski.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Pomorski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;https://tehnicki.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Tehnički leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;strong&gt;Ostala izdanja&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;http://bibliografija.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Bibliografija izdanja Leksikografskoga zavoda Miroslav Krleža&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Digitalizirani katalog&quot; href=&quot;http://katalog.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Digitalizirani katalog&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Hrvatska – zemlja i ljudi&quot; href=&quot;http://www.croatia.eu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatska – zemlja i ljudi&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;https://egzonimi.lzmk.hr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatski egzonimi&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Leksikon Marina Držića mrežno izdanje&quot; href=&quot;http://muzej-marindrzic.eu/leksikon-marina-drzica-online-izdanje-lmzk-i-dmd/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Leksikon Marina Držića&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;http://zbl.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Židovski biografski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;strong&gt;Časopisi i zbornici&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Studia lexicographica&quot; href=&quot;http://studialexicographica.lzmk.hr/index.php/sl/index&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Studia lexicographica&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=158&amp;amp;catid=33&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;Radovi Leksikografskoga zavoda Miroslav Krleža&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;strong&gt;Enciklopedije i leksikoni&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Hrvatska enciklopedija&quot; href=&quot;http://www.enciklopedija.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatska enciklopedija&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;https://tehnika.lzmk.hr/&quot;&gt;Portal hrvatske tehničke baštine&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Proleksis enciklopedija&quot; href=&quot;http://proleksis.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Proleksis enciklopedija&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;strong&gt;Izdanja na &lt;a href=&quot;http://enciklopedija.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Portalu znanja&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;http://filmska.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Filmska enciklopedija&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Filmski leksikon&quot; href=&quot;http://film.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Filmski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Hrvatski biografski leksikon&quot; href=&quot;http://hbl.lzmk.hr/&quot;&gt;Hrvatski biografski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Hrvatski obiteljski leksikon&quot; href=&quot;http://hol.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatski obiteljski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Istarska enciklopedija&quot; href=&quot;http://istra.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Istarska enciklopedija&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Krležijana&quot; href=&quot;http://krlezijana.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Krležijana&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Medicinski leksikon&quot; href=&quot;http://medicinski.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Medicinski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Nogometni leksikon&quot; href=&quot;http://nogomet.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Nogometni leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Pomorski leksikon&quot; href=&quot;http://pomorski.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Pomorski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;https://tehnicki.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Tehnički leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;strong&gt;Ostala izdanja&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;http://bibliografija.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Bibliografija izdanja Leksikografskoga zavoda Miroslav Krleža&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Digitalizirani katalog&quot; href=&quot;http://katalog.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Digitalizirani katalog&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Hrvatska – zemlja i ljudi&quot; href=&quot;http://www.croatia.eu/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatska – zemlja i ljudi&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;https://egzonimi.lzmk.hr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatski egzonimi&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Leksikon Marina Držića mrežno izdanje&quot; href=&quot;http://muzej-marindrzic.eu/leksikon-marina-drzica-online-izdanje-lmzk-i-dmd/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Leksikon Marina Držića&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;http://zbl.lzmk.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Židovski biografski leksikon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;strong&gt;Časopisi i zbornici&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a title=&quot;Studia lexicographica&quot; href=&quot;http://studialexicographica.lzmk.hr/index.php/sl/index&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Studia lexicographica&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;padding-left: 200px;&quot;&gt;&lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=158&amp;amp;catid=33&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;Radovi Leksikografskoga zavoda Miroslav Krleža&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Online izdanja" />
+	</entry>
+</feed>

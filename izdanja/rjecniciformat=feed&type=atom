@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hr-hr">
+	<title type="text">Rječnici</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/izdanja/rjecnici</id>
+	<updated>2021-09-02T14:57:39+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/izdanja/rjecnici?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Hrvatski egzonimi II.</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/rjecnici/491-hrvatski-egzonimi-ii"/>
+		<published>2018-11-12T13:57:07+01:00</published>
+		<updated>2018-11-12T13:57:07+01:00</updated>
+		<id>https://localhost/lzmk/izdanja/rjecnici/491-hrvatski-egzonimi-ii</id>
+		<author>
+			<name>Cvijeta Kraus</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/Hrvatski-egzonimi-II.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Nakon priručnika &lt;em&gt;Hrvatski egzonimi I.,&lt;/em&gt; u kojem se donose preporučena imena država, pripadnih glavnih gradova i ovisnih područja te iz njih neki izvedeni oblici riječi, objavljen je i drugi priručnik o hrvatskim egzonimima. &lt;em&gt;Hrvatski egzonimi II. &lt;/em&gt;popis je preporučenih suvremenih i povijesnih egzonima svih zemljopisnih objekata (države, gradovi, ovisna područja, regije, rijeke, planine, jezera, naselja, mora, oceani, zaljevi i dr.).&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/491-hrvatski-egzonimi-ii&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/Hrvatski-egzonimi-II.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Nakon priručnika &lt;em&gt;Hrvatski egzonimi I.,&lt;/em&gt; u kojem se donose preporučena imena država, pripadnih glavnih gradova i ovisnih područja te iz njih neki izvedeni oblici riječi, objavljen je i drugi priručnik o hrvatskim egzonimima. &lt;em&gt;Hrvatski egzonimi II. &lt;/em&gt;popis je preporučenih suvremenih i povijesnih egzonima svih zemljopisnih objekata (države, gradovi, ovisna područja, regije, rijeke, planine, jezera, naselja, mora, oceani, zaljevi i dr.).&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/491-hrvatski-egzonimi-ii&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Rječnici" />
+	</entry>
+	<entry>
+		<title>Hrvatski egzonimi I.</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/rjecnici/104-hrvatski-egzonimi-i"/>
+		<published>2017-07-18T09:38:26+02:00</published>
+		<updated>2017-07-18T09:38:26+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/rjecnici/104-hrvatski-egzonimi-i</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/hrvatski egzonimi.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Hrvatski su egzonimi udomaćena (prilagođena) zemljopisna imena stranih zemljopisnih objekata koja se razlikuju od izvornih imena. Većina hrvatskih imena država te mnoga imena pripadnih glavnih gradova i ovisnih područja su egzonimi..&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/104-hrvatski-egzonimi-i&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/hrvatski egzonimi.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Hrvatski su egzonimi udomaćena (prilagođena) zemljopisna imena stranih zemljopisnih objekata koja se razlikuju od izvornih imena. Većina hrvatskih imena država te mnoga imena pripadnih glavnih gradova i ovisnih područja su egzonimi..&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/104-hrvatski-egzonimi-i&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Rječnici" />
+	</entry>
+	<entry>
+		<title>Hrvatski mjesni rječnik</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/rjecnici/105-hrvatski-mjesni-rjecnik"/>
+		<published>2017-07-18T09:38:57+02:00</published>
+		<updated>2017-07-18T09:38:57+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/rjecnici/105-hrvatski-mjesni-rjecnik</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/hrvatski mjesni rjecnik.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Hrvatski mjesni rječnik suvremeni je imenik naseljenih mjesta (ekonima) s pridruženim imenima njihovih stanovnika (etnicima) i odnosnim pridjevima (kteticima) te pridjevima izvedenim od imena samih naselja, prvi takve vrste u nas. Opseg i službeni oblici imena naselja usklađeni su s podatcima iz Zakona o područjima županija, gradova i općina u Republici Hrvatskoj te njegovim ispravcima, izmjenama i dopunama.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/105-hrvatski-mjesni-rjecnik&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/hrvatski mjesni rjecnik.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Hrvatski mjesni rječnik suvremeni je imenik naseljenih mjesta (ekonima) s pridruženim imenima njihovih stanovnika (etnicima) i odnosnim pridjevima (kteticima) te pridjevima izvedenim od imena samih naselja, prvi takve vrste u nas. Opseg i službeni oblici imena naselja usklađeni su s podatcima iz Zakona o područjima županija, gradova i općina u Republici Hrvatskoj te njegovim ispravcima, izmjenama i dopunama.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/105-hrvatski-mjesni-rjecnik&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Rječnici" />
+	</entry>
+	<entry>
+		<title>Osmojezični enciklopedijski rječnik</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/rjecnici/106-osmojezicni-enciklopedijski-rjecnik"/>
+		<published>2017-07-18T09:40:12+02:00</published>
+		<updated>2017-07-18T09:40:12+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/rjecnici/106-osmojezicni-enciklopedijski-rjecnik</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/osmojezicni enciklopedijski rjecnik mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Osmojezični enciklopedijski rječnik jedinstven je u modernoj epohi, premda su takvi višejezični rječnici u rastu europske kulture, u humanističko doba, imali formativan utjecaj.&lt;br /&gt;Sada je snalaženje u naslijeđu u govornoj praksi modernih jezika još zahtjevnije, pa izvedba rječnika uz dokumentacijsko i leksikografsko umijeće stručnjaka podrazumijeva prepoznatljivu središnju uredničku svijest.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/106-osmojezicni-enciklopedijski-rjecnik&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/osmojezicni enciklopedijski rjecnik mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Osmojezični enciklopedijski rječnik jedinstven je u modernoj epohi, premda su takvi višejezični rječnici u rastu europske kulture, u humanističko doba, imali formativan utjecaj.&lt;br /&gt;Sada je snalaženje u naslijeđu u govornoj praksi modernih jezika još zahtjevnije, pa izvedba rječnika uz dokumentacijsko i leksikografsko umijeće stručnjaka podrazumijeva prepoznatljivu središnju uredničku svijest.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/106-osmojezicni-enciklopedijski-rjecnik&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Rječnici" />
+	</entry>
+	<entry>
+		<title>Enciklopedijski rječnik humanog i veterinarskog medicinskog nazivlja</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/rjecnici/103-enciklopedijski-rjecnik-humanog-i-veterinarskog-medicinskog-nazivlja"/>
+		<published>2017-07-18T09:37:54+02:00</published>
+		<updated>2017-07-18T09:37:54+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/rjecnici/103-enciklopedijski-rjecnik-humanog-i-veterinarskog-medicinskog-nazivlja</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/enciklopedijski rjecnik humanog i veterinarskog medicinskog nazivlja mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Enciklopedijski rječnik humanog i veterinarskog medicinskog nazivlja važan je za dosljednost i točnost strukovnog jezika. Latinski i grčki izvori osigurali su medicinskoj terminologiji međunarodni značaj, no usporedno se razvijala i terminologija na narodnim jezicima. Iako se u nas sustavno prikupljanje medicinskog nazivlja u znatnom opsegu razvilo potkraj XIX. st., u tom je području vladala praznina sve do zahtjevnoga projekta pokrenuta u suradnji s Hrvatskom akademijom znanosti i umjetnosti.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/103-enciklopedijski-rjecnik-humanog-i-veterinarskog-medicinskog-nazivlja&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/enciklopedijski rjecnik humanog i veterinarskog medicinskog nazivlja mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Enciklopedijski rječnik humanog i veterinarskog medicinskog nazivlja važan je za dosljednost i točnost strukovnog jezika. Latinski i grčki izvori osigurali su medicinskoj terminologiji međunarodni značaj, no usporedno se razvijala i terminologija na narodnim jezicima. Iako se u nas sustavno prikupljanje medicinskog nazivlja u znatnom opsegu razvilo potkraj XIX. st., u tom je području vladala praznina sve do zahtjevnoga projekta pokrenuta u suradnji s Hrvatskom akademijom znanosti i umjetnosti.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/rjecnici/103-enciklopedijski-rjecnik-humanog-i-veterinarskog-medicinskog-nazivlja&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Rječnici" />
+	</entry>
+</feed>

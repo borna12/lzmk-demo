@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hr-hr">
+	<title type="text">Vodiči</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/izdanja/vodici</id>
+	<updated>2021-09-02T14:57:40+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/izdanja/vodici?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Hrvatska: zemlja i ljudi II. izdanje</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/vodici/528-hrvatska-zemlja-i-ljudi-ii-izdanje"/>
+		<published>2020-03-05T12:13:20+01:00</published>
+		<updated>2020-03-05T12:13:20+01:00</updated>
+		<id>https://localhost/lzmk/izdanja/vodici/528-hrvatska-zemlja-i-ljudi-ii-izdanje</id>
+		<author>
+			<name>Senka</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/hrvatska_zemlja_i_ljudi_web2020.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Drugo, ažurirano i dopunjeno, izdanje enciklopedijske monografije &lt;em&gt;Hrvatska: zemlja i ljudi&lt;/em&gt; pripremljeno je povodom hrvatskoga predsjedanja Vijećem Europske unije. Pripremajući se za preuzimanje te odgovorne zadaće, Hrvatska se ponovo željela svim zainteresiranima cjelovito predstaviti sažetim informacijama o zemljopisu, povijesti, političkom ustroju, stanovništvu, gospodarstvu, kulturi i društvu te o stoljetnim vezama Hrvatske i drugih europskih zemalja i naroda s kojima je dolazila u dodir.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/528-hrvatska-zemlja-i-ljudi-ii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/hrvatska_zemlja_i_ljudi_web2020.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Drugo, ažurirano i dopunjeno, izdanje enciklopedijske monografije &lt;em&gt;Hrvatska: zemlja i ljudi&lt;/em&gt; pripremljeno je povodom hrvatskoga predsjedanja Vijećem Europske unije. Pripremajući se za preuzimanje te odgovorne zadaće, Hrvatska se ponovo željela svim zainteresiranima cjelovito predstaviti sažetim informacijama o zemljopisu, povijesti, političkom ustroju, stanovništvu, gospodarstvu, kulturi i društvu te o stoljetnim vezama Hrvatske i drugih europskih zemalja i naroda s kojima je dolazila u dodir.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/528-hrvatska-zemlja-i-ljudi-ii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Vodiči" />
+	</entry>
+	<entry>
+		<title>Hrvatska: zemlja i ljudi I. izdanje</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/vodici/129-hrvatska-zemlja-i-ljudi"/>
+		<published>2017-07-18T10:01:11+02:00</published>
+		<updated>2017-07-18T10:01:11+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/vodici/129-hrvatska-zemlja-i-ljudi</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/hrvatska zemlja i ljudi_web.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Publikacija Hrvatska: zemlja i ljudi pripremljena je u suradnji s Ministarstvom vanjskih i europskih poslova RH povodom ulaska Hrvatske u Europsku uniju. Namijenjena je ponajprije mnogoljudnoj publici ostalih zemalja članica, svima onima koji će poželjeti ili zatrebati informacija o novoj članici. Stoga je pripremljena u nekoliko jezičnih inačica. Kao svojevrsna „osobna iskaznica“ ona na sažet i pregledan način donosi najvažnije informacije o zemljopisu, povijesti, političkom ustroju, stanovništvu, gospodarstvu, kulturi i društvu.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/129-hrvatska-zemlja-i-ljudi&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/hrvatska zemlja i ljudi_web.jpg&quot; alt=&quot;&quot; width=&quot;125&quot; height=&quot;170&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Publikacija Hrvatska: zemlja i ljudi pripremljena je u suradnji s Ministarstvom vanjskih i europskih poslova RH povodom ulaska Hrvatske u Europsku uniju. Namijenjena je ponajprije mnogoljudnoj publici ostalih zemalja članica, svima onima koji će poželjeti ili zatrebati informacija o novoj članici. Stoga je pripremljena u nekoliko jezičnih inačica. Kao svojevrsna „osobna iskaznica“ ona na sažet i pregledan način donosi najvažnije informacije o zemljopisu, povijesti, političkom ustroju, stanovništvu, gospodarstvu, kulturi i društvu.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/129-hrvatska-zemlja-i-ljudi&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Vodiči" />
+	</entry>
+	<entry>
+		<title>Nautički vodič Jadrana III. izdanje</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/vodici/135-nauticki-vodic-jadrana-iii-izdanje"/>
+		<published>2017-07-18T10:05:36+02:00</published>
+		<updated>2017-07-18T10:05:36+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/vodici/135-nauticki-vodic-jadrana-iii-izdanje</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/nauticki vodic jadrana.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Godina izdanja: 1990.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/135-nauticki-vodic-jadrana-iii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/nauticki vodic jadrana.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Godina izdanja: 1990.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/135-nauticki-vodic-jadrana-iii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Vodiči" />
+	</entry>
+	<entry>
+		<title>Nautički vodič Jadrana II. izdanje</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/vodici/134-nauticki-vodic-jadrana-ii-izdanje"/>
+		<published>2017-07-18T10:05:00+02:00</published>
+		<updated>2017-07-18T10:05:00+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/vodici/134-nauticki-vodic-jadrana-ii-izdanje</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/nauticki vodic jadrana.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Godina izdanja: 1986.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/134-nauticki-vodic-jadrana-ii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/nauticki vodic jadrana.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Godina izdanja: 1986.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/134-nauticki-vodic-jadrana-ii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Vodiči" />
+	</entry>
+	<entry>
+		<title>Croatia – Tourist Guide – CD-ROM</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/vodici/127-croatia-tourist-guide-cd-rom"/>
+		<published>2017-07-18T09:59:50+02:00</published>
+		<updated>2017-07-18T09:59:50+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/vodici/127-croatia-tourist-guide-cd-rom</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/hrvatska turisticki vodic cd.jpg&quot; width=&quot;125&quot; height=&quot;105&quot; /&gt;Godina izdanja: 1998.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/127-croatia-tourist-guide-cd-rom&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/hrvatska turisticki vodic cd.jpg&quot; width=&quot;125&quot; height=&quot;105&quot; /&gt;Godina izdanja: 1998.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/vodici/127-croatia-tourist-guide-cd-rom&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Vodiči" />
+	</entry>
+</feed>

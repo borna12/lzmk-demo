@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Knjižica sažetaka</title>
+		<description><![CDATA[]]></description>
+		<link>https://localhost/lzmk/79-programska-knjizica</link>
+		<lastBuildDate>Thu, 02 Sep 2021 15:03:27 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://localhost/lzmk/enciklopedika-2020/programska-knjizica/79-programska-knjizica?format=feed&amp;type=rss"/>
+		<language>hr-hr</language>
+		<item>
+			<title>Knjižica sažetaka</title>
+			<link>https://localhost/lzmk/enciklopedika-2020/programska-knjizica</link>
+			<guid isPermaLink="true">https://localhost/lzmk/enciklopedika-2020/programska-knjizica</guid>
+			<description><![CDATA[<p><a href="https://localhost/lzmk/images/Dokumenti/Programska_knjizica.pdf">Knjižica sažetaka.pdf</a></p>]]></description>
+			<category>Programska knjižica</category>
+			<pubDate>Thu, 08 Oct 2020 08:51:48 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

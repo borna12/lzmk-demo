@@ -1,0 +1,265 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article itemid-215 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/enciklopedika-2020/poziv" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Cvijeta Kraus" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Poziv</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/enciklopedika-2020/poziv" />
+
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+          	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Detalji							</dt>
+
+			
+			
+			
+										<dd class="published hasTooltip" title="Objavljeno: ">
+				<i class="icon-calendar"></i>
+				<time datetime="2020-10-23T11:07:31+02:00" itemprop="datePublished">
+					23 Listopad 2020				</time>
+			</dd>					
+					
+			
+										<dd class="hits">
+					<i class="fa fa-eye"></i>
+					<meta itemprop="interactionCount" content="UserPageVisits:929" />
+					Hitova: 929			</dd>						</dl>
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p style="text-align: center;"><img class="pull-center" src="/lzmk/images/slikeclanci/Enciklopedika2020_web.jpg" alt="" />Leksikografski zavod Miroslav Krleža</p>
+<p style="text-align: center;">organizira</p>
+<p style="text-align: center;"><strong>MEĐUNARODNI ZNANSTVENI SKUP</strong><br /> <strong>ENCIKLOPEDIKA 2020 – DOSEZI I IZAZOVI</strong></p>
+<p style="text-align: center;"><a href="/lzmk/en/encyclopedistics-2020" target="_blank" rel="noopener noreferrer"><strong>INTERNATIONAL CONFERENCE</strong></a><br /><a href="/lzmk/en/encyclopedistics-2020" target="_blank" rel="noopener noreferrer"> <strong>ENCYCLOPEDISTICS 2020 – ACHIEVEMENTS AND CHALLENGES</strong></a></p>
+<p style="text-align: justify;">U povodu obilježavanja 70. obljetnice osnutka, Leksikografski zavod Miroslav Krleža organizirao je međunarodni znanstveni skup <strong>Enciklopedika 2020 – dosezi i izazovi,</strong> koji se održao 15. i 16. listopada u Zagrebu.</p>
+<p style="text-align: justify;">Pozvani predavači:</p>
+<p style="text-align: justify;"><strong>Naja Bentzen</strong>, Ured za vezu Europskog parlamenta u Washingtonu, DC</p>
+<p style="text-align: justify;"><strong>Ranko Matasović</strong>, Hrvatska akademija znanosti i umjetnosti, Zagreb</p>
+<p style="text-align: justify;"><strong>Uri Nodelman</strong>, Stanford Encyclopedia of Philosophy</p>
+<p style="text-align: justify;"><strong>Toma Tasovac</strong>, DARIAH-EU, Berlin</p>
+<p style="text-align: justify;"><strong>Eveline Wandl-Vogt</strong>, Austrijska akademija znanosti, Beč</p>
+<p> </p>
+<p>Sedamdeseta obljetnica Leksikografskoga zavoda Miroslav Krleža, utemeljenoga 1950. na stoljetnoj baštini hrvatske enciklopedike i leksikografije, povod je za promišljanje dosadašnjih dosega, trenutačnoga stanja i (ne)predvidljive budućnosti enciklopedike u Hrvatskoj, Europi i svijetu. Okupljajući stručnjake, kako u enciklopedici i leksikografiji tako i u pojedinim znanstvenim granama, željeli bismo raspravljati u trima povezanim tematskim cjelinama, napose s obzirom na stanje i mogućnosti digitalne enciklopedike, pojedine struke i nazivlje te enciklopedičku obradbu životopisa, pri čemu navedenu podjelu na podrobnije smjernice valja shvatiti kao poticaj, a ne kao obvezu.</p>
+<p> </p>
+<p>Teme skupa bit će sljedeće:</p>
+<p><strong>a) </strong><strong>Digitalna enciklopedika i umreženo znanje:</strong></p>
+<ul>
+<li>Mrežne enciklopedije i ostala referentna djela</li>
+<li>Tematski portali</li>
+<li>Digitalizacija i povezivanje digitalnih izvora</li>
+<li>Multimedijski i interaktivni sadržaji</li>
+<li>Uloga digitalnih referentnih djela u znanosti i obrazovanju</li>
+<li>Organizacija, umrežavanje i diseminacija znanja</li>
+<li>Enciklopedika u doba rasta pristupačnosti informacija</li>
+<li>Digitalna leksikografija i digitalna humanistika</li>
+</ul>
+<p> </p>
+<p><strong>b) </strong><strong>Struke i nazivlje u enciklopedici i leksikografiji</strong></p>
+<ul>
+<li>Teorijske osnove (metode, pristupi, posebnosti)</li>
+<li>Zamisao i izvedba strukovnih enciklopedija</li>
+<li>Obradba pojedinih struka u općim/nacionalnim enciklopedijama</li>
+<li>Odabrane teme iz pojedinih struka</li>
+<li>Mikropedijski i makropedijski pristup</li>
+<li>Nazivlje između deskripcije i preskripcije</li>
+<li>Nazivlje između internacionalizma i purizma</li>
+<li>Nazivlje u dijakronijskoj perspektivi</li>
+</ul>
+<p> </p>
+<p><strong>c) </strong><strong>Biografija u enciklopedici</strong></p>
+<ul>
+<li>Koncepcije biografskih enciklopedija i leksikona</li>
+<li>Biografije u strukovnim, nacionalnim i općim enciklopedijama</li>
+<li>Biografija s obzirom na pojedine struke</li>
+<li>Problemi biografskog istraživanja i prezentacije</li>
+<li>Bibliografska sastavnica</li>
+</ul>
+<p> </p>
+<p>Sažetak (1000 do 1500 slovnih mjesta), na hrvatskom i engleskom jeziku (za strane izlagače, organizator će osigurati prijevod na hrvatski), zajedno sa životopisom (400 do 600 slovnih mjesta) pošaljite tajnici Organizacijskoga odbora, Ivi Klobučar Srbić (<span id="cloakb8c5dd23618f158b63d33271f3890139">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloakb8c5dd23618f158b63d33271f3890139').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyb8c5dd23618f158b63d33271f3890139 = '&#105;v&#97;.kl&#111;b&#117;c&#97;r' + '&#64;';
+				addyb8c5dd23618f158b63d33271f3890139 = addyb8c5dd23618f158b63d33271f3890139 + 'lzmk' + '&#46;' + 'hr';
+				var addy_textb8c5dd23618f158b63d33271f3890139 = '&#105;v&#97;.kl&#111;b&#117;c&#97;r' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloakb8c5dd23618f158b63d33271f3890139').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyb8c5dd23618f158b63d33271f3890139 + '\'>'+addy_textb8c5dd23618f158b63d33271f3890139+'<\/a>';
+		</script>; <span id="cloake2dc268da6a52c4f042d450f24997e52">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloake2dc268da6a52c4f042d450f24997e52').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addye2dc268da6a52c4f042d450f24997e52 = '&#101;nc&#105;kl&#111;p&#101;d&#105;k&#97;2020' + '&#64;';
+				addye2dc268da6a52c4f042d450f24997e52 = addye2dc268da6a52c4f042d450f24997e52 + 'lzmk' + '&#46;' + 'hr';
+				var addy_texte2dc268da6a52c4f042d450f24997e52 = '&#101;nc&#105;kl&#111;p&#101;d&#105;k&#97;2020' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloake2dc268da6a52c4f042d450f24997e52').innerHTML += '<a ' + path + '\'' + prefix + ':' + addye2dc268da6a52c4f042d450f24997e52 + '\'>'+addy_texte2dc268da6a52c4f042d450f24997e52+'<\/a>';
+		</script>), najkasnije<strong> do 1. srpnja 2020.</strong> O prihvaćanju sažetka izvijestit ćemo Vas do <strong>15. srpnja 2020.,</strong> a prihvaćeni sažetci tiskat će se u zasebnoj knjižici.</p>
+<p>Predviđeno je trajanje usmenoga izlaganja na hrvatskome ili engleskome jeziku 15 minuta. Radovi proizišli iz izlaganja koji se predaju <strong>do 1. ožujka 2021.</strong> objavit će se, nakon odgovarajućega recenzentskoga postupka, u tematskom broju znanstvenoga časopisa za leksikografiju i enciklopediku <em>Studia lexicographica</em> (<a href="http://studialexicographica.lzmk.hr/sl">http://studialexicographica.lzmk.hr/sl</a>).</p>
+<p>Sudionici su oslobođeni kotizacije, a troškove prijevoza i smještaja snose sami.</p>
+<p><strong>Organizacijski odbor:</strong> Ivana Crljenko, Vlatka Dugački, Filip Hameršak, Zdenko Jecić, Nataša Jermen, Iva Klobučar Srbić i Bruno Kragić</p>
+<p><strong>Programski odbor:</strong> Petra Bago, Vlaho Bogišić, Damir Boras, Irina Deretić, Peter Jordan, Stipe Kutleša, Janko Lozar, Nives Mikelić Preradović, Željko Pavić, Slaven Ravlić, Krešimir Regan, Hrvoje Stančić, Goran Sunajko, Domagoj Vidović i Antun Vujić</p>
+<p><strong>Tehnička potpora:</strong> Zdravko Pondelak, Cvijeta Kraus</p>
+<p><strong>Kontakt: </strong><span id="cloak81ea3cab3b9d0f50a6d4379762d8ec34">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloak81ea3cab3b9d0f50a6d4379762d8ec34').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy81ea3cab3b9d0f50a6d4379762d8ec34 = '&#101;nc&#105;kl&#111;p&#101;d&#105;k&#97;2020' + '&#64;';
+				addy81ea3cab3b9d0f50a6d4379762d8ec34 = addy81ea3cab3b9d0f50a6d4379762d8ec34 + 'lzmk' + '&#46;' + 'hr';
+				var addy_text81ea3cab3b9d0f50a6d4379762d8ec34 = '&#101;nc&#105;kl&#111;p&#101;d&#105;k&#97;2020' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak81ea3cab3b9d0f50a6d4379762d8ec34').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy81ea3cab3b9d0f50a6d4379762d8ec34 + '\'>'+addy_text81ea3cab3b9d0f50a6d4379762d8ec34+'<\/a>';
+		</script>; <span id="cloak178520999262224c3f5b854686befd07">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloak178520999262224c3f5b854686befd07').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy178520999262224c3f5b854686befd07 = '&#105;v&#97;.kl&#111;b&#117;c&#97;r' + '&#64;';
+				addy178520999262224c3f5b854686befd07 = addy178520999262224c3f5b854686befd07 + 'lzmk' + '&#46;' + 'hr';
+				var addy_text178520999262224c3f5b854686befd07 = '&#105;v&#97;.kl&#111;b&#117;c&#97;r' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak178520999262224c3f5b854686befd07').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy178520999262224c3f5b854686befd07 + '\'>'+addy_text178520999262224c3f5b854686befd07+'<\/a>';
+		</script></p> 	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

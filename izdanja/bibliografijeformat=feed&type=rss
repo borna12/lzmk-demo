@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Bibliografije</title>
+		<description><![CDATA[]]></description>
+		<link>https://localhost/lzmk/izdanja/bibliografije</link>
+		<lastBuildDate>Thu, 02 Sep 2021 14:57:41 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://localhost/lzmk/izdanja/bibliografije?format=feed&amp;type=rss"/>
+		<language>hr-hr</language>
+		<item>
+			<title>Bibliografija izdanja Leksikografskoga zavoda Miroslav Krleža (1950–2015)</title>
+			<link>https://localhost/lzmk/izdanja/bibliografije/139-bibliografija-izdanja-leksikografskoga-zavoda-miroslav-krleza-1950-2015</link>
+			<guid isPermaLink="true">https://localhost/lzmk/izdanja/bibliografije/139-bibliografija-izdanja-leksikografskoga-zavoda-miroslav-krleza-1950-2015</guid>
+			<description><![CDATA[<p><img src="https://localhost/lzmk/images/Izdanja/bibliografija izdanja lzmk_mala.jpg" alt="" width="125" height="170" class="pull-left" style="margin: 10px;" />U bibliografiji pronađite sva izdanja Zavoda, s temeljnim bibliografskim podatcima. Iznimka su mnogobrojna kartografska izdanja, od kojih su popisana samo najbitnija.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/izdanja/bibliografije/139-bibliografija-izdanja-leksikografskoga-zavoda-miroslav-krleza-1950-2015">Opširnije...</a></p>]]></description>
+			<category>Bibliografije</category>
+			<pubDate>Tue, 18 Jul 2017 10:09:10 +0200</pubDate>
+		</item>
+		<item>
+			<title>Bibliografija 16, 17 (kazalište 1-2) </title>
+			<link>https://localhost/lzmk/izdanja/bibliografije/138-bibliografija-16-17-kazaliste-1-2</link>
+			<guid isPermaLink="true">https://localhost/lzmk/izdanja/bibliografije/138-bibliografija-16-17-kazaliste-1-2</guid>
+			<description><![CDATA[<p><img class="pull-left" style="margin: 10px;" src="https://localhost/lzmk/images/Izdanja/bibliografija kazalista mala.jpg" width="125" height="170" />16. i 17. knjiga Bibliografije sadrže bibliografiju članaka i rasprava o kazalištu na području današnjih država Hrvatske i Bosne i Hercegovine, objavljenih od godine 1826. do 1945. u periodici obuhvaćenoj popisom koji su suradnici Leksikografskoga zavoda proveli u prvoj polovici 50-ih godina, kao i svih onih članaka i rasprava relevantnih za našu i bosansko-hercegovačku kazališnu kulturu objavljenih u toj periodici.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/izdanja/bibliografije/138-bibliografija-16-17-kazaliste-1-2">Opširnije...</a></p>]]></description>
+			<category>Bibliografije</category>
+			<pubDate>Tue, 18 Jul 2017 10:07:56 +0200</pubDate>
+		</item>
+		<item>
+			<title>Bibliografija rasprava i članaka (1-15)</title>
+			<link>https://localhost/lzmk/izdanja/bibliografije/140-bibliografija-rasprava-i-clanaka-1-15</link>
+			<guid isPermaLink="true">https://localhost/lzmk/izdanja/bibliografije/140-bibliografija-rasprava-i-clanaka-1-15</guid>
+			<description><![CDATA[<p><img src="https://localhost/lzmk/images/Izdanja/bibliografija kazaliste - rasprave mala.jpg" alt="" width="125" height="170" class="pull-left" style="margin: 10px;" />Bibliografija je niz od 15 enciklopedičkih svezaka u kojima je obrađen dio bogatoga bibliografskoga fonda Leksikografskoga zavoda, koji sadrži popis rasprava, članaka i književnih priloga objavljenih u više od 4000 novina, časopisa i drugih periodičnih publikacija od početaka periodike do 1945. godine.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/izdanja/bibliografije/140-bibliografija-rasprava-i-clanaka-1-15">Opširnije...</a></p>]]></description>
+			<category>Bibliografije</category>
+			<pubDate>Tue, 18 Jul 2017 10:10:44 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

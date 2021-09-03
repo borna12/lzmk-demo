@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hr-hr">
+	<title type="text">Atlasi</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/izdanja/atlasi</id>
+	<updated>2021-09-02T14:57:38+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/izdanja/atlasi?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Hrvatski povijesni atlas</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/atlasi/150-hrvatski-povijesni-atlas-ii-izdanje"/>
+		<published>2017-07-19T06:15:24+02:00</published>
+		<updated>2017-07-19T06:15:24+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/atlasi/150-hrvatski-povijesni-atlas-ii-izdanje</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/Hrvatski-povijesni-atlas.jpg&quot; alt=&quot;&quot; width=&quot;120&quot; height=&quot;175&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Temelj svakoga povijesnog atlasa jest zemljovid kao vjerna rekonstrukcija određenoga događaja u prostoru i vremenu, dobivena proučavanjem povijesnih izvora, starih karata, putopisa, toponomastike i ostataka materijalne kulture.&lt;/p&gt;
+&lt;p&gt;Drugo izdanje Hrvatskoga povijesnog atlasa Leksikografskoga zavoda Miroslav Krleža sadržava 176 velikih zemljovida, 4 manja zemljovida i 85 planova gradova.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/150-hrvatski-povijesni-atlas-ii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://localhost/lzmk/images/Izdanja/Hrvatski-povijesni-atlas.jpg&quot; alt=&quot;&quot; width=&quot;120&quot; height=&quot;175&quot; class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; /&gt;Temelj svakoga povijesnog atlasa jest zemljovid kao vjerna rekonstrukcija određenoga događaja u prostoru i vremenu, dobivena proučavanjem povijesnih izvora, starih karata, putopisa, toponomastike i ostataka materijalne kulture.&lt;/p&gt;
+&lt;p&gt;Drugo izdanje Hrvatskoga povijesnog atlasa Leksikografskoga zavoda Miroslav Krleža sadržava 176 velikih zemljovida, 4 manja zemljovida i 85 planova gradova.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/150-hrvatski-povijesni-atlas-ii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Atlasi" />
+	</entry>
+	<entry>
+		<title>One Hundred Croatian Archeological Sites</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/atlasi/117-one-hundred-croatian-archeological-sites"/>
+		<published>2017-07-18T09:50:32+02:00</published>
+		<updated>2017-07-18T09:50:32+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/atlasi/117-one-hundred-croatian-archeological-sites</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/one hundred archeological sites mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;One Hundred Croatian Archeological Sites is a clear and systematic guide to the archeological heritage of Croatia. The book arose at the suggestion of the Croatian Archaeological Society; including the contributions of about ninety experts and surveying the hundred most important archeological sites, it offers an overview of the material and intellectual culture on the territory of Croatia from Prehistory to the Middle Ages.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/117-one-hundred-croatian-archeological-sites&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/one hundred archeological sites mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;One Hundred Croatian Archeological Sites is a clear and systematic guide to the archeological heritage of Croatia. The book arose at the suggestion of the Croatian Archaeological Society; including the contributions of about ninety experts and surveying the hundred most important archeological sites, it offers an overview of the material and intellectual culture on the territory of Croatia from Prehistory to the Middle Ages.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/117-one-hundred-croatian-archeological-sites&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Atlasi" />
+	</entry>
+	<entry>
+		<title>Atlas svijeta VII. izdanje</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/atlasi/115-atlas-svijeta-vii-izdanje"/>
+		<published>2017-07-18T09:49:03+02:00</published>
+		<updated>2017-07-18T09:49:03+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/atlasi/115-atlas-svijeta-vii-izdanje</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/atlas svijeta omot 2006 mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Od objavljivanja prvog izdanja Atlasa svijeta do ovoga najnovijega sedmog izdanja politička karta svijeta znatno se promijenila. Sedmo izdanje Atlasa svijeta ima mnogobrojna faktografska i tehnička poboljšanja.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/115-atlas-svijeta-vii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/atlas svijeta omot 2006 mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Od objavljivanja prvog izdanja Atlasa svijeta do ovoga najnovijega sedmog izdanja politička karta svijeta znatno se promijenila. Sedmo izdanje Atlasa svijeta ima mnogobrojna faktografska i tehnička poboljšanja.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/115-atlas-svijeta-vii-izdanje&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Atlasi" />
+	</entry>
+	<entry>
+		<title>Stotinu hrvatskih arheoloških nalazišta</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/atlasi/118-stotinu-hrvatskih-arheoloskih-nalazista"/>
+		<published>2017-07-18T09:51:30+02:00</published>
+		<updated>2017-07-18T09:51:30+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/atlasi/118-stotinu-hrvatskih-arheoloskih-nalazista</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/stotinu hrvatskih arheoloskih nalazista mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Monografija Leksikografskoga zavoda nastala je na poticaj Hrvatskoga arheološkoga društva. Sustavan je i pregledan vodič kroz arheološku baštinu Hrvatske. Pruža pregled materijalne i duhovne kulture na području Hrvatske u razdoblju od prapovijesti do srednjega vijeka. Hrvatska arheološka baština predstavljena je kroz sedamsto spomenutih nalazišta, od kojih je podrobnije prikazano njih stotinu.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/118-stotinu-hrvatskih-arheoloskih-nalazista&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/stotinu hrvatskih arheoloskih nalazista mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Monografija Leksikografskoga zavoda nastala je na poticaj Hrvatskoga arheološkoga društva. Sustavan je i pregledan vodič kroz arheološku baštinu Hrvatske. Pruža pregled materijalne i duhovne kulture na području Hrvatske u razdoblju od prapovijesti do srednjega vijeka. Hrvatska arheološka baština predstavljena je kroz sedamsto spomenutih nalazišta, od kojih je podrobnije prikazano njih stotinu.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/118-stotinu-hrvatskih-arheoloskih-nalazista&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Atlasi" />
+	</entry>
+	<entry>
+		<title>Hrvatski povijesni atlas</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/izdanja/atlasi/116-hrvatski-povijesni-atlas"/>
+		<published>2017-07-18T09:49:40+02:00</published>
+		<updated>2017-07-18T09:49:40+02:00</updated>
+		<id>https://localhost/lzmk/izdanja/atlasi/116-hrvatski-povijesni-atlas</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/hrvatski povijesni atlas mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Hrvatski povijesni atlas sadrži 250 zemljovida i tekst u kojem je dan sažetak prapovijesnih i povijesnih razdoblja do ranoga srednjeg vijeka te hrvatske povijesti, prateći je do polovice XVI. st. prema područnoj razdiobi, a od polovice XVI. st. kao cjelinu s razdijelnom godinom 1918.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/116-hrvatski-povijesni-atlas&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img class=&quot;pull-left&quot; style=&quot;margin: 10px;&quot; src=&quot;https://localhost/lzmk/images/Izdanja/hrvatski povijesni atlas mala.jpg&quot; width=&quot;125&quot; height=&quot;170&quot; /&gt;Hrvatski povijesni atlas sadrži 250 zemljovida i tekst u kojem je dan sažetak prapovijesnih i povijesnih razdoblja do ranoga srednjeg vijeka te hrvatske povijesti, prateći je do polovice XVI. st. prema područnoj razdiobi, a od polovice XVI. st. kao cjelinu s razdijelnom godinom 1918.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/izdanja/atlasi/116-hrvatski-povijesni-atlas&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Atlasi" />
+	</entry>
+</feed>

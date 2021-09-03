@@ -1,0 +1,173 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article layout-default itemid-131 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/izdanja/bibliografije/39-izdanja/natuknice/320-osjet" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super User" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>osjet</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/izdanja/bibliografije/39-izdanja/natuknice/320-osjet" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/lzmk/izdanja/bibliografije/39-izdanja/natuknice/320-osjet" itemprop="url" title="osjet">
+				osjet</a>
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p>Iz natuknice Osjet<br />OSJET (čulni opažaj; lat. sensatio, engl. sensation, franc. sensation, tal. sensazione, njem. Empfindung ). Prilagođeno ponašanje čovjeka u promjenljivim okolnim prilikama omogućeno je u značajnoj mjeri podacima do kojih on dolazi s pomoću svojih osjetnih organa. Zbog strukturiranosti objektivnih procesa u okolini, informacije koje čovjek prima posredstvom svojih osjetnih organa integrirane su u složene perceptivne cjeline. Tek analizom takvih percepcija, u kojima se odrazuje organiziranost objektivnih zbilja, moguće je utvrditi da one uključuju i nizove elementarnijih procesa, koji se nazivaju osjetima.</p>
+ 
+<p>Osjeti su doživljaji koji nastaju djelovanjem objektivnih procesa na osjetne organe, a u čijem sadržaju održavaju više ili manje izolirana svojstva i osobitosti objektivnih struktura. Da dođe do osjeta, potrebno je da neki fizikalni ili kemijski proces u okolini ili u samom organizmu izazove određenu promjenu u perifernom dijelu osjetnog organa i da se ta promjena u obliku živčanog uzbuđenja proširi do senzornih područja u mozgovnoj kori. Čovjek posjeduje osjetne organe s pomoću kojih može neposredno osjetno reagirati na sve glavne i po život važne kategorije fizikalnih i kemijskih procesa. Ali postoje i takve vrste objektivnih zbivanja koje ne može direktno osjetno registrirati. Tako npr. čovjek ne posjeduje osjetne organe koji bi ga izravno obavješćivali o magnetskim promjenama u njegovoj okolini.<br />Različite kategorije fizikalnih i kemijskih procesa, za koje čovjek posjeduje osjetne organe, mogu izazvati osjete samo ako djeluju na receptore u određenim kvalitativnim i kvantitativnim granicama. Tako npr. elektromagnetski valovi izazivaju osjete vida samo u rasponu valnih dužina između 375 i 750 milimikrona; titraji molekula zraka ispod 16 ili između 20.000 na sek za nas su nečujni; mnoge kemijske tvari su bez okusa i vonja itd. Na sličan način, da bi neki objektivni proces mogao izazvati osjet, on treba da posjeduje i određeni intenzitet, da djeluje na osjetni organ kroz određeno minimalno vrijeme i da je – bar u nekim osjetnim područjima – njegova promjena dovoljno nagla. <br />Osjetni organi čovjeka rezultat su duge evolucije u toku koje su se, pod utjecajem određenih vrsta fizikalnih i kemijskih procesa, slabo diferencirani receptori razvili u diferencirane aparate posebno osjetljive za određene kategorije objektivnih procesa. Periferni dio receptora predstavljaju obično posebno građene osjetne stanice. Kod osobito razvijenih receptora, kao što su to npr. vidni i slušni receptori, osjetni receptivni sloj stanica grupiran je na jednome mjestu, a između toga osjetnog sloja i okoline postoje dodatni uređaji koji olakšavaju djelovanje one vrst fizikalnih procesa za koje je osjetni organ posebno udešen, i ujedno sprečavaju, odnosno otežavaju djelovanje drugih vrsta podražaja. Periferni dijelovi receptora u vezi su s aferentnim živčanim stanicama, preko kojih se promjene koje u povodu podražaja nastaju u receptivnim osjetnim stanicama, odvode u različite niže strukture centralnoga živčanog sustava u koru mozga. Osjetni organ u cjelini sastoji se od perifernog dijela, aferentnih vodova i kortikalnih centara.</p>	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

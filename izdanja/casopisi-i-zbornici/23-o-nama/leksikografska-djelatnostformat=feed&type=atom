@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hr-hr">
+	<title type="text">Časopisi i zbornici</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/izdanja/casopisi-i-zbornici/23-o-nama/leksikografska-djelatnost</id>
+	<updated>2021-09-02T15:10:16+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/izdanja/casopisi-i-zbornici/23-o-nama/leksikografska-djelatnost?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Leksikografska djelatnost</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/o-nama/leksikografska-djelatnost"/>
+		<published>2017-07-17T10:51:58+02:00</published>
+		<updated>2017-07-17T10:51:58+02:00</updated>
+		<id>https://localhost/lzmk/o-nama/leksikografska-djelatnost</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Temeljna znanstvena i stručna djelatnost Leksikografskog zavoda je leksikografska i enciklopedička djelatnost, a obavlja se u središnjem odjelu Zavoda – &lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=35&amp;amp;catid=21&quot;&gt;Leksikografskom odjelu&lt;/a&gt;, kojega najvećim dijelom čine leksikografi.&lt;/p&gt;
+&lt;p&gt;Leksikografski rad obuhvaća:&lt;/p&gt;
+&lt;p&gt;• prikupljanje, obradu i normiranje podataka pri strukturiranju leksikografskih jedinica i leksikografskih baza;&lt;/p&gt;
+&lt;p&gt;• oblikovanje i izradu enciklopedičkih i leksikografskih jedinica;&lt;/p&gt;
+&lt;p&gt;• usklađivanje enciklopedičkih i leksikografskih jedinica sa znanstveno-strukovnim spoznajama i njihovom leksikografskom interpretacijom;&lt;/p&gt;
+&lt;p&gt;• pripremanje i uređivanje enciklopedičkih i leksikografskih projekata;&lt;/p&gt;
+&lt;p&gt;• obavljanje znanstvenih istraživanja radi razvijanja znanstveno-strukovne osnove (istraživanje hrvatske građe u svjetskoj leksikografiji, istraživanje u pojedinom znanstvenom području radi normiranja hrvatskog znanstvenog nazivlja, istraživanje hrvatske biobibliografske baštine i dr.)&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Temeljna znanstvena i stručna djelatnost Leksikografskog zavoda je leksikografska i enciklopedička djelatnost, a obavlja se u središnjem odjelu Zavoda – &lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=35&amp;amp;catid=21&quot;&gt;Leksikografskom odjelu&lt;/a&gt;, kojega najvećim dijelom čine leksikografi.&lt;/p&gt;
+&lt;p&gt;Leksikografski rad obuhvaća:&lt;/p&gt;
+&lt;p&gt;• prikupljanje, obradu i normiranje podataka pri strukturiranju leksikografskih jedinica i leksikografskih baza;&lt;/p&gt;
+&lt;p&gt;• oblikovanje i izradu enciklopedičkih i leksikografskih jedinica;&lt;/p&gt;
+&lt;p&gt;• usklađivanje enciklopedičkih i leksikografskih jedinica sa znanstveno-strukovnim spoznajama i njihovom leksikografskom interpretacijom;&lt;/p&gt;
+&lt;p&gt;• pripremanje i uređivanje enciklopedičkih i leksikografskih projekata;&lt;/p&gt;
+&lt;p&gt;• obavljanje znanstvenih istraživanja radi razvijanja znanstveno-strukovne osnove (istraživanje hrvatske građe u svjetskoj leksikografiji, istraživanje u pojedinom znanstvenom području radi normiranja hrvatskog znanstvenog nazivlja, istraživanje hrvatske biobibliografske baštine i dr.)&lt;/p&gt;</content>
+		<category term="Leksikografska djelatnost" />
+	</entry>
+</feed>
