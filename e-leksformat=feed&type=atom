@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hr-hr">
+	<title type="text">e-Leks</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/e-leks</id>
+	<updated>2021-09-02T14:58:03+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/e-leks?format=feed&amp;type=atom"/>
+	<entry>
+		<title>e-Leks</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/e-leks/531-e-leks"/>
+		<published>2020-04-06T15:15:19+02:00</published>
+		<updated>2020-04-06T15:15:19+02:00</updated>
+		<id>https://localhost/lzmk/e-leks/531-e-leks</id>
+		<author>
+			<name>Cvijeta Kraus</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;E-Leks mrežna je platforma Leksikografskoga zavoda u sklopu koje će se objavljivati tekstovi o aktualnim događajima, znamenitim osobama i ostalim zanimljivostima, upućujući korisnike na izvore u svojim digitalnim izdanjima. Nadamo se da ćemo time korisnicima, posebno učenicima i studentima pružiti dodatnu pomoć u pronalaženju podataka i širenju znanja.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Uza zanimljive tekstove o pojavama i događajima koji su obilježili posljednje tjedne i dane (&lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=538&amp;amp;catid=64&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;COVID-19&lt;/a&gt;, &lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=536&amp;amp;catid=64&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;Cjepiva i serumi&lt;/a&gt;, &lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=548&amp;amp;catid=64&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;Epidemije&lt;/a&gt; i &lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=530&amp;amp;catid=64&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;Potresi i seizmologija&lt;/a&gt;) predstavljamo i područja koja se temelje na podjeli iz mrežnog izdanja &lt;strong&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://www.enciklopedija.hr/struke.aspx&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatske enciklopedije.&lt;/a&gt; &lt;/strong&gt;Svaka rubrika krije zanimljive tekstove o osobama, događajima i pojavama, pojmovima i učenjima, prostorima i krajevima. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;a title=&quot;Geografija&quot; href=&quot;https://localhost/lzmk/e-leks/geografija&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/geografija.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;th&gt;&lt;a title=&quot;Jezik i književnost&quot; href=&quot;https://localhost/lzmk/e-leks/jezik-i-knjizevnost&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/knjizevnost&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;th&gt;&lt;a title=&quot;Povijest i društvo&quot; href=&quot;https://localhost/lzmk/e-leks/povijest-i-drustvo&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/povijest_i_drustvo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/geografija&quot;&gt;Geografija&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/jezik-i-knjizevnost&quot;&gt;Jezik i književnost&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/povijest-i-drustvo&quot;&gt;Povijest i društvo&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;a title=&quot;Priroda i tehnika&quot; href=&quot;https://localhost/lzmk/e-leks/priroda-i-tehnika&quot; rel=&quot;author&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/priroda_i_tehnika.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;th&gt;&lt;a title=&quot;Umjetnost&quot; href=&quot;https://localhost/lzmk/e-leks/umjetnost&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/umjetnost.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;a title=&quot;Ostalo&quot; href=&quot;https://localhost/lzmk/e-leks/ostalo&quot;&gt;&lt;img src=&quot;https://localhost/lzmk/images/eleks/ostalo_new.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/priroda-i-tehnika&quot;&gt;Priroda i tehnika&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/umjetnost&quot;&gt;Umjetnost&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/ostalo&quot;&gt;Ostalo&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dijelite naše sadržaje i putem &lt;a href=&quot;https://www.facebook.com/lzmk.hr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Facebooka&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;E-Leks mrežna je platforma Leksikografskoga zavoda u sklopu koje će se objavljivati tekstovi o aktualnim događajima, znamenitim osobama i ostalim zanimljivostima, upućujući korisnike na izvore u svojim digitalnim izdanjima. Nadamo se da ćemo time korisnicima, posebno učenicima i studentima pružiti dodatnu pomoć u pronalaženju podataka i širenju znanja.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Uza zanimljive tekstove o pojavama i događajima koji su obilježili posljednje tjedne i dane (&lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=538&amp;amp;catid=64&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;COVID-19&lt;/a&gt;, &lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=536&amp;amp;catid=64&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;Cjepiva i serumi&lt;/a&gt;, &lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=548&amp;amp;catid=64&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;Epidemije&lt;/a&gt; i &lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=530&amp;amp;catid=64&amp;amp;lang=hr-HR&quot; hreflang=&quot;hr&quot;&gt;Potresi i seizmologija&lt;/a&gt;) predstavljamo i područja koja se temelje na podjeli iz mrežnog izdanja &lt;strong&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://www.enciklopedija.hr/struke.aspx&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatske enciklopedije.&lt;/a&gt; &lt;/strong&gt;Svaka rubrika krije zanimljive tekstove o osobama, događajima i pojavama, pojmovima i učenjima, prostorima i krajevima. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;a title=&quot;Geografija&quot; href=&quot;https://localhost/lzmk/e-leks/geografija&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/geografija.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;th&gt;&lt;a title=&quot;Jezik i književnost&quot; href=&quot;https://localhost/lzmk/e-leks/jezik-i-knjizevnost&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/knjizevnost&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;th&gt;&lt;a title=&quot;Povijest i društvo&quot; href=&quot;https://localhost/lzmk/e-leks/povijest-i-drustvo&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/povijest_i_drustvo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/geografija&quot;&gt;Geografija&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/jezik-i-knjizevnost&quot;&gt;Jezik i književnost&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/povijest-i-drustvo&quot;&gt;Povijest i društvo&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table class=&quot;table table-striped&quot;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;a title=&quot;Priroda i tehnika&quot; href=&quot;https://localhost/lzmk/e-leks/priroda-i-tehnika&quot; rel=&quot;author&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/priroda_i_tehnika.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;th&gt;&lt;a title=&quot;Umjetnost&quot; href=&quot;https://localhost/lzmk/e-leks/umjetnost&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;https://localhost/lzmk/images/eleks/umjetnost.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+&lt;th&gt;&lt;a title=&quot;Ostalo&quot; href=&quot;https://localhost/lzmk/e-leks/ostalo&quot;&gt;&lt;img src=&quot;https://localhost/lzmk/images/eleks/ostalo_new.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt; &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/priroda-i-tehnika&quot;&gt;Priroda i tehnika&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/umjetnost&quot;&gt;Umjetnost&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://localhost/lzmk/e-leks/ostalo&quot;&gt;Ostalo&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Dijelite naše sadržaje i putem &lt;a href=&quot;https://www.facebook.com/lzmk.hr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Facebooka&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</content>
+		<category term="eLeks" />
+	</entry>
+	<entry>
+		<title>COVID-19</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/e-leks/538-covid-19"/>
+		<published>2020-04-14T13:53:11+02:00</published>
+		<updated>2020-04-14T13:53:11+02:00</updated>
+		<id>https://localhost/lzmk/e-leks/538-covid-19</id>
+		<author>
+			<name>Senka</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Čovječanstvo će godine 2019. i 2020. nesumnjivo pamtiti. Zaboravili smo koliko su ljudskih života odnijele bolesti tijekom povijesti i kako epidemija lako može poremetiti krhku ravnotežu ljudskih zajednica na globalnoj razini.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Danas nam je svima jasno da svijet prolazi kroz velike promjene. Zašto? Što je prijetnja? Kako je moguće da se pojavi nova vrsta bolesti? Odakle je uzročnik došao? Na koji se način bolest širi? Možemo li predvidjeti stvarne opasnosti? Može li se i kako uzročnik bolesti prenijeti sa životinje na čovjeka? Kolika je stopa zaraze i što nam kliničke studije u ovome trenutku govore o mogućnosti zaustavljanja širenja bolesti? Odgovore na mnoga pitanja koja vas zanimaju potražite u mrežnom izdanju opće enciklopedije Leksikografskoga zavoda – &lt;strong&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://www.enciklopedija.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatskoj enciklopediji&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/e-leks/538-covid-19&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Čovječanstvo će godine 2019. i 2020. nesumnjivo pamtiti. Zaboravili smo koliko su ljudskih života odnijele bolesti tijekom povijesti i kako epidemija lako može poremetiti krhku ravnotežu ljudskih zajednica na globalnoj razini.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Danas nam je svima jasno da svijet prolazi kroz velike promjene. Zašto? Što je prijetnja? Kako je moguće da se pojavi nova vrsta bolesti? Odakle je uzročnik došao? Na koji se način bolest širi? Možemo li predvidjeti stvarne opasnosti? Može li se i kako uzročnik bolesti prenijeti sa životinje na čovjeka? Kolika je stopa zaraze i što nam kliničke studije u ovome trenutku govore o mogućnosti zaustavljanja širenja bolesti? Odgovore na mnoga pitanja koja vas zanimaju potražite u mrežnom izdanju opće enciklopedije Leksikografskoga zavoda – &lt;strong&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://www.enciklopedija.hr/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatskoj enciklopediji&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/e-leks/538-covid-19&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="eLeks" />
+	</entry>
+	<entry>
+		<title>Epidemije</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/e-leks/548-epidemije"/>
+		<published>2020-04-27T10:50:54+02:00</published>
+		<updated>2020-04-27T10:50:54+02:00</updated>
+		<id>https://localhost/lzmk/e-leks/548-epidemije</id>
+		<author>
+			<name>Senka</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;&lt;a style=&quot;color: #0000ff;&quot; href=&quot;https://enciklopedija.hr/Natuknica.aspx?ID=18092&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Epidemija&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt; je nagla pojava zarazne bolesti među većim brojem stanovnika određenoga područja. Kad se epidemija naglo proširi na više država ili kontinenata, naziva se pandemija. No zašto su epidemije u povijesti odigrale značajnu ulogu i kako dovode do ozbiljnih posljedica u društvu? Koje su epidemije ostavile najveći trag u kulturnom pamćenju i o čemu ovise? U &lt;strong&gt;&lt;span style=&quot;color: #8b2323;&quot;&gt;Hrvatskoj enciklopediji&lt;/span&gt;&lt;/strong&gt; na jednome su mjestu okupljene vrijedne povijesne i medicinske činjenice o epidemijama i njihovoj društvenoj percepciji.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/e-leks/548-epidemije&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;&lt;a style=&quot;color: #0000ff;&quot; href=&quot;https://enciklopedija.hr/Natuknica.aspx?ID=18092&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Epidemija&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt; je nagla pojava zarazne bolesti među većim brojem stanovnika određenoga područja. Kad se epidemija naglo proširi na više država ili kontinenata, naziva se pandemija. No zašto su epidemije u povijesti odigrale značajnu ulogu i kako dovode do ozbiljnih posljedica u društvu? Koje su epidemije ostavile najveći trag u kulturnom pamćenju i o čemu ovise? U &lt;strong&gt;&lt;span style=&quot;color: #8b2323;&quot;&gt;Hrvatskoj enciklopediji&lt;/span&gt;&lt;/strong&gt; na jednome su mjestu okupljene vrijedne povijesne i medicinske činjenice o epidemijama i njihovoj društvenoj percepciji.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/e-leks/548-epidemije&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="eLeks" />
+	</entry>
+	<entry>
+		<title>Cjepiva i serumi</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/e-leks/536-cjepiva-i-serumi"/>
+		<published>2020-04-07T09:49:22+02:00</published>
+		<updated>2020-04-07T09:49:22+02:00</updated>
+		<id>https://localhost/lzmk/e-leks/536-cjepiva-i-serumi</id>
+		<author>
+			<name>Senka</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Znate li od kada se u Hrvatskoj provode pokušaji cijepljenja? Kada je započeo javnozdravstveni program cijepljenja? Po čemu je vakcinacija dobila ime i tko je razvio cjepivo protiv bjesnoće? Po čemu je Imunološki zavod bio prvi u svijetu? U čemu je razlika između &lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;cjepiva&lt;/strong&gt;&lt;/span&gt; i &lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;seruma&lt;/strong&gt;&lt;/span&gt;? Detaljni povijesni prikaz razvoja cjepiva i seruma potražite na &lt;strong&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://tehnika.lzmk.hr/cjepiva-i-serumi/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Portalu hrvatske tehničke baštine&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/e-leks/536-cjepiva-i-serumi&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Znate li od kada se u Hrvatskoj provode pokušaji cijepljenja? Kada je započeo javnozdravstveni program cijepljenja? Po čemu je vakcinacija dobila ime i tko je razvio cjepivo protiv bjesnoće? Po čemu je Imunološki zavod bio prvi u svijetu? U čemu je razlika između &lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;cjepiva&lt;/strong&gt;&lt;/span&gt; i &lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;seruma&lt;/strong&gt;&lt;/span&gt;? Detaljni povijesni prikaz razvoja cjepiva i seruma potražite na &lt;strong&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://tehnika.lzmk.hr/cjepiva-i-serumi/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Portalu hrvatske tehničke baštine&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/e-leks/536-cjepiva-i-serumi&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="eLeks" />
+	</entry>
+	<entry>
+		<title>Potresi i seizmologija</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/e-leks/530-potresi-i-seizmologija"/>
+		<published>2020-04-06T15:13:37+02:00</published>
+		<updated>2020-04-06T15:13:37+02:00</updated>
+		<id>https://localhost/lzmk/e-leks/530-potresi-i-seizmologija</id>
+		<author>
+			<name>Cvijeta Kraus</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Zagreb su 9. studenoga 1880. i 22. ožujka 2020. godine pogodili najsnažniji potresi u posljednjih nekoliko stotina godina. Što su potresi? Mogu li se predvidjeti? Što je epicentar, a što hipocentar? Kako se šire potresni valovi i kako je definirana ljestvica magnituda? Mrežno izdanje &lt;strong&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://enciklopedija.hr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatske enciklopedije&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt; &lt;span style=&quot;font-size: 12pt;&quot;&gt;– opće enciklopedije koja je besplatno dostupna i komunikacijski otvorena svojim korisnicima – nudi odgovore na sva pitanja koja si postavljate o potresima, o opasnostima koje nose seizmičke aktivnosti našeg planeta i znanstvenim uvidima koji nam pomažu shvatiti prirodne zakonitosti kojima smo kao živa bića podložni.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/e-leks/530-potresi-i-seizmologija&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Zagreb su 9. studenoga 1880. i 22. ožujka 2020. godine pogodili najsnažniji potresi u posljednjih nekoliko stotina godina. Što su potresi? Mogu li se predvidjeti? Što je epicentar, a što hipocentar? Kako se šire potresni valovi i kako je definirana ljestvica magnituda? Mrežno izdanje &lt;strong&gt;&lt;a style=&quot;color: #8b2323;&quot; href=&quot;https://enciklopedija.hr&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hrvatske enciklopedije&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt; &lt;span style=&quot;font-size: 12pt;&quot;&gt;– opće enciklopedije koja je besplatno dostupna i komunikacijski otvorena svojim korisnicima – nudi odgovore na sva pitanja koja si postavljate o potresima, o opasnostima koje nose seizmičke aktivnosti našeg planeta i znanstvenim uvidima koji nam pomažu shvatiti prirodne zakonitosti kojima smo kao živa bića podložni.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/e-leks/530-potresi-i-seizmologija&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="eLeks" />
+	</entry>
+</feed>

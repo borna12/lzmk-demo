@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hr-hr">
+	<title type="text">Knjižara</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/knjizara</id>
+	<updated>2021-09-02T14:57:45+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/knjizara?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Knjižara</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/knjizara/8-knjizara"/>
+		<published>2017-06-30T10:28:30+02:00</published>
+		<updated>2017-06-30T10:28:30+02:00</updated>
+		<id>https://localhost/lzmk/knjizara/8-knjizara</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Zbog tehničkih problema trenutno nije dostupna online knjižara.&lt;/p&gt;
+&lt;p&gt;Sva naša izdanja možete pogledati&amp;nbsp;&lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=5&amp;amp;catid=10&quot;&gt;ovdje&lt;/a&gt;, a za narudžbe kontaktirajte našu knjižaru.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Knjižara Leksikografskoga zavoda Miroslav Krleža&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Frankopanska 24&lt;/p&gt;
+&lt;p&gt;10 000 Zagreb&lt;/p&gt;
+&lt;p&gt;Radno vrijeme: &lt;strong&gt;ponedjeljak – petak: 8.00 – 16.00 sati&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;tel. +385 1 4800 444; +385 1 4800 346; +385 1 4800 322; +385 1 4800 395&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:komercijala@lzmk.hr&quot;&gt;komercijala@lzmk.hr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nabavite naša izdanja - enciklopedije, rječnike, leksikone, bibliografije, atlase i vodiče po pristupačnim uvjetima: gotovinsko plaćanje kreditnim karticama na rate&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cjenici izdanja&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://localhost/lzmk/images/Cjenici/Cjenik_1572021.pdf&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;Cjenik 15.7.2021.pdf&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://localhost/lzmk/images/Cjenici/Cjenik_1572021rate.pdf&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;Cjenik 15.7.2021_rate.pdf&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://localhost/lzmk/images/Cjenici/Cjenik_1572021eur.pdf&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;Cjenik 15.7.2021_eur.pdf&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Zbog tehničkih problema trenutno nije dostupna online knjižara.&lt;/p&gt;
+&lt;p&gt;Sva naša izdanja možete pogledati&amp;nbsp;&lt;a href=&quot;https://localhost/lzmk/index.php?option=com_content&amp;amp;view=article&amp;amp;id=5&amp;amp;catid=10&quot;&gt;ovdje&lt;/a&gt;, a za narudžbe kontaktirajte našu knjižaru.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Knjižara Leksikografskoga zavoda Miroslav Krleža&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Frankopanska 24&lt;/p&gt;
+&lt;p&gt;10 000 Zagreb&lt;/p&gt;
+&lt;p&gt;Radno vrijeme: &lt;strong&gt;ponedjeljak – petak: 8.00 – 16.00 sati&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;tel. +385 1 4800 444; +385 1 4800 346; +385 1 4800 322; +385 1 4800 395&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:komercijala@lzmk.hr&quot;&gt;komercijala@lzmk.hr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nabavite naša izdanja - enciklopedije, rječnike, leksikone, bibliografije, atlase i vodiče po pristupačnim uvjetima: gotovinsko plaćanje kreditnim karticama na rate&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cjenici izdanja&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://localhost/lzmk/images/Cjenici/Cjenik_1572021.pdf&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;Cjenik 15.7.2021.pdf&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://localhost/lzmk/images/Cjenici/Cjenik_1572021rate.pdf&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;Cjenik 15.7.2021_rate.pdf&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://localhost/lzmk/images/Cjenici/Cjenik_1572021eur.pdf&quot; target=&quot;_blank&quot; rel=&quot;noreferrer&quot;&gt;Cjenik 15.7.2021_eur.pdf&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+		<category term="Knjižara" />
+	</entry>
+</feed>

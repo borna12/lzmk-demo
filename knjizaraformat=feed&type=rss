@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Knjižara</title>
+		<description><![CDATA[]]></description>
+		<link>https://localhost/lzmk/knjizara</link>
+		<lastBuildDate>Thu, 02 Sep 2021 14:57:45 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://localhost/lzmk/knjizara?format=feed&amp;type=rss"/>
+		<language>hr-hr</language>
+		<item>
+			<title>Knjižara</title>
+			<link>https://localhost/lzmk/knjizara/8-knjizara</link>
+			<guid isPermaLink="true">https://localhost/lzmk/knjizara/8-knjizara</guid>
+			<description><![CDATA[<p>Zbog tehničkih problema trenutno nije dostupna online knjižara.</p>
+<p>Sva naša izdanja možete pogledati&nbsp;<a href="https://localhost/lzmk/lzmk/izdanja">ovdje</a>, a za narudžbe kontaktirajte našu knjižaru.</p>
+<p>&nbsp;</p>
+<p><strong>Knjižara Leksikografskoga zavoda Miroslav Krleža</strong></p>
+<p>Frankopanska 24</p>
+<p>10 000 Zagreb</p>
+<p>Radno vrijeme: <strong>ponedjeljak – petak: 8.00 – 16.00 sati<br /></strong></p>
+<p>tel. +385 1 4800 444; +385 1 4800 346; +385 1 4800 322; +385 1 4800 395</p>
+<p><a href="mailto:komercijala@lzmk.hr">komercijala@lzmk.hr</a></p>
+<p>Nabavite naša izdanja - enciklopedije, rječnike, leksikone, bibliografije, atlase i vodiče po pristupačnim uvjetima: gotovinsko plaćanje kreditnim karticama na rate</p>
+<p>&nbsp;</p>
+<p><strong>Cjenici izdanja</strong></p>
+<p><a href="https://localhost/lzmk/images/Cjenici/Cjenik_1572021.pdf" target="_blank" rel="noreferrer">Cjenik 15.7.2021.pdf</a><br /><a href="https://localhost/lzmk/images/Cjenici/Cjenik_1572021rate.pdf" target="_blank" rel="noreferrer">Cjenik 15.7.2021_rate.pdf</a><br /><a href="https://localhost/lzmk/images/Cjenici/Cjenik_1572021eur.pdf" target="_blank" rel="noreferrer">Cjenik 15.7.2021_eur.pdf</a>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+			<category>Knjižara</category>
+			<pubDate>Fri, 30 Jun 2017 10:28:30 +0200</pubDate>
+		</item>
+	</channel>
+</rss>
