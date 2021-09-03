@@ -1,0 +1,213 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article layout-default itemid-196 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/e-leks/priroda-i-tehnika/553-svemirske-letjelice" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Senka" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Svemirske letjelice</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/e-leks/priroda-i-tehnika/553-svemirske-letjelice" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/lzmk/e-leks/priroda-i-tehnika/553-svemirske-letjelice" itemprop="url" title="Svemirske letjelice">
+				Svemirske letjelice</a>
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+          	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Detalji							</dt>
+
+			
+			
+										<dd class="category-name hasTooltip" title="Kategorija: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/lzmk/e-leks/priroda-i-tehnika" ><span itemprop="genre">Priroda i tehnika</span></a>							</dd>			
+										<dd class="published hasTooltip" title="Objavljeno: ">
+				<i class="icon-calendar"></i>
+				<time datetime="2020-05-14T10:39:48+02:00" itemprop="datePublished">
+					14 Svi 2020				</time>
+			</dd>					
+					
+			
+										<dd class="hits">
+					<i class="fa fa-eye"></i>
+					<meta itemprop="interactionCount" content="UserPageVisits:1111" />
+					Hitova: 1111			</dd>						</dl>
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p><span style="font-size: 12pt;"><span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=36201" target="_blank" rel="noopener noreferrer">Svemirske letjelice</a></strong></span> namijenjene su letu izvan Zemljine atmosfere, to jest u Zemljinoj orbiti, Sunčevu sustavu ili dalje u svemiru. Automatske svemirske letjelice nemaju posadu i namijenjene su obavljanju različitih znanstvenih i istraživačkih zadaća. Razlikuju se umjetni sateliti (gibaju se u orbiti oko <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=67110" target="_blank" rel="noopener noreferrer">Zemlje</a></span> ili drugih svemirskih tijela) i međuplanetarne letjelice (gibaju se putanjom među udaljenijim svemirskim tijelima). <strong><span style="color: #8b2323;"><a style="color: #8b2323;" href="https://enciklopedija.hr/" target="_blank" rel="noopener noreferrer">Hrvatska enciklopedija</a></span></strong> predstavlja nove članke o svemirskim letjelicama <strong><em><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70880" target="_blank" rel="noopener noreferrer">Pioneer</a></span></em></strong>,<strong><em> <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70878" target="_blank" rel="noopener noreferrer">Voyager 1</a></span></em></strong>, <strong><em><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70879" target="_blank" rel="noopener noreferrer">Voyager 2</a></span></em></strong>, <span style="color: #0000ff;"><strong><em><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70877" target="_blank" rel="noopener noreferrer">Galileo</a></em></strong></span>,<span style="color: #0000ff;"><em><strong><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70876" target="_blank" rel="noopener noreferrer"> Cassini-Huygens</a></strong></em></span> i <span style="color: #0000ff;"><strong><em><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70881" target="_blank" rel="noopener noreferrer">New Horizons</a></em></strong></span>.</span></p>
+ 
+<p><span style="font-size: 12pt;"><span style="color: #0000ff;"><strong><em><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70880" target="_blank" rel="noopener noreferrer">Pioneer</a></em></strong></span> su američke svemirske letjelice namijenjene istraživanju <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70882" target="_blank" rel="noopener noreferrer">heliosfere</a></span>, kozmičkoga zračenja, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=41315" target="_blank" rel="noopener noreferrer">Mjeseca</a></span> i planeta. Prva <em>Pioneer</em> letjelica lansirana je 1958., a posljednje - <em>Pioneer 12</em> i <em>Pioneer 13</em> - lansirane su 1978. Letjelice <em>Pioneer 10</em> i <em>Pioneer 11</em> u daleki svemir nose zlatne ploče sa slikovnom porukom pozdrava izvanzemaljskim bićima i informacijom o podrijetlu svemirske letjelice (položaju Zemlje u Sunčevu sustavu i položaju Sunčeva sustava u <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=21030" target="_blank" rel="noopener noreferrer">Mliječnoj stazi</a></span>). Posljednji kontakt s letjelicom <em>Pioneer 10</em> ostvaren je u siječnju 2003.</span></p>
+<p><span style="font-size: 12pt;"><span style="color: #0000ff;"><strong><em><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70878" target="_blank" rel="noopener noreferrer">Voyager 1</a></em></strong></span> je američka svemirska letjelica namijenjena istraživanju Jupitera i Saturna i prva svemirska letjelica koja je prešla <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=70883" target="_blank" rel="noopener noreferrer">heliopauzu</a></span> i ušla u međuzvjezdani prostor. Lansirana je 1977., pokraj Jupitera je proletjela 1979., a pokraj Saturna 1980. Nastavila se udaljavati od Sunca i 2012. prešla heliopauzu, rubno područje heliosfere. Letjelica nosi pozlaćeni audiovizualni disk koji sadrži simboličke upute za uporabu, objašnjenje položaja Sunca s pomoću najbližih pulsara, zvukove i fotografije kojima se prikazuje raznolikost života i kulture na Zemlji.</span></p>
+<p><span style="font-size: 12pt;"><span style="color: #0000ff;"><strong><em><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70879" target="_blank" rel="noopener noreferrer">Voyager 2</a></em></strong></span> je američka svemirska letjelica koja je prva proletjela pokraj <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=63293" target="_blank" rel="noopener noreferrer">Urana</a></span> i <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=43437" target="_blank" rel="noopener noreferrer">Neptuna</a></span>. Lansirana je 1977., pokraj Jupitera je proletjela 1979., pokraj Saturna 1981., pokraj Urana 1986., a pokraj Neptuna 1989. Nastavila se udaljavati od Sunca i heliopauzu prešla 2018. Otkrila je Jupiterove prstene i satelit <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=68417" target="_blank" rel="noopener noreferrer">Adrasteju</a></span>. Kao i letjelica <em>Voyager 1</em>, nosi pozlaćeni audiovizualni disk, za slučaj susreta s izvanzemaljskom inteligencijom.</span></p>
+<p> </p>
+<p><span style="font-size: 12pt;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/Planeti.jpg" width="350" /></span></p>
+<p> </p>
+<p><span style="font-size: 12pt;"><span style="color: #0000ff;"><strong><em><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70877" target="_blank" rel="noopener noreferrer">Galileo</a></em></strong></span> je američka svemirska letjelica koja se prva gibala u orbiti oko <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=29529" target="_blank" rel="noopener noreferrer">Jupitera</a></span>. Nazvana je po talijanskom fizičaru i astronomu <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=21093" target="_blank" rel="noopener noreferrer">Galileu Galileiju</a></span>. Lansirana je 1989., obišla je <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=64246" target="_blank" rel="noopener noreferrer">Veneru</a></span> i dva puta Zemlju, a u Jupiterovu atmosferu uletjela je 1995. Za gotovo osam godina obišla je Jupiter 35 puta i snimila njegovu atmosferu i površine četiriju najvećih satelita, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=18648" target="_blank" rel="noopener noreferrer">Europe</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=27007" target="_blank" rel="noopener noreferrer">Ije</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=68559" target="_blank" rel="noopener noreferrer">Ganimeda</a></span> i <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=29961" target="_blank" rel="noopener noreferrer">Kaliste</a></span>. U rujnu 2003. potrošeno je gorivo te je letjelica usmjerena u Jupiterovu atmosferu i uništena.</span></p>
+<p><span style="font-size: 12pt;"><span style="color: #0000ff;"><strong><em><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70876" target="_blank" rel="noopener noreferrer">Cassini-Huygens</a></em></strong></span> je američko-europska svemirska letjelica koja se prva gibala u orbiti oko <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=54704" target="_blank" rel="noopener noreferrer">Saturna</a></span>. Nazvana je po talijansko-francuskom astronomu i matematičaru <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=10958" target="_blank" rel="noopener noreferrer">Jean-Dominiqueu Cassiniju</a></span> i nizozemskom matematičaru, fizičaru i astronomu <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=26766" target="_blank" rel="noopener noreferrer">Christiaanu Huygensu</a></span>. Lansirana je 1997., a u Saturnovu orbitu ušla je 2004. Iste se godine njezina sonda spustila na najveći Saturnov satelit <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=61473" target="_blank" rel="noopener noreferrer">Titan</a></span> i snimila 350 fotografija njegove površine. U rujnu 2017. potrošeno je gorivo te je letjelica usmjerena u Saturnovu atmosferu i uništena.</span></p>
+<p><span style="font-size: 12pt;"><span style="color: #0000ff;"><strong><em><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70881" target="_blank" rel="noopener noreferrer">New Horizons</a></em></strong></span> je američka svemirska letjelica koja je prva proletjela pokraj <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=48829" target="_blank" rel="noopener noreferrer">Plutona</a></span>. Lansirana je u siječnju 2006., a u veljači 2007. prošla je pokraj Jupitera. U srpnju 2015. proletjela je pokraj Plutona i detaljno snimila atmosfere i površine Plutona i Plutonova satelita <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=24448" target="_blank" rel="noopener noreferrer">Harona</a></span>. Otkrila je da se četiri manja Plutonova satelita <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=70282" target="_blank" rel="noopener noreferrer">Stiks</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=68444" target="_blank" rel="noopener noreferrer">Nikta</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=70281" target="_blank" rel="noopener noreferrer">Kerber</a></span> i <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=70283" target="_blank" rel="noopener noreferrer">Hidra</a></span> vrte vrlo brzo, za razliku od većine drugih satelita u <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=58787" target="_blank" rel="noopener noreferrer">Sunčevu sustavu</a></span>. U siječnju 2019. proletjela je pokraj <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=70870" target="_blank" rel="noopener noreferrer">Arrokotha</a></span>, transneptunskoga tijela u <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=68329" target="_blank" rel="noopener noreferrer">Kuiperovu pojasu</a></span>.</span></p>
+<p> </p>
+<p><span style="font-size: 12pt;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/Zvjezdano_nebo.jpg" width="350" /></span></p>
+<p> </p>
+<p><span style="font-size: 12pt;">Ako vas zanima astronomija, u <strong><span style="color: #8b2323;"><a style="color: #8b2323;" href="https://enciklopedija.hr/struke.aspx?struka=ast" target="_blank" rel="noopener noreferrer">Hrvatskoj enciklopediji</a></span></strong> možete pročitati još mnoge zanimljivosti o <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=58981" target="_blank" rel="noopener noreferrer">svemiru</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=67551" target="_blank" rel="noopener noreferrer">zvijezdama</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=67553" target="_blank" rel="noopener noreferrer">zviježđima</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=21031" target="_blank" rel="noopener noreferrer">galaktikama</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=38018" target="_blank" rel="noopener noreferrer">maglicama</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=48577" target="_blank" rel="noopener noreferrer">planetima</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=70424" target="_blank" rel="noopener noreferrer">ekstrasolarnim planetima</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=50452" target="_blank" rel="noopener noreferrer">satelitima</a></span> i <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=32567" target="_blank" rel="noopener noreferrer">kometima</a></span>.<br /></span></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

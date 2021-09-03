@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Collections</title>
+		<description><![CDATA[]]></description>
+		<link>https://localhost/lzmk/en/about-us/collections</link>
+		<lastBuildDate>Thu, 02 Sep 2021 14:58:33 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://localhost/lzmk/en/about-us/collections?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Catalogue of the Retrospective Bibliography of Articles</title>
+			<link>https://localhost/lzmk/en/about-us/collections/457-catalogue-of-the-retrospective-bibliography-of-articles</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/about-us/collections/457-catalogue-of-the-retrospective-bibliography-of-articles</guid>
+			<description><![CDATA[<p>The Catalogue of the Retrospective Bibliography of Articles comprises 10,000.000 catalogue leaflets containing lists of articles from periodicals (newspapers, journals, collections) published on the area of Yugoslavia in the period from the end of the 18th century all through to the year 1945.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/en/about-us/collections/457-catalogue-of-the-retrospective-bibliography-of-articles">Read More ...</a></p>]]></description>
+			<category>Collections</category>
+			<pubDate>Mon, 28 Aug 2017 11:36:06 +0200</pubDate>
+		</item>
+		<item>
+			<title>Library and documentation</title>
+			<link>https://localhost/lzmk/en/about-us/collections/458-library-and-documentation</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/about-us/collections/458-library-and-documentation</guid>
+			<description><![CDATA[<p>The Library of the Institute of Lexicography comprises the Collection of Books with approximately 50,000 books and the Collection of periodicals with more than 1,300 various titles (journals and newspapers), whose structure is adapted to the needs of various fields of science. The most represented fields are those of literature, history and art.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/en/about-us/collections/458-library-and-documentation">Read More ...</a></p>]]></description>
+			<category>Collections</category>
+			<pubDate>Mon, 28 Aug 2017 11:36:30 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,201 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article layout-default itemid-196 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/e-leks/priroda-i-tehnika/568-nikola-tesla" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Senka" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Nikola Tesla</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/e-leks/priroda-i-tehnika/568-nikola-tesla" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/lzmk/e-leks/priroda-i-tehnika/568-nikola-tesla" itemprop="url" title="Nikola Tesla">
+				Nikola Tesla</a>
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+          	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Detalji							</dt>
+
+			
+			
+										<dd class="category-name hasTooltip" title="Kategorija: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/lzmk/e-leks/priroda-i-tehnika" ><span itemprop="genre">Priroda i tehnika</span></a>							</dd>			
+										<dd class="published hasTooltip" title="Objavljeno: ">
+				<i class="icon-calendar"></i>
+				<time datetime="2020-06-19T14:00:13+02:00" itemprop="datePublished">
+					19 Lipanj 2020				</time>
+			</dd>					
+					
+			
+										<dd class="hits">
+					<i class="fa fa-eye"></i>
+					<meta itemprop="interactionCount" content="UserPageVisits:3574" />
+					Hitova: 3574			</dd>						</dl>
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p><span style="font-size: 12pt;"><strong><span style="color: #8b2323;">Hrvatska enciklopedija</span></strong> objedinila je znanstvene i biografske spoznaje o <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=61021" target="_blank" rel="noopener noreferrer">Nikoli Tesli</a></strong></span>, slavnom izumitelju koji je pokazao da širina znanstvene misli i dubina znanstvenoga uvida može mijenjati svijet i pomicati granice. Glavnina njegovih izuma – drži se da ih je približno 700 – pripada širemu području <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=17676" target="_blank" rel="noopener noreferrer">elektrotehnike</a></span>, a neki su u primjeni i danas ili su pak osnova različitih tehničkih područja, postupaka i strojeva. Tesla je za svoje izume dobio mnoga priznanja i počasne doktorate. Autor je autobiografije pod nazivom <em>Moji pronalasci</em> <em>(My Inventions)</em>.</span></p>
+ 
+<p><span style="font-size: 12pt;">Tesla je rođen 1856. u <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=36503" target="_blank" rel="noopener noreferrer">Lici</a></span>, ali je gotovo cijeli život radio u <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=56303" target="_blank" rel="noopener noreferrer">Sjedinjenim Američkim Državama</a></span>, gdje je i ostvario sve izume. Ubrzo nakon školovanja odlazi u Budimpeštu, pa u Pariz te potom - u nastojanju da razvije zamišljeni sustav izmjeničnih <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=17572" target="_blank" rel="noopener noreferrer">struja</a></span> – odlazi u SAD. Ondje se zapošljava kod <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=17067" target="_blank" rel="noopener noreferrer">Thomasa Alve Edisona</a></span>, no ne nailazi na razumijevanje kad upozorava na nedostatke istosmjernoga <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=17584" target="_blank" rel="noopener noreferrer">elektromotora</a></span> i iznosi zamisli o isplativijem prijenosu izmjeničnih struja. Godine 1885. u New Yorku osniva vlastitu tvrtku Tesla Electric Light and Manufacturing Company, a ubrzo i novu tvrtku s laboratorijem – Tesla Electric Company. Nakon konstruiranja <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=21595" target="_blank" rel="noopener noreferrer">generatora</a></span> koji proizvodi višefaznu struju i elektromotora za izmjenične struje, američki industrijalac <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=66044" target="_blank" rel="noopener noreferrer">George Westinghouse</a></span> od Tesle otkupljuje sve patente o izmjeničnoj struji. </span><span style="font-size: 12pt;">O Teslinim izumima pišu sva svjetska glasila i on uskoro počinje držati predavanja diljem Amerike i Europe. Teslin sustav višefaznih električnih struja i njegovu električnu rasvjetu prikazala je tvrtka Westinghouse na Svjetskoj izložbi u Chicagu 1893., te je predložila Teslin sustav izmjeničnih struja za elektranu na slapovima <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=43689" target="_blank" rel="noopener noreferrer">Niagare</a></span>. Za nekoliko godina Teslin se sustav višefaznih izmjeničnih struja počeo rabiti u cijelome svijetu, a tijekom više od jednoga stoljeća u osnovi se nije promijenio.</span></p>
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/Tesla2.jpg" alt="" /><br /><br /><span style="font-size: 12pt;">Daljnja su istraživanja odvela Teslu u područje struja još viših <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=20569" target="_blank" rel="noopener noreferrer">frekvencija</a></span>, pri još višim <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=17586" target="_blank" rel="noopener noreferrer">naponima</a></span>. Radeći sa strujama visokih frekvencija, Tesla je otkrio, istražio i primijenio mnoge do tada nepoznate pojave i tako osnovao nove grane elektrotehnike. Visokofrekvencijske izmjenične struje primijenio je i za bežični prijenos <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=55879" target="_blank" rel="noopener noreferrer">signala</a></span> i <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=17932" target="_blank" rel="noopener noreferrer">energije</a></span>. U radu s visokofrekvencijskim strujama ustanovio je kako one i uz visoke napone nisu opasne za čovjeka, te je predvidio njihovu primjenu u liječenju. Daljnja su istraživanja Teslu navela na zamisao kako bi se s pomoću takvih snažnih visokofrekvencijskih elektromagnetskih polja mogla prenositi električna energija na velike udaljenosti bez upotrebe električnih <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=65134" target="_blank" rel="noopener noreferrer">vodiča</a></span>. Prvi je korak prema tom cilju bio bežično slanje signala na daljinu. Izumio je <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=51490" target="_blank" rel="noopener noreferrer">radiokomunikacije</a></span> i <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=13776" target="_blank" rel="noopener noreferrer">daljinsko upravljanje</a></span>.</span></p>
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/Tesla1.jpg" alt="" /><br /><br /><span style="font-size: 12pt;">Po njemu se nazivaju <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=69711" target="_blank" rel="noopener noreferrer">Tesline visokofrekvencijske struje</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=69710" target="_blank" rel="noopener noreferrer">Teslin transformator</a></span> i stariji elektroterapijski postupak teslinizacija. Najveće je priznanje Teslinu radu bilo dano na 11. općoj konferenciji za mjere i utege 1960., kada je za jedinicu magnetske indukcije prihvaćen naziv <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=61020" target="_blank" rel="noopener noreferrer">tesla</a></span>. Jedini je to naziv <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=41311" target="_blank" rel="noopener noreferrer">mjerne jedinice</a></span> po nekome Slavenu među 19 naziva po zaslužnim znanstvenicima u Međunarodnom sustavu jedinica. Stotine izuma, većinom iz elektrotehnike, prijavio je u 112 patenata u SAD-u i gotovo isto toliko u drugim zemljama, a mnogi su izumi ostali zabilježeni samo u njegovim dnevnicima ili stručnim časopisima. U</span><span style="font-size: 12pt;"><span style="color: #0000ff;"> <a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=60650" target="_blank" rel="noopener noreferrer">Tehničkome muzeju</a></span> u Zagrebu nalazi se stalni demonstracijski kabinet Teslinih izuma, a u <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=56783" target="_blank" rel="noopener noreferrer">Smiljanu</a></span> Memorijalni centar Nikola Tesla (Teslina rodna kuća, modeli izuma, didaktičke igračke koje omogućavaju lakše razumijevanje rada Teslinih strojeva).</span></p>
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/Teslin_kabinet.jpg" alt="" /><br /><br /><span style="font-size: 12pt;">U <span style="color: #8b2323;"><a style="color: #8b2323;" href="http://hbl.lzmk.hr/clanak.aspx?id=11929" target="_blank" rel="noopener noreferrer">Hrvatskome biografskom leksikonu</a></span> pročitajte još mnogo drugih zanimljivosti o životu i radu ovoga glasovitog izumitelja čije ideje i danas žive u mnogim uređajima i strojevima.<br /></span></p>	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Departments</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/en/about-us/departments</id>
+	<updated>2021-09-02T14:58:32+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/en/about-us/departments?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Department of Finance and Sales</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/en/about-us/departments/452-department-of-finance-and-sales"/>
+		<published>2017-08-28T11:30:57+02:00</published>
+		<updated>2017-08-28T11:30:57+02:00</updated>
+		<id>https://localhost/lzmk/en/about-us/departments/452-department-of-finance-and-sales</id>
+		<author>
+			<name>Cvijeta Kraus</name>
+		</author>
+		<summary type="html">&lt;p&gt;The Department of Finance and Sales carries out financial and accounting services, as well as sales and promotion of editions of the Institute and other related editions.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/452-department-of-finance-and-sales&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The Department of Finance and Sales carries out financial and accounting services, as well as sales and promotion of editions of the Institute and other related editions.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/452-department-of-finance-and-sales&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Departments" />
+	</entry>
+	<entry>
+		<title>Department of Human Resources and Legal Affairs</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/en/about-us/departments/453-department-of-human-resources-and-legal-affairs"/>
+		<published>2017-08-28T11:31:24+02:00</published>
+		<updated>2017-08-28T11:31:24+02:00</updated>
+		<id>https://localhost/lzmk/en/about-us/departments/453-department-of-human-resources-and-legal-affairs</id>
+		<author>
+			<name>Cvijeta Kraus</name>
+		</author>
+		<summary type="html">&lt;p&gt;The Department of Human Resources and Legal Affairs carries out legal, personnel, administrative and technical affairs.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/453-department-of-human-resources-and-legal-affairs&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The Department of Human Resources and Legal Affairs carries out legal, personnel, administrative and technical affairs.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/453-department-of-human-resources-and-legal-affairs&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Departments" />
+	</entry>
+	<entry>
+		<title>Graphics-IT Department</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/en/about-us/departments/456-graphics-it-department"/>
+		<published>2017-08-28T11:32:39+02:00</published>
+		<updated>2017-08-28T11:32:39+02:00</updated>
+		<id>https://localhost/lzmk/en/about-us/departments/456-graphics-it-department</id>
+		<author>
+			<name>Cvijeta Kraus</name>
+		</author>
+		<summary type="html">&lt;p&gt;The Graphics-IT Department is a structural whole of the Institute which performs the services of IT support to the professional and business system of the Institute, as well as informatical and graphic preparation and presentation of lexicographical works on-line, in books or in a digital format.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/456-graphics-it-department&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The Graphics-IT Department is a structural whole of the Institute which performs the services of IT support to the professional and business system of the Institute, as well as informatical and graphic preparation and presentation of lexicographical works on-line, in books or in a digital format.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/456-graphics-it-department&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Departments" />
+	</entry>
+	<entry>
+		<title>Department of Lexicography</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/en/about-us/departments/454-department-of-lexicography"/>
+		<published>2017-08-28T11:31:47+02:00</published>
+		<updated>2017-08-28T11:31:47+02:00</updated>
+		<id>https://localhost/lzmk/en/about-us/departments/454-department-of-lexicography</id>
+		<author>
+			<name>Cvijeta Kraus</name>
+		</author>
+		<summary type="html">&lt;p&gt;The central department of the Institute is the Department of Lexicography where fundamental scientific and professional activities are carried out. The staff members are predominately lexicographers.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/454-department-of-lexicography&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The central department of the Institute is the Department of Lexicography where fundamental scientific and professional activities are carried out. The staff members are predominately lexicographers.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/454-department-of-lexicography&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Departments" />
+	</entry>
+	<entry>
+		<title>Office of the Director</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/en/about-us/departments/455-office-of-the-director"/>
+		<published>2017-08-28T11:32:16+02:00</published>
+		<updated>2017-08-28T11:32:16+02:00</updated>
+		<id>https://localhost/lzmk/en/about-us/departments/455-office-of-the-director</id>
+		<author>
+			<name>Cvijeta Kraus</name>
+		</author>
+		<summary type="html">&lt;p&gt;The Office of the Director connects and directs professional and business activities in the Institute.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/455-office-of-the-director&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The Office of the Director connects and directs professional and business activities in the Institute.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/en/about-us/departments/455-office-of-the-director&quot;&gt;Read More ...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Departments" />
+	</entry>
+</feed>

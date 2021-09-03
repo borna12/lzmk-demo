@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Miroslav Krleža Institute of Lexicography</title>
+		<description><![CDATA[]]></description>
+		<link>https://localhost/lzmk/en/</link>
+		<lastBuildDate>Thu, 02 Sep 2021 14:55:56 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://localhost/lzmk/en/?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Our 70th Anniversary</title>
+			<link>https://localhost/lzmk/en/news/614-our-70th-anniversary</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/news/614-our-70th-anniversary</guid>
+			<description><![CDATA[<div class="feed-description"><p><img class="pull-left" style="margin: 10px;" src="https://localhost/lzmk/images/Knjizara2020/lzmk70.jpg" width="300" height="168" /></p>
+<p>The Institute of Lexicography was founded on 5 October 1950 as a scientific institution devoted to encyclopedistics and lexicography. The founder of the Institute was the Croatian writer, lexicographer, and erudite Miroslav Krleža, who brought together professionals from all scholarly fields and initiated encylopedic-lexicographical activity in modern Croatian society. The Institute was founded in Zagreb, which already had a strong lexicographical tradition, including experience with the <em>Croatian Encyclopedia</em> (1941–45), whose editor-in-chief, Mate Ujević, became Krleža's assistant.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/en/news/614-our-70th-anniversary">Read More ...</a></p></div>]]></description>
+			<category>Featured</category>
+			<category>News</category>
+			<pubDate>Tue, 27 Oct 2020 14:26:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>International Conference Encyclopedistics 2020 – Achievements and Challenges Held in Zagreb</title>
+			<link>https://localhost/lzmk/en/news/615-international-conference-encyclopedistics-2020-achievements-and-challenges-held-in-zagreb</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/news/615-international-conference-encyclopedistics-2020-achievements-and-challenges-held-in-zagreb</guid>
+			<description><![CDATA[<div class="feed-description"><p><img class="pull-left" style="margin: 10px;" src="https://localhost/lzmk/images/Online/Enciklopedika2020.jpg" width="200" height="75" /></p>
+<p>The international conference <strong>Encyclopedistics 2020 – Achievements and Challenges</strong>, organised on the 70<sup>th</sup> anniversary of the founding of the Miroslav Krleža Institute of Lexicography, was held on 15 and 16 October in the Institute's great hall, and simultaneously online. Scholars and experts from Austria, Bosnia and Herzegovina, Montenegro, Italy, Hungary, Germany, Poland, the USA, Serbia, Spain, and Croatia exchanged experiences and the results of their research. The conference was opened by the Institute's director general, Bruno Kragić, and the introductory presentation was held by Filip Hameršak, member of the Institute's Board of Directors and assistant editor-in-chief of <em>the Croatian Biographical Lexicon</em>.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/en/news/615-international-conference-encyclopedistics-2020-achievements-and-challenges-held-in-zagreb">Read More ...</a></p></div>]]></description>
+			<category>Featured</category>
+			<category>News</category>
+			<pubDate>Tue, 27 Oct 2020 14:27:35 +0100</pubDate>
+		</item>
+		<item>
+			<title>The Institute of Lexicography at the European Encyclopedia Conference in Brussels</title>
+			<link>https://localhost/lzmk/en/news/archives/archives-2019/511-the-institute-of-lexicography-at-the-european-encyclopedia-conference-in-brussels</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/news/archives/archives-2019/511-the-institute-of-lexicography-at-the-european-encyclopedia-conference-in-brussels</guid>
+			<description><![CDATA[<div class="feed-description"><p><img class="pull-left" style="margin: 10px;" src="https://localhost/lzmk/images/Bruxelles2019/Bruxelles_01.jpg" width="200" height="250" />A conference that brought together encyclopedia editors and publishers from both sides of the Atlantic was held at Norway House in Brussels, organised by the Great Norwegian Encyclopedia, the European Parliamentary Research Service, and the Mission of Norway to the European Union. The Miroslav Krleža Institute of Lexicography was represented by its director, Bruno Kragić, and Nataša Jermen, assistant director for research and inter-institutional cooperation.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/en/news/archives/archives-2019/511-the-institute-of-lexicography-at-the-european-encyclopedia-conference-in-brussels">Read More ...</a></p></div>]]></description>
+			<category>Featured</category>
+			<category>Archives 2019</category>
+			<category>Archives</category>
+			<pubDate>Wed, 16 Oct 2019 11:45:38 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

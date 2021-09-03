@@ -1,0 +1,355 @@
+
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr" class='component window com_content view-article layout-default itemid-233 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/en/news/archives/archives-2017/473-dariah-cooperation-framework-of-digital-infrastructure-in-the-region-workshop" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Cvijeta Kraus" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>DARIAH Cooperation Framework of Digital Infrastructure in the Region workshop</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/content/jw_sig/jw_sig/tmpl/Classic/css/template.css?v=4.1.0" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"e4ce8245716e24b5aac947daefd917be","system.paths":{"root":"\/lzmk","base":"\/lzmk"}}</script>
+	<script src="/lzmk/media/system/js/mootools-core.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/core.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+        (function($) {
+            $(document).ready(function() {
+                $.fancybox.defaults.i18n.en = {
+                    CLOSE: 'Close',
+                    NEXT: 'Next',
+                    PREV: 'Previous',
+                    ERROR: 'The requested content cannot be loaded.<br/>Please try again later.',
+                    PLAY_START: 'Start slideshow',
+                    PLAY_STOP: 'Pause slideshow',
+                    FULL_SCREEN: 'Full screen',
+                    THUMBS: 'Thumbnails',
+                    DOWNLOAD: 'Download',
+                    SHARE: 'Share',
+                    ZOOM: 'Zoom'
+                };
+                $.fancybox.defaults.lang = 'en';
+                $('a.fancybox-gallery').fancybox({
+                    buttons: [
+                        'slideShow',
+                        'fullScreen',
+                        'thumbs',
+                        'share',
+                        'download',
+                        //'zoom',
+                        'close'
+                    ],
+                    beforeShow: function(instance, current) {
+                        if (current.type === 'image') {
+                            var title = current.opts.$orig.attr('title');
+                            current.opts.caption = (title.length ? '<b class="fancyboxCounter">Image ' + (current.index + 1) + ' of ' + instance.group.length + '</b>' + ' | ' + title : '');
+                        }
+                    }
+                });
+            });
+        })(jQuery);
+    jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="en-GB" />
+	<meta itemprop="url" content="/lzmk/en/news/archives/archives-2017/473-dariah-cooperation-framework-of-digital-infrastructure-in-the-region-workshop" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/lzmk/en/news/archives/archives-2017/473-dariah-cooperation-framework-of-digital-infrastructure-in-the-region-workshop" itemprop="url" title="DARIAH Cooperation Framework of Digital Infrastructure in the Region workshop">
+				DARIAH Cooperation Framework of Digital Infrastructure in the Region workshop</a>
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+          	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Details							</dt>
+
+			
+			
+			
+										<dd class="published hasTooltip" title="Published: ">
+				<i class="icon-calendar"></i>
+				<time datetime="2017-12-06T11:38:54+01:00" itemprop="datePublished">
+					06 December 2017				</time>
+			</dd>					
+					
+			
+						</dl>
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Print&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p><img class="pull-left" style="margin: 10px;" src="/lzmk/images/DARIAHRadionica/Plakat-DARIAH.jpg" width="150" height="113" />The fourth workshop for the project Cooperation Framework of Digital Infrastructure in the Region − Opportunities and Needs in the Case of Material Concerning Famous People in Science and Culture was held on the 2nd and 3rd of July 2018 at the Library of the Croatian Academy of Science and Arts.</p>
+ 
+<p>This project won the DARIAH-EU Call 2017: Cultural Heritage and Humanities Research. Its aim is to discuss important the issues about using digital infrastructure in cultural and scientific communities of the wider region (Croatia, Bosnia Herzegovina and Slovenia), with the special emphasis on data exchange and copyrights, as well as to create the guidelines on the interoperability of digital infrastructures in the region.</p>
+<p>Partners in the project include: Croatian Academy of Sciences and Arts, National and University Library, Zagreb City Libraries, State Archive in Varaždin, Miroslav Krleža Institute of Lexicography, Museum of Arts and Crafts, Institute of Ethnology and Folklore Research, ICARUS HR, ArhivPro d.o.o., Slovenian Academy of Sciences and Arts, National Museum of Bosnia and Herzegovina.</p>
+<p>The third workshop for the project Cooperation Framework of Digital Infrastructure in the Region − Opportunities and Needs in the Case of Material Concerning Famous People in Science and Culture (Library of the Croatian Academy of Science and Arts, 10-11 April 2018)</p>
+<p>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) starts here -->
+
+<ul id="sigFreeId428d1d1952" class="sigFreeContainer sigFreeClassic">
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica3/DARIAH1.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename DARIAH1.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_428d1d1952_dariah1.jpg" target="_blank" data-fancybox="gallery428d1d1952">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image DARIAH1.jpg" title="Click to enlarge image DARIAH1.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_428d1d1952_dariah1.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica3/DARIAH2.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename DARIAH2.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_428d1d1952_dariah2.jpg" target="_blank" data-fancybox="gallery428d1d1952">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image DARIAH2.JPG" title="Click to enlarge image DARIAH2.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_428d1d1952_dariah2.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica3/DARIAH3.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename DARIAH3.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_428d1d1952_dariah3.jpg" target="_blank" data-fancybox="gallery428d1d1952">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image DARIAH3.JPG" title="Click to enlarge image DARIAH3.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_428d1d1952_dariah3.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeClear">&nbsp;</li>
+</ul>
+
+<!-- Print output -->
+<div class="sigFreePrintOutput">
+        <img src="/lzmk/cache/jw_sig/jw_sig_cache_428d1d1952_dariah1.jpg" alt="DARIAH1.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_428d1d1952_dariah2.jpg" alt="DARIAH2.JPG" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_428d1d1952_dariah3.jpg" alt="DARIAH3.JPG" />
+    <br /><br />    </div>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) ends here -->
+
+</p>
+<p> </p>
+<p>The second workshop for the project Cooperation Framework of Digital Infrastructure in the Region − Opportunities and Needs in the Case of Material Concerning Famous People in Science and Culture (Library of the Croatian Academy of Science and Arts, 12-14 February 2018)</p>
+<p>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) starts here -->
+
+<ul id="sigFreeId65eb739c78" class="sigFreeContainer sigFreeClassic">
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica2/P2121100.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename P2121100.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2121100.jpg" target="_blank" data-fancybox="gallery65eb739c78">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image P2121100.JPG" title="Click to enlarge image P2121100.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2121100.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica2/P2131114.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename P2131114.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131114.jpg" target="_blank" data-fancybox="gallery65eb739c78">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image P2131114.JPG" title="Click to enlarge image P2131114.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131114.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica2/P2131120.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename P2131120.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131120.jpg" target="_blank" data-fancybox="gallery65eb739c78">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image P2131120.JPG" title="Click to enlarge image P2131120.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131120.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica2/P2131125.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename P2131125.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131125.jpg" target="_blank" data-fancybox="gallery65eb739c78">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image P2131125.JPG" title="Click to enlarge image P2131125.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131125.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica2/P2131129.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename P2131129.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131129.jpg" target="_blank" data-fancybox="gallery65eb739c78">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image P2131129.JPG" title="Click to enlarge image P2131129.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131129.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeClear">&nbsp;</li>
+</ul>
+
+<!-- Print output -->
+<div class="sigFreePrintOutput">
+        <img src="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2121100.jpg" alt="P2121100.JPG" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131114.jpg" alt="P2131114.JPG" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131120.jpg" alt="P2131120.JPG" />
+    <br /><br />        <img src="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131125.jpg" alt="P2131125.JPG" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_65eb739c78_p2131129.jpg" alt="P2131129.JPG" />
+        </div>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) ends here -->
+
+</p>
+<p> </p>
+<p>The first workshop for the project Cooperation Framework of Digital Infrastructure in the Region − Opportunities and Needs in the Case of Material Concerning Famous People in Science and Culture (Institute for the History of Croatian Literature, Theatre and Music of the Croatian Academy of Science and Arts, 28-29 November 2017)</p>
+<p>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) starts here -->
+
+<ul id="sigFreeId43d956a819" class="sigFreeContainer sigFreeClassic">
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica/IMG_4741.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename IMG_4741.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_img_4741.jpg" target="_blank" data-fancybox="gallery43d956a819">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image IMG_4741.jpg" title="Click to enlarge image IMG_4741.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_img_4741.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica/IMG_4742.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename IMG_4742.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_img_4742.jpg" target="_blank" data-fancybox="gallery43d956a819">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image IMG_4742.jpg" title="Click to enlarge image IMG_4742.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_img_4742.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica/IMG_4745.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename IMG_4745.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_img_4745.jpg" target="_blank" data-fancybox="gallery43d956a819">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image IMG_4745.jpg" title="Click to enlarge image IMG_4745.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_img_4745.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/DARIAHRadionica/Plakat-DARIAH.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Plakat-DARIAH.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_plakat-dariah.jpg" target="_blank" data-fancybox="gallery43d956a819">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Plakat-DARIAH.jpg" title="Click to enlarge image Plakat-DARIAH.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_plakat-dariah.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeClear">&nbsp;</li>
+</ul>
+
+<!-- Print output -->
+<div class="sigFreePrintOutput">
+        <img src="/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_img_4741.jpg" alt="IMG_4741.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_img_4742.jpg" alt="IMG_4742.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_img_4745.jpg" alt="IMG_4745.jpg" />
+    <br /><br />        <img src="/lzmk/cache/jw_sig/jw_sig_cache_43d956a819_plakat-dariah.jpg" alt="Plakat-DARIAH.jpg" />
+        </div>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) ends here -->
+
+</p>	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

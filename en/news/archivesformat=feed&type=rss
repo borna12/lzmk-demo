@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Archives</title>
+		<description><![CDATA[]]></description>
+		<link>https://localhost/lzmk/en/news/archives</link>
+		<lastBuildDate>Thu, 02 Sep 2021 14:58:35 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://localhost/lzmk/en/news/archives?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>e-Leks Platform</title>
+			<link>https://localhost/lzmk/en/news/archives/554-e-leks-platform</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/news/archives/554-e-leks-platform</guid>
+			<description><![CDATA[<p><img class="pull-left" style="margin: 10px;" src="https://localhost/lzmk/images/eleks/podrucja.jpg" width="200" height="100" />The Miroslav Krleža Institute of Lexicography has been gathering, systematically processing, presenting, and interpreting facts and knowledge on phenomena, terms, and persons past and present for 70 years now, thus contributing to Croatian culture, knowledge, and the general education of our community.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/en/news/archives/554-e-leks-platform">Read More ...</a></p>]]></description>
+			<category>Archives</category>
+			<pubDate>Wed, 13 May 2020 08:54:39 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

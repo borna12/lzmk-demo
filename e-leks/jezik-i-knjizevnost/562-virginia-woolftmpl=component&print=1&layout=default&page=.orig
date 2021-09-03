@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article layout-default itemid-197 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/e-leks/jezik-i-knjizevnost/562-virginia-woolf" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Senka" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Virginia Woolf</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/e-leks/jezik-i-knjizevnost/562-virginia-woolf" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/lzmk/e-leks/jezik-i-knjizevnost/562-virginia-woolf" itemprop="url" title="Virginia Woolf">
+				Virginia Woolf</a>
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+          	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Detalji							</dt>
+
+			
+			
+										<dd class="category-name hasTooltip" title="Kategorija: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/lzmk/e-leks/jezik-i-knjizevnost" ><span itemprop="genre">Jezik i književnost</span></a>							</dd>			
+										<dd class="published hasTooltip" title="Objavljeno: ">
+				<i class="icon-calendar"></i>
+				<time datetime="2020-06-04T08:12:56+02:00" itemprop="datePublished">
+					04 Lipanj 2020				</time>
+			</dd>					
+					
+			
+										<dd class="hits">
+					<i class="fa fa-eye"></i>
+					<meta itemprop="interactionCount" content="UserPageVisits:898" />
+					Hitova: 898			</dd>						</dl>
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p><span style="font-size: 12pt;">Engleska književnica <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=66348" target="_blank" rel="noopener noreferrer"><strong>Virginia Woolf</strong></a></span> percipirana je ponajviše kao <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=41465" target="_blank" rel="noopener noreferrer">modernistička</a></span> spisateljica, upamćena po virtuoznoj uporabi modernih narativnih tehnika (<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=58474" target="_blank" rel="noopener noreferrer">struja svijesti</a></span>, <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?ID=41727" target="_blank" rel="noopener noreferrer">unutarnji monolog</a></span>), čija su djela u izrazitu odmaku od proznih konvencija XIX. stoljeća. Njezini romani <em>Gospođa Dalloway</em>, <em>K svjetioniku</em> i <em>Valovi</em> vrhunska su ostvarenja moderne i modernističke književnosti, a eseji <em>Vlastita soba</em> i <em>Tri gvineje</em> temeljna djela <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=19201" target="_blank" rel="noopener noreferrer">feminističke književne i kulturalne kritike</a></span>. U <span style="color: #8b2323;"><strong>Hrvatskoj enciklopediji</strong></span> možete pročitati kratku biografiju Virginije Woolf i analizu njezinih literarnih i esejističkih djela.</span></p>
+ 
+<p><span style="font-size: 12pt;">Rođena je u mnogobrojnoj obitelji ugledna povjesničara, leksikografa i književnika Leslieja Stephena, gdje je stekla važnu naobrazbu i družila se s mnogim londonskim intelektualcima i umjetnicima. Sa sestrom i braćom organizirala je salonska okupljanja iz kojih je poslije nastala <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=8214" target="_blank" rel="noopener noreferrer">Bloomsbury Group</a></span>, intelektualno progresivna družina nazvana prema otmjenoj londonskoj četvrti u kojoj su se sastajali njezini članovi, mahom uglednici raznorodnih struka. </span></p>
+<p><span style="font-size: 12pt;">Član grupe bio je i njezin suprug, politolog i književnik Leonard Woolf, koji joj je pomagao pri borbi s dugogodišnjom depresijom i oporavku od životnih gubitaka. Zajedno su 1917. utemeljili nakladničku kuću The Hogarth Press, u kojoj su većinom izdavali njezine radove te istaknuta djela modernih pisaca (npr. znamenitu poemu <em>Pusta zemlja</em> <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=17714" target="_blank" rel="noopener noreferrer">Thomasa Stearnsa Eliota</a></span>). Narušena psihičkoga zdravlja, počinila je 1941. samoubojstvo utapanjem u rijeci Ouse u <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=58902" target="_blank" rel="noopener noreferrer">Sussexu</a></span>, blizu ladanjske kuće u koju se sa suprugom preselila 1940.</span></p>
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/Woolf.jpg" alt="" /><br /><br /><span style="font-size: 12pt;">Već je u svome prvijencu, <em>Izlazak na pučinu</em> (<em>The Voyage Out</em>), najavila neke od svojih kasnijih tematskih preokupacija i stilskih postupaka: sklonost lirizmu i defabularizaciji, zanimanje za ženske likove i teme rodne neravnopravnosti. Svoja je sljedeća djela organizirala oko ključnih duhovnih stanja, neovisnih o vanjskim događajima, ističući zgusnute trenutke neprekinutog tijeka svijesti. Postigla je to prvi put u eksperimentalnome romanu <em>Jakobova soba</em> (<em>Jacob’s Room</em>), sačinjenom od fragmenata sjećanja nekolicine likova. Najpoznatiji joj je i najčitaniji roman <em>Gospođa Dalloway</em> (<em>Mrs. Dalloway</em>), u kojem prikazuje jedan dan u životima Clarisse Dalloway, supruge uglednog člana britanskog Parlamenta, te Septimusa Warrena Smitha, mladoga provincijskog činovnika i veterana Prvoga svjetskog rata. Osobito uspješno dočaran je unutarnji život Clarisse i Septimusa, uzajamno zrcalećih junaka, kroz čiju je fragmentarnu perspektivu vješto oslikano poslijeratno englesko društvo u tranziciji, obilježeno podjednako rastućom modernizacijom kao i političkim, klasnim, ekonomskim i rodnim napetostima. Njezin oblikovno najeksperimentalniji, za dio kritike i najznačajniji roman <em>Valovi</em> (<em>The Waves</em>), gotovo se u potpunosti sastoji od solilokvija šestero prijatelja koji strujom svijesti pripovijedaju priču o svome životu, kao i onomu osebujna preminula prijatelja Percivala. Poput opetovanih motiva valova što udaraju o stijene, pripovjedne svijesti i glasovi likova uzajamno se odražavaju, kontrastiraju i kontrapunktiraju, a na trenutke čak i miješaju, podsjećajući na strukturu glazbene partiture. </span><br /><br /><span style="font-size: 12pt;">Od važnijih prijevoda njezinih djela na hrvatski jezik ističu se <em>Godine</em> (<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=61831" target="_blank" rel="noopener noreferrer">Josip Torbarina</a></span>, 1946), <em>Svjetionik</em> (<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=35052" target="_blank" rel="noopener noreferrer">Tomislav Ladan</a></span>, 1974), jedan od hrvatskih prijevodnih vrhunaca moderne svjetske proze, <em>Gospođa Dalloway</em> (<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=38766" target="_blank" rel="noopener noreferrer">Mate Maras</a></span>, 1981), <em>Orlando: životopis</em> (Jasenka Šafran, 2000), <em>Valovi</em> (Iva Grgić, 2007) i <em>Flush: biografija</em> (<span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=37278" target="_blank" rel="noopener noreferrer">Sanja Lovrenčić</a></span>, 2017).</span></p>	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

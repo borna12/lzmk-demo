@@ -1,0 +1,1057 @@
+
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr" class='component window com_content view-article itemid-210 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/en/encyclopedistics-2020/programme-and-recordings" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Cvijeta Kraus" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Programme and recordings</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="en-GB" />
+	<meta itemprop="url" content="/lzmk/en/encyclopedistics-2020/programme-and-recordings" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/lzmk/en/encyclopedistics-2020/programme-and-recordings" itemprop="url" title="Programme">
+				Programme</a>
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+          	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Details							</dt>
+
+			
+			
+			
+										<dd class="published hasTooltip" title="Published: ">
+				<i class="icon-calendar"></i>
+				<time datetime="2020-10-08T10:20:34+02:00" itemprop="datePublished">
+					08 October 2020				</time>
+			</dd>					
+					
+			
+										<dd class="hits">
+					<i class="fa fa-eye"></i>
+					<meta itemprop="interactionCount" content="UserPageVisits:689" />
+					Hits: 689			</dd>						</dl>
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Print&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p style="text-align: center;"><strong>PROGRAMME</strong></p>
+<p style="text-align: center;"><strong>INTERNATIONAL CONFERENCE</strong></p>
+<p style="text-align: center;"><strong>ENCYCLOPEDISTICS 2020 – ACHIEVEMENTS AND CHALLENGES</strong></p>
+<p style="text-align: center;">The Miroslav Krleža Institute of Lexicography</p>
+<p style="text-align: center;"><strong>15–16 October 2020</strong></p>
+<p> </p>
+<table>
+<tbody>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p style="text-align: center;"><strong>THURSDAY, 15 October 2020</strong></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p style="text-align: center;"><strong>(The Great Hall)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p>9.00 – 9.30</p>
+</td>
+<td width="600">
+<p>Conference opening:</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Filip Hameršak:</strong> Modern Croatian Encyclopedics between Field, Society, and State<br /><a href="https://www.youtube.com/watch?v=HhI5iqZ83jI&amp;list=PLV8WWaI7cuFMG8CXKiL7XqNuUU6FO0Lgr&amp;index=1" target="_blank" rel="noopener noreferrer">Recording</a></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p>9.30 – 10.15</p>
+</td>
+<td width="600">
+<p>Keynote speech:</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Toma Tasovac:</strong> Imagining the Future of Dictionaries: Tracing the Early History of eLexicography<strong>*</strong><br /><a href="https://www.youtube.com/watch?v=iQcMZr733dw&amp;feature=youtu.be">Recording</a></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p>10.15 – 10.30</p>
+</td>
+<td width="600">
+<p>Coffee break</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td width="120">
+<p><strong>10.30 – 12.30</strong></p>
+</td>
+<td width="600">
+<p><strong>DIGITAL ENCYCLOPEDIAS AND KNOWLEDGE NETWORKING (Part I)</strong><br /><a href="https://youtu.be/anY-O9akO1I" target="_blank" rel="noopener noreferrer">Session recording</a></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p> </p>
+</td>
+<td width="600">
+<p>Moderators: Hrvoje Stančić, Nataša Jermen</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p>Presentations:</p>
+</td>
+<td width="600">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Zdenko Jecić, Nataša Jermen:</strong> Encyclopedistics Today – The Miroslav Krleža Institute of Lexicography and the Digital Age</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Darko Čokor, Ivana Kresnik:</strong> Croatia and <em>Wikipedia</em></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Tihomir Živić:</strong> <em>Encyclopædia Britannica Online: </em>An Internet Edition of the Reliable Enchiridion (2012‒2020)</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Unai Belaustegi, María José Villa:</strong> <em>Bilbaopedia: </em>The First Digital Encyclopedia Dedicated Exclusively to a Single City<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Jasmina Tolj, Ivan Smolčić, Petra Bago:</strong> Challenges in Geotagging Encyclopedias.</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Josip Mihaljević:</strong> Gamification Elements of Web Sites of Online Encyclopedias</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Koraljka Kuzman Šlogar:</strong> Digital Research Infrastructure and Networked Knowledge</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong>Discussion</strong></p>
+</td>
+<td width="600">
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p>12.30 – 13.30</p>
+</td>
+<td width="600">
+<p>Lunch break</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong>13.30 – 16.00</strong></p>
+</td>
+<td width="600">
+<p><strong>DIGITAL ENCYCLOPEDIAS AND KNOWLEDGE NETWORKING (Part II)</strong><br /><a href="https://youtu.be/gtzbcAuJ5h0" target="_blank" rel="noopener noreferrer">Session recording</a></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p>Moderators: Petra Bago, Zdenko Jecić</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p>13.30 – 14.00</p>
+</td>
+<td width="600">
+<p>Keynote speech:</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Eveline Wandl-Vogt:</strong> Rethinking a Genre Accelerating Encylopedic Knowledge into Action on the Example of COVID19<strong>*</strong><br /><a href="https://youtu.be/kBk9hazFh7c" target="_blank" rel="noopener noreferrer">Recording</a></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p>14.00 – 16.00</p>
+</td>
+<td width="600">
+<p>Presentations:</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Irina Starčević Stančić i Cvijeta Kraus:</strong> The Specificities of the Digitalization of The Miroslav Krleža Institute of Lexicography's Publications<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Jasenka Ferber Bogdan, Anja Tkalec:</strong> <em>Znameniti.hr </em>– Developing a Cultural Heritage Metadata Portal<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Benedikt Perak: </strong><em>EMOCNET: </em>A Display of Lexical Networks and Data Enrichment</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Toni Marić:</strong> Portals and Databases on Elements of Cultural Heritage at Folklore Festivals</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Benedikt Perak, Diana Grgurić:</strong> <em>Zaspal Pave </em>– A Digital Platform of the Musical Heritage of Istria and Hrvatsko Primorje</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Dubravka Mlinarić:</strong> The Role of Digital Archival Sources from Private Map Collections in Times of Limited Physical Access</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Vlatka Lemić:</strong> How the »Big Data« of the Past can Influence Science and Research: The Idea of the Time Machine and its Application Perspectives</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong>Discussion</strong></p>
+</td>
+<td width="600">
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p>16.00 – 16.30</p>
+</td>
+<td width="600">
+<p>Coffee break</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p>16.30 – 18.00</p>
+</td>
+<td width="600">
+<p>Keynote speeches:</p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Naja Bentzen:</strong> The Role of Encyclopaedias in an Era of Asymmetric Digital Knowledge<strong>*</strong><br /><a href="https://youtu.be/E6spMpBNPIs" target="_blank" rel="noopener noreferrer">Recording</a></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p><strong>Uri Nodelman: </strong><em>The Stanford Encyclopedia of Philosophy: </em>Challenges and Lessons<strong>*</strong><br /><a href="https://youtu.be/eW5JyDzo-2I" target="_blank" rel="noopener noreferrer">Recording</a></p>
+</td>
+</tr>
+<tr>
+<td width="120">
+<p><strong> </strong></p>
+</td>
+<td width="600">
+<p>Moderators: Nataša Jermen, Bruno Kragić</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table style="width: 740.295px;">
+<tbody>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>FRIDAY, 16 October 2020</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>(Hall 101)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong>11.00 – 12.15</strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>BIOGRAPHY IN ENCYCLOPEDIAS (Part I)</strong><br /><a href="https://youtu.be/-yrJy8EdBaI" target="_blank" rel="noopener noreferrer">Session recording</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p>Moderator: Filip Hameršak</p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p>Presentations:</p>
+</td>
+<td style="width: 608.295px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>Agata Barzycka-Paździor</strong>: The Concept of the <em>Polish Biographical Dictionary: </em>Among Ordinary and Great People from the Past<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>Ivan</strong> <strong>Majnarić</strong>: History and Biography: Reflections and Experiences from the Perspective of the <em>Croatian Biographical Lexicon</em></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>Slaven Bačić</strong>: Features of the Concept of Biographical Articles in the <em>Lexicon of Danubian Croats – Bunjevci and Šokci</em></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>Meri Kunčić</strong>: Who is Important and Who is Not – A Contribution to the History of Renaissance Culture of the Island of Rab</p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong>Discussion</strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p>12.15 – 12.30</p>
+</td>
+<td style="width: 608.295px;">
+<p>Coffee break</p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong>12.30 – 13.45</strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>BIOGRAPHY IN ENCYCLOPEDIAS (Part II)</strong><br /><a href="https://youtu.be/uBK7MEIDORs" target="_blank" rel="noopener noreferrer">Session recording</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p>Moderator: Filip Hameršak</p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p>Presentations:</p>
+</td>
+<td style="width: 608.295px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>Iva Mandušić</strong>: Biography through History – The Example of Writer Mihovil Kunić (Early 19th Century)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>Nataša Ivetić</strong>: Encyclopedia Entries about Stevo Čuturilo<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>Igor Mrkalj</strong>: The Biographical Lexicon of Glina as a Research Challenge</p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong>Mikel Urquijo i Joseba Agirreazkuenaga</strong>: An Analysis of the Future of National Biographical Dictionaries<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 116px;">
+<p><strong>Discussion</strong></p>
+</td>
+<td style="width: 608.295px;">
+<p><strong> </strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table style="width: 749.571px;">
+<tbody>
+<tr>
+<td style="width: 734.571px;" colspan="2">
+<p style="text-align: center;"><strong>FRIDAY, 16 October 2020</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 734.571px;" colspan="2">
+<p style="text-align: center;"><strong>(The Great Hall)</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>9.00 – 9.45</p>
+</td>
+<td style="width: 632.571px;">
+<p>Keynote speech:</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Ranko Matasović:</strong> Language Classification in Encyclopedias<br /><a href="https://youtu.be/y8joe5z3mKg" target="_blank" rel="noopener noreferrer">Recording</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>9.45 – 10.00</p>
+</td>
+<td style="width: 632.571px;">
+<p>Coffee break</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong>10.00 – 11.45</strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>LEXICOLOGICAL AND LEXICOGRAPHICAL THEMES (Part I)</strong><br /><a href="https://youtu.be/DMvmKv-8Cu0" target="_blank" rel="noopener noreferrer">Session recording</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p>Moderators: Lana Hudeček, Ivana Crljenko</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>Presentations:</p>
+</td>
+<td style="width: 632.571px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Milica Mihaljević</strong>: Croatian Linguistic Terminology between Description and Prescription</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Ivan Marković, Igor Marko Gligorić:</strong> On the Development of the Croatian Word <em>rukomet<strong>*</strong></em></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Peter</strong> <strong>Jordan</strong>: Croatian External Relations as Reflected by the Use of Exonyms<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Domagoj Vidović</strong>: Exonyms, Inhabitant Names, and Ktetics in <em>Mrežnik</em></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Bernardina Petrović</strong>: The Phytonims in Josip Stipan Relković’s <em>Kućnik</em></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Kristian Lewis</strong>: Internationalisms and Native Terms in Croatian and Russian Translation Studies Terminology<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong>Discussion</strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>11.45 – 12.00</p>
+</td>
+<td style="width: 632.571px;">
+<p>Coffee break</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong>12.00 – 14.00</strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>LEXICOLOGICAL AND LEXICOGRAPHICAL THEMES (Part II)</strong><br /><a href="https://youtu.be/syi-U-70Z1k" target="_blank" rel="noopener noreferrer">Session recording</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p>Moderators: Lana Hudeček, Ivana Crljenko</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>Presentations:</p>
+</td>
+<td style="width: 632.571px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Beata Kovačević, Petra</strong> <strong>Matović: </strong>Phrynichus’ Approach to Lexicography: Between the (Proto-) Scholarly and the Non-Scholarly</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Alka Lončar</strong>: The Problems in Analysis of Latin Loanwords in the Etymological Dictionary of Modern Greek by Nikolaos Andriotis<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Miljenko Lapaine, Nedjeljko Frančula i Ivo-Pavao Jazbec</strong>: On the New Cartographic Dictionary</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Veronika Lipp,</strong> <strong>László</strong> <strong>Simon</strong>: A New Monolingual, Corpus-Based Explanatory Dictionary Project<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Vlatka Štimac Ljubas</strong>: Pharmaceutical Terminology in the Online Edition of the <em>Croatian Encyclopedia</em></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Mirjana Šnjarić</strong>: Lexical Incompatibilities of Verb-Noun Collocations in German, English and Croatian Common Language of Science and their Representation in E-dictionaries of General Scientific Terms</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Goranka Blagus Bartolec: </strong>Upper and Lower Case Letter as a Lexicographic Challenge</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong>Discussion</strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>14.00 – 15.00</p>
+</td>
+<td style="width: 632.571px;">
+<p>Lunch break</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong>15.00 – 16.30</strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>GENERAL ENCYCLOPAEDICS THEMES (Part I)</strong><br /><a href="https://youtu.be/tQGOwxHcHnA" target="_blank" rel="noopener noreferrer">Session recording</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p>Moderators: Vlatka Dugački, Filip Hameršak</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>Presentations:</p>
+</td>
+<td style="width: 632.571px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Josip Ćirić i Marina</strong> <strong>Nekić</strong>: Encyclopedia – Anatomy and Strategy<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Ivana Crljenko</strong>: The Significance of the <em>World Atlas </em>of The Miroslav Krleža Institute of Lexicography in Croatian Atlas Cartography</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Tomislav Galović</strong>: Auxiliary Sciences of History in Croatian Encyclopedias (Frameworks and Perspectives)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Karlo Radečić</strong>: Biology in the <em>Croatian Encyclopedia</em> of Mate Ujević (1941–1945)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Marijana</strong> <strong>Pintar</strong>: The Institute of Lexicography’s<em> Encyclopedia of Music:</em> Past and Future</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong>Discussion</strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>16.30 – 16.45</p>
+</td>
+<td style="width: 632.571px;">
+<p>Coffee break</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong>16.45 – 18.45</strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>GENERAL ENCYCLOPAEDICS THEMES (Part II)</strong><br /><a href="https://youtu.be/crqLXHNuXqU" target="_blank" rel="noopener noreferrer">Session recording</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p>Moderators: Vlatka Dugački, Filip Hameršak</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>Presentations:</p>
+</td>
+<td style="width: 632.571px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Dino Mujadžević: </strong>Islamic Legacy in the Encyclopedia of Yugoslavia (1955–1990): From the Marginalization of the Ranković Era towards the Recognition in the Era of Decentralization<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Marko Vukičević</strong>: Representation and Approach to World War One Topics in Encyclopedias Published by The Miroslav Krleža Institute of Lexicography</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Danijel</strong> <strong>Vojak</strong>: Marginalised Persons on the Margins of Croatian Encyclopedias, or On the Culture of (Non-)Remembrance of Roma Victims of Genocide in Croatian Encyclopedics<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Mirko Mlakar</strong>: Lexicography in Serbia: The Hardship of Time</p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Milana</strong> <strong>Čabarkapa-Macanović,</strong> <strong>Dragana</strong> <strong>Marinković-Dubljević i Novak Vukadinović: </strong>Professional Lexicons in the Lexicography of Montenegro – The Experience of the Montenegrin Academy of Sciences and Arts<strong>*</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Miloš</strong> <strong>Trifković</strong>: <em> </em>The Specificities of the Feasibility Study of the ANUBiH Project, <em>General Encyclopedia of Bosnia and Herzegovina<strong>*</strong></em></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p>Closing lecture:</p>
+</td>
+<td style="width: 632.571px;">
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong>Bruno Kragić: </strong> The Unfullfilled Dream of Encyclopedic Utopia – The Article on Count Caligostro in the First Edition of the <em>Encyclopedia of the Institute of Lexicography </em>(General Encyclopedia)<br /><a href="https://youtu.be/0ERO_AVdqCU" target="_blank" rel="noopener noreferrer">Session recording</a></p>
+</td>
+</tr>
+<tr>
+<td style="width: 102px;">
+<p><strong>Discussion</strong></p>
+</td>
+<td style="width: 632.571px;">
+<p><strong> </strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>*</strong>Online presentation</p> 	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

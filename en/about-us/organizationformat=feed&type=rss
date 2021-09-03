@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Organization</title>
+		<description><![CDATA[]]></description>
+		<link>https://localhost/lzmk/en/about-us/organization</link>
+		<lastBuildDate>Thu, 02 Sep 2021 14:58:30 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://localhost/lzmk/en/about-us/organization?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Director General</title>
+			<link>https://localhost/lzmk/en/about-us/organization/448-director-general</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/about-us/organization/448-director-general</guid>
+			<description><![CDATA[<p>The Director General is head of the Board of Directors. He convenes sessions of the Board of Directors and chairs them. He is also responsible for the scientific-professional work of the Institute, proposes nominations and dismissals of editors-in-chief and heads of scientific projects, and the like. The Director General of The Miroslav Krleža Institute of Lexicography is <a href="https://localhost/lzmk/lzmk/hr/o-nama/leksikografska-djelatnost/leksikografi/213-kragic-bruno" hreflang="hr">Bruno Kragić</a>, Ph.D.</p>]]></description>
+			<category>Organization</category>
+			<pubDate>Mon, 28 Aug 2017 11:28:07 +0200</pubDate>
+		</item>
+		<item>
+			<title>Director</title>
+			<link>https://localhost/lzmk/en/about-us/organization/449-director</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/about-us/organization/449-director</guid>
+			<description><![CDATA[<p>The Director has the function of operation managing of the Institute. The duties of the Director are determined by law and the Institute's Statute, and some of them are: representation and acting for the Institute, organizing and managing the work and business operations of the Institute, as well as implementation of decisions of the Board of Directors. The Director of The Miroslav Krleža Institute of Lexicography is <a href="https://localhost/lzmk/lzmk/hr/o-nama/leksikografska-djelatnost/leksikografi/199-hamersak-filip" hreflang="hr">Filip Hameršak</a>, Ph.D.</p>]]></description>
+			<category>Organization</category>
+			<pubDate>Mon, 28 Aug 2017 11:28:36 +0200</pubDate>
+		</item>
+		<item>
+			<title>Board of Directors</title>
+			<link>https://localhost/lzmk/en/about-us/organization/450-board-of-directors</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/about-us/organization/450-board-of-directors</guid>
+			<description><![CDATA[<p>The Institute is managed by the Board of Directors headed by the Director General. The Board of Directors consists of five members. Some of the Board's duties are: adoption of the Institute’s annual and long-term work plan, analyzing and adoption of annual reports on the Institute’s activities, adoption of the annual financial budget, adoption of the Statute and other administrative acts of the Institute, appointment of the Director and so on.</p>
+<p>Members of the Board of Directors: <br />Stjepan Ćosić, Ph.D., full professor, University of Zagreb, Faculty of Croatian Studies<br />Hrvoje Stančić, Ph.D., full professor, University of Zagreb, Faculty of Humanities and Social Sciences<br /><a href="https://localhost/lzmk/lzmk/hr/o-nama/leksikografska-djelatnost/leksikografi/249-sunjic-ankica" hreflang="hr">Ankica Šunjić Matković</a></p>]]></description>
+			<category>Organization</category>
+			<pubDate>Mon, 28 Aug 2017 11:29:03 +0200</pubDate>
+		</item>
+		<item>
+			<title>Scientific Council</title>
+			<link>https://localhost/lzmk/en/about-us/organization/451-scientific-council</link>
+			<guid isPermaLink="true">https://localhost/lzmk/en/about-us/organization/451-scientific-council</guid>
+			<description><![CDATA[<p>The Scientific Council is the highest scientific-professional body of the Institute, competent for the professional pursuing of lexicographic-encyclopaedic work. The President of the Scientific Council is <a href="https://localhost/lzmk/lzmk/hr/o-nama/leksikografska-djelatnost/leksikografi/197-dugacki-vlatka" hreflang="hr">Vlatka Dugački</a>, Ph.D.</p>]]></description>
+			<category>Organization</category>
+			<pubDate>Mon, 28 Aug 2017 11:29:38 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

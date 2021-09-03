@@ -1,0 +1,100 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="description" content="Hrvatska enciklopedija Leksikografskog zavoda Miroslav Krleža - on-line izdanje" /><link rel="shortcut icon" href="favicon.ico" /><title>
+	Hrvatska enciklopedija
+</title><link href="StyleSheet.css" rel="stylesheet" /><link href="Enciklopedija.css" rel="stylesheet" /><link href="Content/themes/smoothness/jquery-ui.min.css" rel="stylesheet" />
+
+    <!-- Bootstrap -->
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    
+
+
+    <script src="Scripts/jquery-3.4.1.min.js"></script>
+    <script src="Scripts/jquery-ui-1.12.1.min.js"></script>
+    <script src="Scripts/popper.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+
+    <script src="Scripts/he-dd.js"></script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-44258014-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+    <script src="https://kit.fontawesome.com/076b097cba.js" crossorigin="anonymous"></script>
+
+</head>
+<body>
+    <form method="post" action="./" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="tfC4/Xq2lccZXnWSuE/4rWUIg3StHxL3GzZeeenhPjWy4Epm3Vr7M/d54VT6w/ho8v9HzW/MCPpL03cAl4MYvnF0gFI8wmLgqcBqsxN3TI871afI2lQGjLCwhkJKql4TAd/xKnIxfKeZZG/udyI6PhFDEt2fc89LbGwIutEOBn7SMVBk/A/f2mzFwB06kugKw1DVqZEcJj0fOQQAbjT9h+066J5o5m/GJy+0BW360UI=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="cE7BO7YJITqggwfhiSJd8Zg/e/Z9K6sKxUXwp0d9yZAVgfFeUh1zH2YomZMXtuKwaES+u4PuYGTz4p+2XksMhMHhbW9hhQzLmtgtcHf6RaAUkWRZJac7wUd0/27oMurBgn+Rekjqer6zHhJqYylPfw==" />
+        <div id="SearchPanel" class="he-header">
+	
+            <div class="he-logo">
+                <img src="images/Logo.png" />
+            </div>
+            <div class="LZMK">
+                <a href="http://www.lzmk.hr">
+                    <img src="images/lzmk.png" alt="Leksikografski&nbsp;zavod Miroslav&nbsp;Krle&zcaron;a" /></a>
+            </div>
+            <div class="trazi-box">
+                <input name="ctl00$SearchBox" type="text" id="SearchBox" class="TraziBox" />&nbsp;
+                <input type="image" name="ctl00$DoSearch" id="DoSearch" class="btn btn-default" src="images/search-icon.png" />
+                
+            </div>
+        
+</div>
+        <div>
+            
+
+        </div>
+        <div id="HEBackgroundBar">
+            <img id="HEBackground" src="images/HrvatskaEnciklopedija.png" />
+        </div>
+        <!-- /.container -->
+
+        <nav class="navbar fixed-bottom navbar-expand-md navbar-dark bg-dark">
+
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item"><a class="nav-link" href="/impresum.aspx">Impresum</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/predgovor.aspx">O enciklopediji</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/upute.aspx">Upute</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/struke.aspx">Podru&ccaron;ja i struke</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/kontakt.aspx">Kontakt</a></li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+
+        </nav>
+
+    </form>
+</body>
+</html>
