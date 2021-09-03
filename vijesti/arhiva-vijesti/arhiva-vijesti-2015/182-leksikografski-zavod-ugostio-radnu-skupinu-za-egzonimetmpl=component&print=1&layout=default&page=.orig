@@ -1,0 +1,280 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article layout-default itemid-139 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/vijesti/arhiva-vijesti/arhiva-vijesti-2015/182-leksikografski-zavod-ugostio-radnu-skupinu-za-egzonime" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super User" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Leksikografski zavod ugostio Radnu skupinu za egzonime</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/content/jw_sig/jw_sig/tmpl/Classic/css/template.css?v=4.1.0" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"e4ce8245716e24b5aac947daefd917be","system.paths":{"root":"\/lzmk","base":"\/lzmk"}}</script>
+	<script src="/lzmk/media/system/js/mootools-core.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/core.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+        (function($) {
+            $(document).ready(function() {
+                $.fancybox.defaults.i18n.en = {
+                    CLOSE: 'Close',
+                    NEXT: 'Next',
+                    PREV: 'Previous',
+                    ERROR: 'The requested content cannot be loaded.<br/>Please try again later.',
+                    PLAY_START: 'Start slideshow',
+                    PLAY_STOP: 'Pause slideshow',
+                    FULL_SCREEN: 'Full screen',
+                    THUMBS: 'Thumbnails',
+                    DOWNLOAD: 'Download',
+                    SHARE: 'Share',
+                    ZOOM: 'Zoom'
+                };
+                $.fancybox.defaults.lang = 'en';
+                $('a.fancybox-gallery').fancybox({
+                    buttons: [
+                        'slideShow',
+                        'fullScreen',
+                        'thumbs',
+                        'share',
+                        'download',
+                        //'zoom',
+                        'close'
+                    ],
+                    beforeShow: function(instance, current) {
+                        if (current.type === 'image') {
+                            var title = current.opts.$orig.attr('title');
+                            current.opts.caption = (title.length ? '<b class="fancyboxCounter">Image ' + (current.index + 1) + ' of ' + instance.group.length + '</b>' + ' | ' + title : '');
+                        }
+                    }
+                });
+            });
+        })(jQuery);
+    jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/vijesti/arhiva-vijesti/arhiva-vijesti-2015/182-leksikografski-zavod-ugostio-radnu-skupinu-za-egzonime" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/lzmk/vijesti/arhiva-vijesti/arhiva-vijesti-2015/182-leksikografski-zavod-ugostio-radnu-skupinu-za-egzonime" itemprop="url" title="Leksikografski zavod ugostio Radnu skupinu za egzonime">
+				Leksikografski zavod ugostio Radnu skupinu za egzonime</a>
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+          	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Detalji							</dt>
+
+			
+			
+			
+										<dd class="published hasTooltip" title="Objavljeno: ">
+				<i class="icon-calendar"></i>
+				<time datetime="2015-05-20T12:15:20+02:00" itemprop="datePublished">
+					20 Svi 2015				</time>
+			</dd>					
+					
+			
+						</dl>
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p><img style="float: left; border: 0; margin: 10px 10px 10px 10px;" src="/lzmk/images/radnaskupinaegzonimi/DSC_0052.JPG" width="200" height="150" border="0" />U velikoj dvorani Leksikografskoga zavoda Miroslav Krleža 14. i 15. svibnja 2015. održao se 17. sastanak Radne skupine za egzonime (<a title="Working Group on Exonyms" href="http://ungegn.zrc-sazu.si/" target="_blank" rel="noopener noreferrer">Working Group on Exonyms</a>).</p>
+ 
+<p>Skupina je osnovana 2002. i jedna je od deset radnih skupina koje djeluju unutar Skupine stručnjaka za geografska imena pri UN-u (United Nations Group of Experts on Geographical Names, <a title="UNGEGN" href="http://unstats.un.org/unsd/geoinfo/UNGEGN/" target="_blank" rel="noopener noreferrer">UNGEGN</a>) – krovne međunarodne udruge koja se bavi geografskim imenima, njihovom standardizacijom, tretmanom i preporukama za uporabu na međunarodnoj i na nacionalnim razinama. Rezultati rasprava i dogovora među članovima Radne skupine za egzonime predstavljaju se na sjednicama UNGEGN-a. Cilj tih sjednica jest usvajanje rezolucija s preporukama za postupanje s geografskim imenima koje se odnose na sve članice UN-a.</p>
+<p> </p>
+<p>Sastanci Radne skupine za egzonime, koja broji osamdesetak članova iz mnogih zemalja, u pravilu se održavaju jednom godišnje. Ovogodišnjemu sastanku u Zagrebu, tema kojega su bili kriteriji uporabe egzonima, nazočilo je 29 članova Skupine iz 15 zemalja. Na sastanku su prikazana i nacionalna izvješća o radu vezanom uz problematiku egzonima. Leksikografski zavod Miroslav Krleža u tom su smislu predstavili dr. sc. Ivana Crljenko, koja je članove Skupine upoznala s tijekom rada na projektu <a href="/lzmk/projekti/154-rjecnik-stranih-geografskih-imena" hreflang="hr">Rječnik stranih geografskih imena</a>, te dr. sc. Drago Kladnik i Matjaž Geršič, koji su prikazali dosadašnji rad na  hrvatsko-slovenskom znanstvenom projektu <a href="/lzmk/projekti/znanstveni-projekti-i-suradnja/zavrseni-projekti/164-poredbena-analiza-hrvatskih-i-slovenskih-egzonima-2014-2015" hreflang="hr">Poredbena analiza hrvatskih i slovenskih egzonima (2014-2015)</a>, što se provodi u suradnji Zavoda i Geografskog inštituta Antona Melika ZRC SAZU iz Ljubljane.</p>
+<p> </p>
+<p>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) starts here -->
+
+<ul id="sigFreeId064c495c26" class="sigFreeContainer sigFreeClassic">
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/radnaskupinaegzonimi/20150515_103403.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename 20150515_103403.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_20150515_103403.jpg" target="_blank" data-fancybox="gallery064c495c26">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image 20150515_103403.jpg" title="Click to enlarge image 20150515_103403.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_20150515_103403.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/radnaskupinaegzonimi/DSC_0052.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename DSC_0052.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_0052.jpg" target="_blank" data-fancybox="gallery064c495c26">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image DSC_0052.JPG" title="Click to enlarge image DSC_0052.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_0052.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/radnaskupinaegzonimi/DSC_8187.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename DSC_8187.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_8187.jpg" target="_blank" data-fancybox="gallery064c495c26">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image DSC_8187.JPG" title="Click to enlarge image DSC_8187.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_8187.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/radnaskupinaegzonimi/DSC_8189.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename DSC_8189.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_8189.jpg" target="_blank" data-fancybox="gallery064c495c26">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image DSC_8189.JPG" title="Click to enlarge image DSC_8189.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_8189.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images/radnaskupinaegzonimi/DSC_8200.JPG" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename DSC_8200.JPG" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_8200.jpg" target="_blank" data-fancybox="gallery064c495c26">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image DSC_8200.JPG" title="Click to enlarge image DSC_8200.JPG" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_8200.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeClear">&nbsp;</li>
+</ul>
+
+<!-- Print output -->
+<div class="sigFreePrintOutput">
+        <img src="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_20150515_103403.jpg" alt="20150515_103403.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_0052.jpg" alt="DSC_0052.JPG" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_8187.jpg" alt="DSC_8187.JPG" />
+    <br /><br />        <img src="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_8189.jpg" alt="DSC_8189.JPG" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_064c495c26_dsc_8200.jpg" alt="DSC_8200.JPG" />
+        </div>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) ends here -->
+
+</p>	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

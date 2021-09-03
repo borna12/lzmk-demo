@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Zbirke</title>
+		<description><![CDATA[]]></description>
+		<link>https://localhost/lzmk/o-nama/zbirke</link>
+		<lastBuildDate>Thu, 02 Sep 2021 14:56:10 +0200</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://localhost/lzmk/o-nama/zbirke?format=feed&amp;type=rss"/>
+		<language>hr-hr</language>
+		<item>
+			<title>Služba knjižnice i dokumentacije</title>
+			<link>https://localhost/lzmk/o-nama/zbirke/40-sluzba-knjiznice-i-dokumentacije</link>
+			<guid isPermaLink="true">https://localhost/lzmk/o-nama/zbirke/40-sluzba-knjiznice-i-dokumentacije</guid>
+			<description><![CDATA[<p><strong>Knjižnica Leksikografskoga zavoda</strong> sastoji se od Zbirke knjiga s približno 50 000 knjiga i Zbirke periodike s više od 1300 različitih naslova (časopisa i novina), struktura kojih je prilagođena potrebama različitih područja znanosti. Najzastupljenija su područja književnosti, povijesti i umjetnosti.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/o-nama/zbirke/40-sluzba-knjiznice-i-dokumentacije">Opširnije...</a></p>]]></description>
+			<category>Zbirke</category>
+			<pubDate>Mon, 17 Jul 2017 10:51:02 +0200</pubDate>
+		</item>
+		<item>
+			<title>Katalog retrospektivne bibliografije članaka</title>
+			<link>https://localhost/lzmk/o-nama/zbirke/39-katalog-retrospektivne-bibliografije-clanaka</link>
+			<guid isPermaLink="true">https://localhost/lzmk/o-nama/zbirke/39-katalog-retrospektivne-bibliografije-clanaka</guid>
+			<description><![CDATA[<p><strong>Katalog retrospektivne bibliografije članaka</strong> sadrži oko 10 000 000 kataloških listića na kojima su popisani članci iz periodičkih publikacija (novine, časopisi, zbornici) objavljenih na području Jugoslavije u razdoblju od kraja XVIII. stoljeća do 1945. godine.</p>
+<p class="feed-readmore"><a target="_blank" href="https://localhost/lzmk/o-nama/zbirke/39-katalog-retrospektivne-bibliografije-clanaka">Opširnije...</a></p>]]></description>
+			<category>Zbirke</category>
+			<pubDate>Mon, 17 Jul 2017 10:48:27 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

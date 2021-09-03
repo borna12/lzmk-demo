@@ -1,0 +1,323 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article itemid-135 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/258-radovi-leksikografskoga-zavoda-miroslav-krleza-3" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super User" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Radovi Leksikografskoga zavoda Miroslav Krleža 3</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/258-radovi-leksikografskoga-zavoda-miroslav-krleza-3" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					Radovi Leksikografskoga zavoda Miroslav Krleža 3			<meta itemprop="url" content="https://localhost/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/258-radovi-leksikografskoga-zavoda-miroslav-krleza-3" />
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p><a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/350-impresum-3" hreflang="hr">Impresum</a></p>
+<p>Sadržaj</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div><strong>Rasprave i članci</strong></div>
+</td>
+<td align="right" width="55"> </td>
+</tr>
+<tr>
+<td>
+<div>Zvonimir Jakobović: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/346-duboki-korijeni-hrvatskoga-mjeriteljskog-nazivlja" hreflang="hr">Duboki korijeni hrvatskoga mjeriteljskog nazivlja</a> (Izvorni znanstveni članak) ... <a href="/lzmk/images/radovi3/zvonimir jakobovic duboki korijeni hrvatskoga mjeriteljskog nazivlja.pdf"><span title="zvonimir jakobovic duboki korijeni hrvatskoga mjeriteljskog nazivlja.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">9-13</td>
+</tr>
+<tr>
+<td>
+<div>Mladen Klemenčić: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/354-o-zamisli-i-sadrzaju-atlasa-nove-europe" hreflang="hr">O zamisli i sadržaju atlasa (nove) Europe</a> (Prethodno priopćenje) ... <a href="/lzmk/images/radovi3/mladen klemencic  zamisli i sadrzaju atlasa nove europe.pdf"><span title="mladen klemencic  zamisli i sadrzaju atlasa nove europe.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">15-22</td>
+</tr>
+<tr>
+<td>
+<div>Darko Maljković: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/358-razvitak-visokoskolske-izobrazbe-i-organiziranoga-znanstvenoistrazivackog-rada-u-sisku" hreflang="hr">Razvitak visokoškolske izobrazbe i organiziranoga znanstvenoistraživačkog rada u Sisku</a> (Stručni članak) ... <a href="/lzmk/images/radovi3/darko maljkovic razvitak visokoskolske izobrazbe i organiziranoga znanstvenoistrazivackog rada u sisku.pdf"><span title="darko maljkovic razvitak visokoskolske izobrazbe i organiziranoga znanstvenoistrazivackog rada u sisku.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">
+<div>23-36</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Jasna Šikić: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/347-dubrovcanin-petar-doderlein-i-njegova-zooloska-djela" hreflang="hr">Dubrovčanin Petar Doderlein i njegova zoološka djela</a> (Izvorni znanstveni članak) ... <a href="/lzmk/images/radovi3/jasna sikic dubrovcanin petar doderlein i njegova zooloska djela.pdf"><span title="jasna sikic dubrovcanin petar doderlein i njegova zooloska djela.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">
+<div>37-41</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>Duško Štefanović: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/351-inzenjer-joza-serdar-i-pocetak-proizvodnje-lokomotiva-u-hrvatskoj" hreflang="hr">Inženjer Joza Serdar i početak proizvodnje lokomotiva u Hrvatskoj</a> (Stručni članak) ... <a href="/lzmk/images/radovi3/dusko stefanovic inzenjer joza serdar i pocetak proizvodnje lokomotiva u hrvatskoj.pdf"><span title="dusko stefanovic inzenjer joza serdar i pocetak proizvodnje lokomotiva u hrvatskoj.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">43-50</td>
+</tr>
+<tr>
+<td>
+<div><strong>Prilozi sa znanstvenog skupa HRVATSKI PRIRODOSLOVCI 2</strong></div>
+</td>
+<td align="right" width="55"> </td>
+</tr>
+<tr>
+<td>
+<div>Draško Šerman: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/345-dr-milislav-demerec-hrvatski-sin-i-dak-svjetski-biolog-i-geneticar" hreflang="hr">Dr. Milislav Demerec, hrvatski sin i đak, svjetski biolog i genetičar</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/drasko serman dr. milislav demerec hrvatski sin i ak svjetski biolog i geneticar.pdf"><span title="drasko serman dr. milislav demerec hrvatski sin i ak svjetski biolog i geneticar.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">53-75</td>
+</tr>
+<tr>
+<td>
+<div>Dragutin Skoko: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/344-andrija-mohorovicic-u-znanosti-i-vremenu" hreflang="hr">Andrija Mohorovičić u znanosti i vremenu</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/dragutin skoko andrija mohorovicic u znanosti i vremenu.pdf"><span title="dragutin skoko andrija mohorovicic u znanosti i vremenu.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">77-93</td>
+</tr>
+<tr>
+<td>
+<div>Vladimir Dugački: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/349-hrvatski-lijecnici-prirodoslovci" hreflang="hr">Hrvatski liječnici - prirodoslovci</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/vladimir dugacki hrvatski lijecnici - prirodoslovci.pdf"><span title="vladimir dugacki hrvatski lijecnici - prirodoslovci.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">95-114</td>
+</tr>
+<tr>
+<td>
+<div>Nenad Trinajstić: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/360-zdenko-majerski-1937-1988-rani-odlazak-tihoga-covjeka" hreflang="hr">Zdenko Majerski (1937-1988) - rani odlazak tihoga čovjeka</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/nenad trinajstic zdenko majerski 1937-1988 - rani odlazak tihoga covjeka.pdf"><span title="nenad trinajstic zdenko majerski 1937-1988 - rani odlazak tihoga covjeka.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">115-121</td>
+</tr>
+<tr>
+<td>
+<div>Vladimir Devidé: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/342-akademik-danilo-blanusa-hrvatski-matematicar-medunarodnoga-ugleda" hreflang="hr">Akademik Danilo Blanuša, hrvatski matematičar međunarodnoga ugleda</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/vladimir devid akademik danilo blanusa hrvatski matematicar meunarodnoga ugleda.pdf"><span title="vladimir devid akademik danilo blanusa hrvatski matematicar meunarodnoga ugleda.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">123-136</td>
+</tr>
+<tr>
+<td>
+<div>Marko Tarle: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/353-moderno-prirodoslovlje-kao-regulacijski-mehanizam-povijesti" hreflang="hr">Moderno prirodoslovlje kao regulacijski mehanizam povijesti</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/marko tarle moderno prirodoslovlje kao regulacijski mehanizam povijesti.pdf"><span title="marko tarle moderno prirodoslovlje kao regulacijski mehanizam povijesti.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">137-153</td>
+</tr>
+<tr>
+<td>
+<div>Ivo Trinajstić: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/348-hrvat-roberto-visiani-dalmata-sibenicensis-botanicar-i-domoljub-znanstvenik-svjetskoga-glasa" hreflang="hr">Hrvat Roberto Visiani - Dalmata Sibenicensis, botaničar i domoljub, znanstvenik svjetskoga glasa</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/ivo trinajstic hrvat roberto visiani - dalmata sibenicensis botanicar i domoljub znanstvenik svjetskoga glasa.pdf"><span title="ivo trinajstic hrvat roberto visiani - dalmata sibenicensis botanicar i domoljub znanstvenik svjetskoga glasa.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">155-168</td>
+</tr>
+<tr>
+<td>
+<div>Alojz Getliher: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/352-mijo-kispatic-istaknuti-hrvatski-petrograf-i-popularizator-prirodoslovlja" hreflang="hr">Mijo Kišpatić, istaknuti hrvatski petrograf i popularizator prirodoslovlja</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/alojz getliher mijo kispatic istaknuti hrvatski petrograf i popularizator prirodoslovlja.pdf"><span title="alojz getliher mijo kispatic istaknuti hrvatski petrograf i popularizator prirodoslovlja.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">169-186</td>
+</tr>
+<tr>
+<td>
+<div>Josip Balabanić: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/356-prirodna-znanost-u-istrazivanjima-pothvatima-i-idejama-prirodoslovca-spiridiona-brusine" hreflang="hr">Prirodna znanost u istraživanjima, pothvatima i idejama prirodoslovca Spiridiona Brusine</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/josip balabanic prirodna znanost u istrazivanjima pothvatima i idejama prirodoslovca spiridiona brusine.pdf"><span title="josip balabanic prirodna znanost u istrazivanjima pothvatima i idejama prirodoslovca spiridiona brusine.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">187-201</td>
+</tr>
+<tr>
+<td>
+<div>Vladimir Muljević: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/343-akademik-josip-loncar-nestor-hrvatske-elektrotehnike" hreflang="hr">Akademik Josip Lončar, nestor hrvatske elektrotehnike</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/vladimir muljevic akademik josip loncar nestor hrvatske elektrotehnike.pdf"><span title="vladimir muljevic akademik josip loncar nestor hrvatske elektrotehnike.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">203-214</td>
+</tr>
+<tr>
+<td>
+<div>Radovan Domac: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/357-prof-dr-ivo-horvat-zivot-i-djelo" hreflang="hr">Prof. dr. Ivo Horvat - život i djelo</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/radovan domac prof. dr. ivo horvat - zivot i djelo.pdf"><span title="radovan domac prof. dr. ivo horvat - zivot i djelo.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">215-221</td>
+</tr>
+<tr>
+<td>
+<div>Mladen Rac, Andrija Željko Lovrić: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/355-primjeri-politickog-onemogucavanja-rada-hrvatskih-prirodoslovaca-1-dio-profesori-ivo-horvat-stjepan-bertovic-i-boris-vrtar" hreflang="hr">Primjeri političkog onemogućavanja rada hrvatskih prirodoslovaca, 1. dio: profesori Ivo Horvat, Stjepan Bertović i Boris Vrtar</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/mladen rac andrija zeljko lovric primjeri politickog onemogucavanja rada hrvatskih prirodoslovaca 1. dio profesori ivo horvat stjepan bertovic i boris vrtar.pdf"><span title="mladen rac andrija zeljko lovric primjeri politickog onemogucavanja rada hrvatskih prirodoslovaca 1. dio profesori ivo horvat stjepan bertovic i boris vrtar.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">223-229</td>
+</tr>
+<tr>
+<td>
+<div>Kristina Gamiršek Šnidaršić: <a href="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/359-sedam-desetljeca-primjene-i-pola-stoljeca-proizvodnje-inzulina-u-hrvatskoj" hreflang="hr">Sedam desetljeća primjene i pola stoljeća proizvodnje inzulina u Hrvatskoj</a> (Pozvano predavanje) ... <a href="/lzmk/images/radovi3/kristina gamirsek snidarsic sedam desetljeca primjene i pola stoljeca proizvodnje inzulina u hrvatskoj.pdf"><span title="kristina gamirsek snidarsic sedam desetljeca primjene i pola stoljeca proizvodnje inzulina u hrvatskoj.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">231-240</td>
+</tr>
+<tr>
+<td>
+<div><strong>Osvrti i znanstvena kronika</strong></div>
+</td>
+<td align="right" width="55"> </td>
+</tr>
+<tr>
+<td>
+<div>Nenad Trinajstić: Osvrt na znanstveni skup »Hrvatski prirodoslovci 2« ... <a href="/lzmk/images/radovi3/nenad trinajstic osvrt na znanstveni skup hrvatski prirodoslovci 2.pdf"><span title="nenad trinajstic osvrt na znanstveni skup hrvatski prirodoslovci 2.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">243-244</td>
+</tr>
+<tr>
+<td>
+<div>Željka Richter: Prikaz međunarodnoga geografskog skupa »Hrvatska - nova europska država« ... <a href="/lzmk/images/radovi3/zeljka richter prikaz meunarodnoga geografskog skupa hrvatska - nova europska drzava.pdf"><span title="zeljka richter prikaz meunarodnoga geografskog skupa hrvatska - nova europska drzava.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">244-245</td>
+</tr>
+<tr>
+<td>
+<div>Zvonimir Jakobović: Sjećanje: Ljubiša Grlić (1921-1993) ... <a href="/lzmk/images/radovi3/zvonimir jakobovic ljubisa grlic 1921-1993.pdf"><span title="zvonimir jakobovic ljubisa grlic 1921-1993.pdf">pdf</span></a></div>
+</td>
+<td align="right" width="55">246-247</td>
+</tr>
+</tbody>
+</table> 	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

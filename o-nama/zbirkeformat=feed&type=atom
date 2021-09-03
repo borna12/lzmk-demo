@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hr-hr">
+	<title type="text">Zbirke</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/o-nama/zbirke</id>
+	<updated>2021-09-02T14:56:10+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/o-nama/zbirke?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Služba knjižnice i dokumentacije</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/o-nama/zbirke/40-sluzba-knjiznice-i-dokumentacije"/>
+		<published>2017-07-17T10:51:02+02:00</published>
+		<updated>2017-07-17T10:51:02+02:00</updated>
+		<id>https://localhost/lzmk/o-nama/zbirke/40-sluzba-knjiznice-i-dokumentacije</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;strong&gt;Knjižnica Leksikografskoga zavoda&lt;/strong&gt; sastoji se od Zbirke knjiga s približno 50 000 knjiga i Zbirke periodike s više od 1300 različitih naslova (časopisa i novina), struktura kojih je prilagođena potrebama različitih područja znanosti. Najzastupljenija su područja književnosti, povijesti i umjetnosti.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/o-nama/zbirke/40-sluzba-knjiznice-i-dokumentacije&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Knjižnica Leksikografskoga zavoda&lt;/strong&gt; sastoji se od Zbirke knjiga s približno 50 000 knjiga i Zbirke periodike s više od 1300 različitih naslova (časopisa i novina), struktura kojih je prilagođena potrebama različitih područja znanosti. Najzastupljenija su područja književnosti, povijesti i umjetnosti.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/o-nama/zbirke/40-sluzba-knjiznice-i-dokumentacije&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Zbirke" />
+	</entry>
+	<entry>
+		<title>Katalog retrospektivne bibliografije članaka</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/o-nama/zbirke/39-katalog-retrospektivne-bibliografije-clanaka"/>
+		<published>2017-07-17T10:48:27+02:00</published>
+		<updated>2017-07-17T10:48:27+02:00</updated>
+		<id>https://localhost/lzmk/o-nama/zbirke/39-katalog-retrospektivne-bibliografije-clanaka</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;strong&gt;Katalog retrospektivne bibliografije članaka&lt;/strong&gt; sadrži oko 10 000 000 kataloških listića na kojima su popisani članci iz periodičkih publikacija (novine, časopisi, zbornici) objavljenih na području Jugoslavije u razdoblju od kraja XVIII. stoljeća do 1945. godine.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/o-nama/zbirke/39-katalog-retrospektivne-bibliografije-clanaka&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;strong&gt;Katalog retrospektivne bibliografije članaka&lt;/strong&gt; sadrži oko 10 000 000 kataloških listića na kojima su popisani članci iz periodičkih publikacija (novine, časopisi, zbornici) objavljenih na području Jugoslavije u razdoblju od kraja XVIII. stoljeća do 1945. godine.&lt;/p&gt;
+&lt;p class=&quot;feed-readmore&quot;&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://localhost/lzmk/o-nama/zbirke/39-katalog-retrospektivne-bibliografije-clanaka&quot;&gt;Opširnije...&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Zbirke" />
+	</entry>
+</feed>

@@ -1,0 +1,200 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article layout-default itemid-103 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/vijesti/arhiva-vijesti/537-e-leks-klik-do-znanja" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Senka" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>e-Leks: Klik do znanja</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/vijesti/arhiva-vijesti/537-e-leks-klik-do-znanja" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/lzmk/vijesti/arhiva-vijesti/537-e-leks-klik-do-znanja" itemprop="url" title="e-Leks: Klik do znanja">
+				e-Leks: Klik do znanja</a>
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+          	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Detalji							</dt>
+
+			
+			
+			
+										<dd class="published hasTooltip" title="Objavljeno: ">
+				<i class="icon-calendar"></i>
+				<time datetime="2020-04-22T08:00:28+02:00" itemprop="datePublished">
+					22 Travanj 2020				</time>
+			</dd>					
+					
+			
+						</dl>
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p><img class="pull-left" style="margin: 10px;" src="/lzmk/images/eleks/podrucja.jpg" width="200" height="100" />Leksikografski zavod Miroslav Krleža već 70 godina prikuplja, sustavno obrađuje, predstavlja pa i tumači činjenice i spoznaje o pojavama, pojmovima i osobama iz prošlosti i sadašnjosti te na taj način pridonosi hrvatskoj kulturi, znanju i općoj naobrazbi naše zajednice.</p>
+<p style="text-align: justify;">Dio znanja okupljenog u više od <span style="color: #3488bf;"><strong>400 svezaka enciklopedija, rječnika i leksikona</strong></span> danas je dostupan i na mrežnim stranicama Zavoda, koji već desetak godina digitalizira tiskana izdanja te objavljuje nova digitalna izdanja, omogućujući <span style="color: #3488bf;"><strong>slobodan pristup</strong></span> svima koji žele točnu i provjerenu informaciju.</p>
+<p style="text-align: justify;">Sadržaj platforme <strong><span style="color: #3488bf;"><a href="/lzmk/e-leks">e-Leks</a></span></strong> osmišljen je u svrhu dodatnoga informiranja javnosti i pravodobnog pružanja informacija o aktualnim događajima u Hrvatskoj i svijetu, pomaganja učenicima i studentima u pronalaženju podataka u digitalnim i digitaliziranim enciklopedijama i leksikonima te prikazom leksikografskoga blaga prikupljanoga više desetljeća na zanimljiv i informativan način.</p>
+ 
+<p style="text-align: justify;">Pripremili smo tek neke članke koji će vas usmjeriti i pokazati vam kako jednostavno pronaći željenu informaciju. Članke smo razvrstali u rubrike koje odgovaraju područjima u mrežnom izdanju <span style="color: #3488bf;"><em><strong><a href="https://enciklopedija.hr/struke.aspx">Hrvatske enciklopedij</a>e</strong></em></span> Leksikografskoga zavoda, opće enciklopedije koja se temelji na knjižnom (tiskanom) izdanju objavljenom u 11 svezaka od 1999. do 2009. Mrežno izdanje <em>Hrvatske enciklopedije</em> redovito se uređuje i dopunjava novim tekstovima, otvoreno je za komentare i prijedloge korisnika te na taj načn ispunjava svoju temeljnu zadaću kao izvor točnih i pouzdanih informacija.</p>
+<p><a href="https://enciklopedija.hr/"><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/he.jpg" alt="" /></a> </p>
+<p style="text-align: justify;">Pozornost skrećemo i na iznimno vrijedno mrežno izdanje <span style="color: #3488bf;"><strong><em><a href="http://hbl.lzmk.hr/">Hrvatskoga biografskog leksikona</a></em></strong></span>, dugoročnoga biobibliografskog projekta Leksikografskoga zavoda u kojem se donose životopisi osoba koje su pridonijele hrvatskom identitetu, društvu, kulturi i znanosti.</p>
+<p style="text-align: center;"><a href="http://hbl.lzmk.hr/"><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/HBLbanner.png" alt="" /></a> </p>
+<p style="text-align: justify;">Vrijedan je izvor podataka i mrežno izdanje <span style="color: #3488bf;"><strong><em><a href="https://tehnika.lzmk.hr/">Hrvatske tehničke enciklopedije</a></em></strong></span> u kojoj su prikupljena i usustavljena znanja o hrvatskoj tehničkoj baštini te o povijesti i dosezima tehnike koja zauzima važno mjesto u kulturi i društvu. Online izdanje enciklopedije redovito se ažurira i dopunjava novim sadržajima.</p>
+<p style="text-align: center;"><a href="https://tehnika.lzmk.hr/"><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/BANNER-HTE-za-web.jpg" alt="" /></a> </p>
+<p>Leksikografski zavod nastavlja sustavno digitalizirati starija izdanja i tako vrijednu baštinu svojih enciklopedija i leksikona prenijeti budućim naraštajima. Na <strong><a title="Portal znanja" href="http://enciklopedija.lzmk.hr/"><em>Portalu znanja</em></a></strong> okupljeno je devet izdanja koja korisnicima nude više od 100 000 članaka.</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/lzmk/images/Online/portal-znanja-bener.jpg" alt="" /> </p>
+<p>Popis svih <strong><span style="color: #3488bf;">digitalnih i digitaliziranih izdanja</span></strong> Leksikografskoga zavoda pogledajte <a href="/lzmk/izdanja/online-izdanja" hreflang="hr">ovdje</a></p>	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

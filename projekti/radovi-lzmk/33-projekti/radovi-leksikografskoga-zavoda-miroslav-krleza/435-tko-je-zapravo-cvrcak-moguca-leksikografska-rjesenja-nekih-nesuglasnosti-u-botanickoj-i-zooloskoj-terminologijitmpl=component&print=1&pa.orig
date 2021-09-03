@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article itemid-135 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/435-tko-je-zapravo-cvrcak-moguca-leksikografska-rjesenja-nekih-nesuglasnosti-u-botanickoj-i-zooloskoj-terminologiji" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super User" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Tko je, zapravo, cvrčak? Moguća leksikografska rješenja nekih nesuglasnosti u botaničkoj i zoološkoj terminologiji</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/projekti/radovi-lzmk/33-projekti/radovi-leksikografskoga-zavoda-miroslav-krleza/435-tko-je-zapravo-cvrcak-moguca-leksikografska-rjesenja-nekih-nesuglasnosti-u-botanickoj-i-zooloskoj-terminologiji" />
+
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p><strong>Tko je, zapravo, cvrčak? Moguća leksikografska rješenja nekih nesuglasnosti u botaničkoj i zoološkoj terminologiji</strong></p>
+<p><a href="/lzmk/images/radovi10/radovan lucictko je zapravo cvrcak moguca leksikografska rjesenja nekih nesuglasnosti u botanickoj i zooloskoj terminologiji.pdf"><span title="radovan lucictko je zapravo cvrcak moguca leksikografska rjesenja nekih nesuglasnosti u botanickoj i zooloskoj terminologiji.pdf">preuzmi članak</span></a></p>
+<p><strong>Radovan Lučić</strong><br /><strong>Sveučilište u Amsterdamu, Amsterdam</strong></p>
+<p><strong>SAŽETAK:</strong> U svom izlaganju namjeravam prikazati mogućnosti leksikografskog razgraničenja općih i specifičnih značenja termina te pojasniti uzroke pojava različitih stručnih naziva za iste referente. Također ću pokušati objasniti nužnost navođenja točnih internacionalnih (latinskih) naziva kao i tehnike njihovog pronalaženja. U stručnom nazivlju postoje pravi i opći termini. Pravi termini su leksemi koji označuju pojam ograničen na određeno strukovno područje i koji pripadaju strukovnom žargonu, a opći termini se, osim u određenom strukovnom području, koriste i u općem leksiku svakodnevnog govora. Ako tu podjelu primijenimo u području zoologije, možemo ustvrditi kako npr. ≫ravnokrilci≪ spadaju u prave, a ≫psi≪ u opće termine. Opći termini imaju, dakle, uza svoja specifična, i dodatna, opća značenja. Podjela i hijerarhija tih značenja često ovisi о geografskim, kulturnim i jezičnim datostima određenog podneblja. U prvom dijelu izlaganja prikazat ću moguće leksikografske pristupe obradi općih termina u jednojezičnim i višejezičnim rječnicima. Na primjer, glavno značenje riječi ≫bakalar≪ u hrvatskom različito je od značenja te riječi u nizozemskom. U Hrvatskoj znači u prvom redu suhu ribu koja se jede za Božić, dok u Nizozemskoj znači svježu ribu koja se kupuje svaki dan u ribarnici. Uz to, za ta dva koncepta postoje u nizozemskom dva različita leksema, dok u hrvatskom bakalar ostaje bakalar, bio on suh ili svjež. Poseban problem jest pitanje sinonimije: kada su različiti hrvatski nazivi pravi sinonimi, a kada su različite vrste istog roda? Tko je cvrčak, a tko stričak: jesu li šturak i zrikavac isto? Što je buča, a što buća; u kojem su odnosu tikva i bundeva? Pravi termini, kao dio strukovnog žargona, jasno su definirani zakonitostima struke, te u principu, nema prevelikih poteškoća u njihovom prezentiranju, osim što u višejezičnim rječnicima treba posebnu pozornost posvetiti pravopisu i izgovoru. Međutim, pri njihovu označavanju internacionalnim, latinskim nazivima, često je potrebno uložiti dodatne napore jer se za iste leksičke jedinice u različitim izvorima koriste drugačiji latinski nazivi. Je li naš barbun ≫Mullus≪, ≫Mullus barbatus≪, ≫Mullus surmuletus≪ ili ≫Barbus barbus≪? Osim toga, ≫breza≪ u Hrvatskoj nije ista kao ≫breza≪ u Nizozemskoj. Je li zadatak jednog opširnog, ali još uvijek općeg rječnika, pokazati te razlike? U svezi s tim razmotrit ću sljedeća pitanja:<br />određivanje granice između enciklopedije i rječnika<br />nužnost navođenja stručnih naziva<br />pristupačnost stručnih priručnika<br />praćenje promjena u nomenklaturama<br />provjera korupcije: tiskarske pogreške i prepisivanja.<br />Primjerima iz desetak leksikografskih i enciklopedičkih izvora pokazat ću prednosti i nedostatke pojedinih načina leksikografske obrade botaničkih i zooloških termina kao i (ne)sustavnosti u korištenju latinskog stručnog nazivlja.</p> 	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

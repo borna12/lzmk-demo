@@ -1,0 +1,385 @@
+
+<!DOCTYPE html>
+<html lang="hr-hr" dir="ltr" class='component window com_content view-article layout-default itemid-102 j31 mm-hover'>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
+
+    <base href="https://localhost/lzmk/vijesti/626-predstavljanje-turopoljskoga-leksikona-u-velikoj-gorici" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Senka" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Predstavljanje Turopoljskoga leksikona u Velikoj Gorici</title>
+	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/content/jw_sig/jw_sig/tmpl/Classic/css/template.css?v=4.1.0" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/megamenu.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"e4ce8245716e24b5aac947daefd917be","system.paths":{"root":"\/lzmk","base":"\/lzmk"}}</script>
+	<script src="/lzmk/media/system/js/mootools-core.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/core.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
+	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+        (function($) {
+            $(document).ready(function() {
+                $.fancybox.defaults.i18n.en = {
+                    CLOSE: 'Close',
+                    NEXT: 'Next',
+                    PREV: 'Previous',
+                    ERROR: 'The requested content cannot be loaded.<br/>Please try again later.',
+                    PLAY_START: 'Start slideshow',
+                    PLAY_STOP: 'Pause slideshow',
+                    FULL_SCREEN: 'Full screen',
+                    THUMBS: 'Thumbnails',
+                    DOWNLOAD: 'Download',
+                    SHARE: 'Share',
+                    ZOOM: 'Zoom'
+                };
+                $.fancybox.defaults.lang = 'en';
+                $('a.fancybox-gallery').fancybox({
+                    buttons: [
+                        'slideShow',
+                        'fullScreen',
+                        'thumbs',
+                        'share',
+                        'download',
+                        //'zoom',
+                        'close'
+                    ],
+                    beforeShow: function(instance, current) {
+                        if (current.type === 'image') {
+                            var title = current.opts.$orig.attr('title');
+                            current.opts.caption = (title.length ? '<b class="fancyboxCounter">Image ' + (current.index + 1) + ' of ' + instance.group.length + '</b>' + ' | ' + title : '');
+                        }
+                    }
+                });
+            });
+        })(jQuery);
+    jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/lzmk/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="/lzmk/templates/purity_iii/css/ie8.css" type="text/css" />
+<![endif]-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.1.2/sweetalert2.all.js" integrity="sha512-Qln7rU8nmkRysFoNSK570EF599jroqZr/ZYEkbDJirKOOheGwbXH4IOBk3j4oyPOdORsJEGksnboqw2yCy0yfQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="https://www.lzmk.hr/custom_skripte/css_kod_dodatni.css">
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24295396-1', 'lzmk.hr');
+  ga('send', 'pageview');
+
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+
+</head>
+
+  <body class="contentpane">
+    <div id="window-mainbody" class="window-mainbody">
+      <div id="system-message-container">
+	</div>
+
+      
+
+<div class="item-page clearfix">
+
+
+<!-- Article -->
+<article>
+	<meta itemprop="inLanguage" content="hr-HR" />
+	<meta itemprop="url" content="/lzmk/vijesti/626-predstavljanje-turopoljskoga-leksikona-u-velikoj-gorici" />
+
+      
+<header class="article-header clearfix">
+	<h1 class="article-title" itemprop="headline">
+					<a href="/lzmk/vijesti/626-predstavljanje-turopoljskoga-leksikona-u-velikoj-gorici" itemprop="url" title="Predstavljanje Turopoljskoga leksikona u Velikoj Gorici">
+				Predstavljanje Turopoljskoga leksikona u Velikoj Gorici</a>
+			</h1>
+
+			</header>
+    
+    
+  <!-- Aside -->
+    <aside class="article-aside clearfix">
+          	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+													Detalji							</dt>
+
+			
+			
+			
+										<dd class="published hasTooltip" title="Objavljeno: ">
+				<i class="icon-calendar"></i>
+				<time datetime="2021-04-28T13:28:19+02:00" itemprop="datePublished">
+					28 Travanj 2021				</time>
+			</dd>					
+					
+			
+						</dl>
+        
+          
+
+	<div class="pull-right">
+		<a href="#" onclick="window.print();return false;"><span class="fa fa-print"></span>&#160;Ispis&#160;</a>	</div>
+
+      </aside>  
+    <!-- //Aside -->
+
+  
+  
+  
+	
+  
+	
+	<section class="article-content clearfix">
+		<p><img class="pull-left" style="margin: 10px;" src="/lzmk/images/Turopoljski_leksikon/Naslovna.jpg" width="300" />U središtu Velike Gorice, pred Turopoljskim gradom, danas sjedištem Muzeja Turopolja, na Jurjevo, 23. travnja 2021. održana je svečana promocija <a href="/lzmk/izdanja/leksikoni/624-turopoljski-leksikon" target="_blank" rel="noopener noreferrer"><em>Turopoljskoga leksikona</em></a><em>,</em> u organizaciji Grada Velike Gorice. Pred novinarima i malobrojnim uzvanicima, u skladu s epidemiološkim mjerama, predstavljanje je uvodnim govorom otvorila Katja Matković Mikulčić, ravnateljica Gradske knjižnice Velika Gorica, ujedno i suurednica <em>Leksikona</em>. O knjizi su govorili Juraj Odrčić, župan Plemenite opčine Turopolje, Mladen Klemenčić, zavodski urednik, glavni ravnatelj Leksikografskoga zavoda Bruno Kragić, Krešimir Ačkar, obnašatelj dužnosti gradonačelnika, i ministrica kulture i medija Nina Obuljen Koržinek.</p>
+ 
+<p>Uzvanici i govornici uputili su čestitke urednicima i svim suradnicima koji su radili na <em>Turopoljskom leksikonu,</em> važnome za lokalnu zajednicu i cijeli turopoljski kraj. Suradnja s lokalnom zajednicom pokazala se kao dobar model za realizaciju takvih opsežnih enciklopedijskih projekata trajnoga značenja.</p>
+<p>U umjetničkome dijelu programa sudjelovali su glumac i pjevač Adam Končić, recitirajući stihove iz Krležinih <em>Balada, </em>te učenici viših razreda Umjetničke škole Franje Lučića izvevši pjesme <em>Lepi Jura</em> i <em>Tkeš si fletno,</em> uz klavirsku pratnju Krešimira Starčevića, koje je uglazbio znameniti skladatelj i turopoljski župan Franjo Lučić.</p>
+<p> </p>
+<p>Iz <em>Predgovora</em>:</p>
+<p>»<em>Turopoljski leksikon</em> novo je izdanje u nakladi Leksikografskoga zavoda Miroslav Krleža. Projekt izradbe leksikona posvećenoga Turopolju Leksikografski je zavod pokrenuo uz svesrdnu potporu Grada Velike Gorice, središnje turopoljske upravne jedinice, a ugovor o suradnji potpisan je početkom 2018. Koncepcijom i likovnim oblikovanjem <em>Leksikon</em> se nadovezuje na prijašnja izdanja Leksikografskoga zavoda u kojima su obrađene pojedine hrvatske regije (Istra, Hrvatsko zagorje) ili gradovi (Zagreb), a izradbu kojih su podupirala tijela područne samouprave...</p>
+<p>... U skladu s uobičajenim načinom rada, Leksikografski je zavod i u ovome projektu nastojao okupiti što širi krug suradnika, ponajprije autora članaka. Kao i uvijek pri odabiru suradnika, nastojalo se angažirati najpozvanije autore, bilo da je riječ o pojedincima iz baštinskih i drugih obrazovnih i kulturnih ustanova, publicistima s objavljenim radovima ili istraživačima pojedinih znanstvenih područja koji su se u dosadašnjem radu dokazali kao poznavatelji turopoljskih tema.«</p>
+<p> </p>
+<p><span style="text-decoration: underline;">Iz medija i službenih priopćenja:</span></p>
+<p><a href="https://min-kulture.gov.hr/vijesti-8/jedinstveni-identitet-turopolja-u-enciklopedijskom-izdanju/20856" target="_blank" rel="noopener noreferrer">Ministarstvo kulture i medija</a></p>
+<p><a href="https://vgradu.hr/povodom-sv-jurja-prigodno-predstavljen-turopoljski-leksikon/" target="_blank" rel="noopener noreferrer">Povodom Sv. Jurja prigodno predstavljen Turopoljski leksikon</a></p>
+<p><a href="http://www.kronikevg.com/predstavljen-turopoljski-leksikon1-turopoljski-klasik-koji-objedinjuje-ljude-mjesta-i-razvoj-naseg-kraja/" target="_blank" rel="noopener noreferrer">Predstavljen turopoljski klasik koji objedinjuje ljude, mjesta i razvoj našeg kraja</a></p>
+<p><a href="http://www.kronikevg.com/knjiga-tjedna-turopoljski-leksikon/" target="_blank" rel="noopener noreferrer">Knjiga tjedna – Turopoljski leksikon</a></p>
+<p><a href="https://cityportal.hr/foto-predstavljen-turopoljski-leksikon-kapitalno-djelo-stvarano-tri-godine/" target="_blank" rel="noopener noreferrer">Predstavljen ”Turopoljski leksikon” – kapitalno djelo stvarano tri godine</a></p>
+<p><a href="https://radio.hrt.hr/radio-sljeme/ep/kajkavijana-turopoljski-leksikon/378074/" target="_blank" rel="noopener noreferrer">Radijska emisija Kajkavijana – Turopoljski leksikon</a></p>
+<p><a href="https://soundcloud.com/city-radio-hr/26042021-vidici-jednakih-mogucnosti" target="_blank" rel="noopener noreferrer">Radijska emisija Vidici jednakih mogućnosti (City Radio)</a></p>
+<p><a href="http://historiografija.hr/?p=25955" target="_blank" rel="noopener noreferrer">Historiografija.hr</a></p>
+<p><a href="https://www.info.hazu.hr/2021/04/turopoljski-leksikon/" target="_blank" rel="noopener noreferrer">Hrvatska akademija znanosti i umjetnosti</a></p>
+<p> </p>
+<p>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) starts here -->
+
+<ul id="sigFreeIdcecfacd6e2" class="sigFreeContainer sigFreeClassic">
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Adam_Koncic_recitira.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Adam_Koncic_recitira.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_adam_koncic_recitira.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Adam_Koncic_recitira.jpg" title="Click to enlarge image Adam_Koncic_recitira.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_adam_koncic_recitira.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Glavni_ravnatelj_LZ-a.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Glavni_ravnatelj_LZ-a.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_glavni_ravnatelj_lz-a.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Glavni_ravnatelj_LZ-a.jpg" title="Click to enlarge image Glavni_ravnatelj_LZ-a.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_glavni_ravnatelj_lz-a.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Katja_Matkovic-Mikulcic.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Katja_Matkovic-Mikulcic.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_katja_matkovic-mikulcic.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Katja_Matkovic-Mikulcic.jpg" title="Click to enlarge image Katja_Matkovic-Mikulcic.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_katja_matkovic-mikulcic.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Knjige.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Knjige.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_knjige.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Knjige.jpg" title="Click to enlarge image Knjige.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_knjige.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Knjige2.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Knjige2.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_knjige2.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Knjige2.jpg" title="Click to enlarge image Knjige2.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_knjige2.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Knjige3.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Knjige3.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_knjige3.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Knjige3.jpg" title="Click to enlarge image Knjige3.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_knjige3.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Ministrica_Nina_Obuljen_Korzinek.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Ministrica_Nina_Obuljen_Korzinek.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_ministrica_nina_obuljen_korzinek.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Ministrica_Nina_Obuljen_Korzinek.jpg" title="Click to enlarge image Ministrica_Nina_Obuljen_Korzinek.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_ministrica_nina_obuljen_korzinek.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Mladen_Klemencic.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Mladen_Klemencic.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladen_klemencic.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Mladen_Klemencic.jpg" title="Click to enlarge image Mladen_Klemencic.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladen_klemencic.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Mladen_Klemencic_i_Katja_Matkovic_Mikulcic.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Mladen_Klemencic_i_Katja_Matkovic_Mikulcic.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladen_klemencic_i_katja_matkovic_mikulcic.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Mladen_Klemencic_i_Katja_Matkovic_Mikulcic.jpg" title="Click to enlarge image Mladen_Klemencic_i_Katja_Matkovic_Mikulcic.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladen_klemencic_i_katja_matkovic_mikulcic.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Mladi_u_nosnji.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Mladi_u_nosnji.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladi_u_nosnji.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Mladi_u_nosnji.jpg" title="Click to enlarge image Mladi_u_nosnji.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladi_u_nosnji.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Mladi_u_nosnji2.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Mladi_u_nosnji2.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladi_u_nosnji2.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Mladi_u_nosnji2.jpg" title="Click to enlarge image Mladi_u_nosnji2.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladi_u_nosnji2.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Nosnja.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Nosnja.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_nosnja.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Nosnja.jpg" title="Click to enlarge image Nosnja.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_nosnja.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Promocija1.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Promocija1.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_promocija1.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Promocija1.jpg" title="Click to enlarge image Promocija1.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_promocija1.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Promocija_Turopoljskog_leksikona.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Promocija_Turopoljskog_leksikona.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_promocija_turopoljskog_leksikona.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Promocija_Turopoljskog_leksikona.jpg" title="Click to enlarge image Promocija_Turopoljskog_leksikona.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_promocija_turopoljskog_leksikona.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Turopoljci_citaju.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Turopoljci_citaju.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_turopoljci_citaju.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Turopoljci_citaju.jpg" title="Click to enlarge image Turopoljci_citaju.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_turopoljci_citaju.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Turopoljski_banderij.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Turopoljski_banderij.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_turopoljski_banderij.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Turopoljski_banderij.jpg" title="Click to enlarge image Turopoljski_banderij.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_turopoljski_banderij.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Urednici_Katja_i_Mladen.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Urednici_Katja_i_Mladen.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_urednici_katja_i_mladen.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Urednici_Katja_i_Mladen.jpg" title="Click to enlarge image Urednici_Katja_i_Mladen.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_urednici_katja_i_mladen.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Urednik_Mladen_Klemencic.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Urednik_Mladen_Klemencic.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_urednik_mladen_klemencic.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Urednik_Mladen_Klemencic.jpg" title="Click to enlarge image Urednik_Mladen_Klemencic.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_urednik_mladen_klemencic.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Uzvanici.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Uzvanici.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_uzvanici.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Uzvanici.jpg" title="Click to enlarge image Uzvanici.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_uzvanici.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeThumb">
+        <a href="/lzmk/images//Turopoljski_leksikon/Promocija/Uzvanici2.jpg" class="sigFreeLink fancybox-gallery" style="width:200px;height:160px;" title="You are viewing the image with filename Uzvanici2.jpg" data-thumb="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_uzvanici2.jpg" target="_blank" data-fancybox="gallerycecfacd6e2">
+            <img class="sigFreeImg" src="/lzmk/plugins/content/jw_sig/jw_sig/includes/images/transparent.gif" alt="Click to enlarge image Uzvanici2.jpg" title="Click to enlarge image Uzvanici2.jpg" style="width:200px;height:160px;background-image:url('/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_uzvanici2.jpg');" />
+        </a>
+    </li>
+        <li class="sigFreeClear">&nbsp;</li>
+</ul>
+
+<!-- Print output -->
+<div class="sigFreePrintOutput">
+        <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_adam_koncic_recitira.jpg" alt="Adam_Koncic_recitira.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_glavni_ravnatelj_lz-a.jpg" alt="Glavni_ravnatelj_LZ-a.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_katja_matkovic-mikulcic.jpg" alt="Katja_Matkovic-Mikulcic.jpg" />
+    <br /><br />        <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_knjige.jpg" alt="Knjige.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_knjige2.jpg" alt="Knjige2.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_knjige3.jpg" alt="Knjige3.jpg" />
+    <br /><br />        <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_ministrica_nina_obuljen_korzinek.jpg" alt="Ministrica_Nina_Obuljen_Korzinek.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladen_klemencic.jpg" alt="Mladen_Klemencic.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladen_klemencic_i_katja_matkovic_mikulcic.jpg" alt="Mladen_Klemencic_i_Katja_Matkovic_Mikulcic.jpg" />
+    <br /><br />        <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladi_u_nosnji.jpg" alt="Mladi_u_nosnji.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_mladi_u_nosnji2.jpg" alt="Mladi_u_nosnji2.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_nosnja.jpg" alt="Nosnja.jpg" />
+    <br /><br />        <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_promocija1.jpg" alt="Promocija1.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_promocija_turopoljskog_leksikona.jpg" alt="Promocija_Turopoljskog_leksikona.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_turopoljci_citaju.jpg" alt="Turopoljci_citaju.jpg" />
+    <br /><br />        <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_turopoljski_banderij.jpg" alt="Turopoljski_banderij.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_urednici_katja_i_mladen.jpg" alt="Urednici_Katja_i_Mladen.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_urednik_mladen_klemencic.jpg" alt="Urednik_Mladen_Klemencic.jpg" />
+    <br /><br />        <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_uzvanici.jpg" alt="Uzvanici.jpg" />
+            <img src="/lzmk/cache/jw_sig/jw_sig_cache_cecfacd6e2_uzvanici2.jpg" alt="Uzvanici2.jpg" />
+        </div>
+
+<!-- JoomlaWorks "Simple Image Gallery" Plugin (v4.1.0) ends here -->
+
+</p>
+<p><em>Autori fotografija:</em> Iva Klobučar Srbić i Muzej Turopolja</p>	</section>
+  
+  <!-- footer -->
+    <!-- //footer -->
+
+	
+	
+	</article>
+<!-- //Article -->
+
+
+</div>
+
+
+    </div>
+<script type="text/javascript">
+  var _userway_config = {
+    size: 'small', 
+    account: 'wMdh6a42jR'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- dodane skripte -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js'></script>
+
+
+<script type="text/javascript" src="https://www.lzmk.hr/custom_skripte/js_kod_dodatni.js"></script>
+</body>
+
+</html>

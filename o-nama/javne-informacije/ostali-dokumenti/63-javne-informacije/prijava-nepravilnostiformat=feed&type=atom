@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="hr-hr">
+	<title type="text">Ostali dokumenti</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://localhost"/>
+	<id>https://localhost/lzmk/o-nama/javne-informacije/ostali-dokumenti/63-javne-informacije/prijava-nepravilnosti</id>
+	<updated>2021-09-02T15:08:40+02:00</updated>
+	<author>
+		<name>www.lzmk.hr</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://localhost/lzmk/o-nama/javne-informacije/ostali-dokumenti/63-javne-informacije/prijava-nepravilnosti?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Prijava nepravilnosti</title>
+		<link rel="alternate" type="text/html" href="https://localhost/lzmk/o-nama/javne-informacije/prijava-nepravilnosti"/>
+		<published>2020-04-03T13:20:35+02:00</published>
+		<updated>2020-04-03T13:20:35+02:00</updated>
+		<id>https://localhost/lzmk/o-nama/javne-informacije/prijava-nepravilnosti</id>
+		<author>
+			<name>Cvijeta Kraus</name>
+		</author>
+		<summary type="html">&lt;p&gt;U skladu sa Zakonom o zaštiti prijavitelja nepravilnosti (NN 17/19), utvrđuje se učinkovita zaštita prijavitelja nepravilnosti koja uključuje i osiguravanje dostupnih i pouzdanih načina prijavljivanja nepravilnosti.&lt;/p&gt;
+&lt;p&gt;Leksikografski zavod Miroslav Krleža uspostavio je sustav unutarnjega prijavljivanja nepravilnosti i u skladu s tim imenovao povjerljivu osobu za unutarnje prijavljivanje nepravilnosti, koja je dužna zaštititi prijavitelja nepravilnosti od štetne radnje i poduzeti mjere nužne za zaustavljanje štetnih radnji i otklanjanje njihovih posljedica, čuvati podatke zaprimljene u prijavi od neovlaštenoga otkrivanja, osim ako to nije suprotno zakonu, te poduzeti mjere za otklanjanje utvrđenih nepravilnosti.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Kontakt podatci povjerljive osobe&lt;/p&gt;
+&lt;p&gt;e-mail: &lt;a href=&quot;mailto:prijava.nepravilnosti@lzmk.hr&quot;&gt;prijava.nepravilnosti@lzmk.hr&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;U skladu sa Zakonom o zaštiti prijavitelja nepravilnosti (NN 17/19), utvrđuje se učinkovita zaštita prijavitelja nepravilnosti koja uključuje i osiguravanje dostupnih i pouzdanih načina prijavljivanja nepravilnosti.&lt;/p&gt;
+&lt;p&gt;Leksikografski zavod Miroslav Krleža uspostavio je sustav unutarnjega prijavljivanja nepravilnosti i u skladu s tim imenovao povjerljivu osobu za unutarnje prijavljivanje nepravilnosti, koja je dužna zaštititi prijavitelja nepravilnosti od štetne radnje i poduzeti mjere nužne za zaustavljanje štetnih radnji i otklanjanje njihovih posljedica, čuvati podatke zaprimljene u prijavi od neovlaštenoga otkrivanja, osim ako to nije suprotno zakonu, te poduzeti mjere za otklanjanje utvrđenih nepravilnosti.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Kontakt podatci povjerljive osobe&lt;/p&gt;
+&lt;p&gt;e-mail: &lt;a href=&quot;mailto:prijava.nepravilnosti@lzmk.hr&quot;&gt;prijava.nepravilnosti@lzmk.hr&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Prijava nepravilnosti" />
+	</entry>
+</feed>
