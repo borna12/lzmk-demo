@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html lang="hr-hr" dir="ltr"
-	  class='com_content view-featured itemid-101 j31 mm-hover '>
+	  class='com_sppagebuilder view-page itemid-101 j31 mm-hover '>
 <head>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css'>
@@ -10,13 +10,19 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="generator" content="Joomla! - Open Source Content Management" />
 	<title>Leksikografski zavod Miroslav Krleža</title>
-	<link href="/lzmk/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
-	<link href="/lzmk/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
 	<link href="https://localhost/lzmk/" rel="alternate" hreflang="hr-HR" />
 	<link href="https://localhost/lzmk/en/" rel="alternate" hreflang="en-GB" />
 	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	<link href="https://localhost/lzmk/component/search/?Itemid=101&amp;format=opensearch" rel="search" title="Traži www.lzmk.hr" type="application/opensearchdescription+xml" />
+	<link href="https://localhost/lzmk/component/search/?id=1&amp;Itemid=101&amp;format=opensearch" rel="search" title="Traži www.lzmk.hr" type="application/opensearchdescription+xml" />
 	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/components/com_sppagebuilder/assets/css/font-awesome-5.min.css?c9ec15c7d9022f486a83e18219ce02a6" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css?c9ec15c7d9022f486a83e18219ce02a6" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/components/com_sppagebuilder/assets/css/animate.min.css?c9ec15c7d9022f486a83e18219ce02a6" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/components/com_sppagebuilder/assets/css/sppagebuilder.css?c9ec15c7d9022f486a83e18219ce02a6" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/media/syw/css/fonts-min.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/cache/mod_latestnewsenhanced/style_138.css?fba399d7fe04ce3f7653ba6431790c9e" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/modules/mod_latestnewsenhanced/styles/common_styles-min.css?fba399d7fe04ce3f7653ba6431790c9e" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/components/com_sppagebuilder/assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
@@ -24,22 +30,33 @@
 	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/layouts/corporate.css" rel="stylesheet" type="text/css" />
-	<link href="/lzmk/media/mod_languages/css/template.css?50c444a0b4e97c55e688dc0ffe257e82" rel="stylesheet" type="text/css" />
-	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+	<link href="https://localhost/lzmk/plugins/content/fastsocialshare/style/style.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/media/mod_languages/css/template.css?fba399d7fe04ce3f7653ba6431790c9e" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+.sp-page-builder .page-content #section-id-1630921595812{padding-right:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#column-id-1630921595811{box-shadow:0 0 0 0 #fff;}#sppb-addon-1630921595815 .sppb-item-16309215958150 .sppb-carousel-caption h2 {font-size:46px;line-height:56px;color:#fff;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1630921595815 .sppb-item-16309215958150 .sppb-carousel-caption .sppb-carousel-content{font-size:16px;line-height:24px;color:#fff;padding: 20px 0px 30px 0px;margin: 0px 0px 0px 0px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1630921595815 .sppb-item-16309215958150 .sppb-carousel-caption h2 {font-size:36px;line-height:46px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1630921595815 .sppb-item-16309215958150 .sppb-carousel-caption .sppb-carousel-content{font-size:14px;line-height:22px;padding: 15px 0px 20px 0px;margin: 0px 0px 0px 0px;}}@media (max-width:767px) {#sppb-addon-1630921595815 .sppb-item-16309215958150 .sppb-carousel-caption h2{font-size:16px;line-height:20px;padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}#sppb-addon-1630921595815 .sppb-item-16309215958150 .sppb-carousel-caption .sppb-carousel-content{font-size:12px;line-height:16px;padding: 10px 0px 10px 0px;margin: 0px 0px 0px 0px;}}#sppb-addon-1630921595815 .sppb-item-16309215958151 .sppb-carousel-caption h2 {font-size:46px;color:#ffffff;}#sppb-addon-1630921595815 .sppb-item-16309215958151 .sppb-carousel-caption .sppb-carousel-content{color:#ffffff;}#sppb-addon-1630921595815 .sppb-carousel-inner > .sppb-item{-webkit-transition-duration:600ms; transition-duration:600ms;}.sp-page-builder .page-content #section-id-1630924552084{padding:50px 0px 50px 0px;margin:0px 0px 0px 0px;}#column-id-1630924552083{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1630928661575{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#column-id-1630928661574{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1630928661551{padding-top:20px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}#column-id-1630928661550{box-shadow:0 0 0 0 #fff;}#sppb-addon-1630928661558 a:hover,#sppb-addon-1630928661558 a:focus,#sppb-addon-1630928661558 a:active {color:#de8080;}#sppb-addon-1630929638795 .sppb-empty-space {height:40px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1630929638795 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1630929638795 .sppb-empty-space {height:20px;}}#sppb-addon-1630929638771 a:hover,#sppb-addon-1630929638771 a:focus,#sppb-addon-1630929638771 a:active {color:#de8080;}#sppb-addon-1630929638798 .sppb-empty-space {height:40px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1630929638798 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1630929638798 .sppb-empty-space {height:20px;}}#sppb-addon-1630929638783 a:hover,#sppb-addon-1630929638783 a:focus,#sppb-addon-1630929638783 a:active {color:#de8080;}#sppb-addon-1630929638801 .sppb-empty-space {height:40px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1630929638801 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1630929638801 .sppb-empty-space {height:20px;}}#sppb-addon-1630929638804 .sppb-empty-space {height:40px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1630929638804 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1630929638804 .sppb-empty-space {height:20px;}}#sppb-addon-1630929638807 .sppb-empty-space {height:40px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1630929638807 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1630929638807 .sppb-empty-space {height:20px;}}#sppb-addon-1630929638810 .sppb-empty-space {height:40px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1630929638810 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1630929638810 .sppb-empty-space {height:20px;}}#sppb-addon-1630929638813 .sppb-empty-space {height:40px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1630929638813 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1630929638813 .sppb-empty-space {height:20px;}}#sppb-addon-1630929638816 .sppb-empty-space {height:40px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1630929638816 .sppb-empty-space {height:30px;}}@media (max-width:767px) {#sppb-addon-1630929638816 .sppb-empty-space {height:20px;}}
+	</style>
+	<script src="/lzmk/media/jui/js/jquery.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/components/com_sppagebuilder/assets/js/sppagebuilder.js?c9ec15c7d9022f486a83e18219ce02a6" defer="defer" type="text/javascript"></script>
+	<script src="/lzmk/media/syw/js/purepajinate/purePajinate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/cache/mod_latestnewsenhanced/animation_138.js?fba399d7fe04ce3f7653ba6431790c9e" defer="defer" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
 	<script src="/lzmk/templates/purity_iii/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/nav-collapse.js" type="text/javascript"></script>
 	<script type="text/javascript">
-jQuery(window).on('load',  function() {
-				new JCaption('img.caption');
-			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
 	</script>
+	<meta property="og:title" content="Leksikografski zavod Miroslav Krleža" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://localhost/lzmk/index.php" />
+	<meta property="og:site_name" content="www.lzmk.hr" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="www.lzmk.hr" />
 	<link href="https://localhost/lzmk/" rel="alternate" hreflang="x-default" />
 
 	
@@ -103,6 +120,49 @@ jQuery(window).on('load',  function() {
 </head>
 
 <body>
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
 
 <div class="t3-wrapper corporate"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
 
@@ -155,7 +215,7 @@ jQuery(window).on('load',  function() {
 				<nav class="t3-navbar-collapse navbar-collapse collapse"></nav>
 		
 		<nav class="t3-navbar navbar-collapse collapse">
-			<div  class="t3-megamenu"  data-responsive="true">
+			<div  class="t3-megamenu animate slide"  data-duration="400" data-responsive="true">
 <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav level0">
 <li itemprop='name' class="current active" data-id="101" data-level="1">
 <a itemprop='url' class=""  href="/lzmk/"   data-target="#">Početna </a>
@@ -548,315 +608,307 @@ jQuery(window).on('load',  function() {
 
 
 	
+
 <div id="t3-mainbody" class="container t3-mainbody">
 	<div class="row">
 
 		<!-- MAIN CONTENT -->
-		<div id="t3-content" class="t3-content col-xs-12 col-sm-8  col-md-9">
-						<div class="blog-featured">
+		<div id="t3-content" class="t3-content col-xs-12">
+						<div id="system-message-container">
+	</div>
 
-<div class="items-leading clearfix">
-			<div class="leading leading-0">
-			
+						
+<div id="sp-page-builder" class="sp-page-builder  page-1">
 
-	<!-- Article -->
-	<article>
-
-					
-<header class="article-header clearfix">
-	<h2 class="article-title" itemprop="headline">
-					<a href="/lzmk/vijesti/arhiva-vijesti/608-70-godina-leksikografskoga-zavoda-miroslav-krleza" itemprop="url" title="70 godina Leksikografskoga zavoda Miroslav Krleža">
-				70 godina Leksikografskoga zavoda Miroslav Krleža</a>
-			</h2>
-
-			</header>
-		
-		    <!-- Aside -->
-		    		    <aside class="article-aside clearfix">
-		      		      
-		      		      
-
-			<div class="btn-group pull-right">
-			<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="fa fa-cog"></span> <span class="caret"><span class="element-invisible">Empty</span></span> </a>
-						<ul class="dropdown-menu">
-									<li class="print-icon"> <a href="/lzmk/vijesti/arhiva-vijesti/608-70-godina-leksikografskoga-zavoda-miroslav-krleza?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Ispis" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="fa fa-print"></span>&#160;Ispis&#160;</a> </li>
-													<li class="email-icon"> <a href="/lzmk/component/mailto/?tmpl=component&amp;template=purity_iii&amp;link=96bf3594d8041f067ccb853eac3e9fab7455a5b0" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><span class="fa fa-envelope"></span> E-mail</a> </li>
-											</ul>
-		</div>
 	
-		      		    </aside>  
-		    		    <!-- //Aside -->
+	<div class="page-content">
+				<div id="section-id-1630921595812" class="sppb-section " ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12"><div id="column-id-1630921595811" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1630921595815" class="clearfix" ><div id="sppb-carousel-1630921595815" data-interval="5000" class="sppb-carousel sppb-slide" data-sppb-ride="sppb-carousel"><ol class="sppb-carousel-indicators"><li data-sppb-target="#sppb-carousel-1630921595815"  class="active"  data-sppb-slide-to="0"></li>
+<li data-sppb-target="#sppb-carousel-1630921595815"   data-sppb-slide-to="1"></li>
+</ol><div class="sppb-carousel-inner sppb-text-center"><div class="sppb-item sppb-item-16309215958150  sppb-item-has-bg active"><img src="/lzmk/images/2021/09/06/leksikografski-zavod-zgrada.jpg" alt="Leksikografski zavod Miroslav Krleža"><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"><h2>Leksikografski zavod Miroslav Krleža</h2><div class="sppb-carousel-content"><p style="text-align: center;"><span style="font-size: 18pt;">je središnja hrvatska leksikografska ustanova. </span><br /><span style="font-size: 18pt;">Utemeljen je 5. listopada 1950. godine na poticaj književnika i erudita Miroslava Krleže.</span></p></div><a href="https://localhost/lzmk/o-nama" target="_self"  id="btn-1630921595815" class="sppb-btn sppb-btn-primary sppb-btn-rounded sppb-btn-flat">DOZNAJ VIŠE</a></div></div></div></div><div class="sppb-item sppb-item-16309215958151  sppb-item-has-bg"><img src="/lzmk/images/2021/09/06/hrv-ecniklopedia.jpg" alt="Online izdanja"><div class="sppb-carousel-item-inner"><div class="sppb-carousel-caption"><div class="sppb-carousel-text"><h2>Online izdanja</h2><div class="sppb-carousel-content"><p><span style="font-size: 18pt;">Istražite naše online enciklopedije i leksikone.</span></p>
+<div id="gtx-trans" style="position: absolute; left: 268px; top: 21px;">
+<div class="gtx-trans-icon">&nbsp;</div>
+</div></div><a href="https://localhost/lzmk/izdanja/online-izdanja" target="_self"  id="btn-1630921595816" class="sppb-btn sppb-btn-primary sppb-btn-rounded">ISTRAŽI</a></div></div></div></div></div><a href="#sppb-carousel-1630921595815" class="sppb-carousel-arrow left sppb-carousel-control" data-slide="prev" aria-label="Previous"><i class="fa fa-chevron-left" aria-hidden="true"></i></a><a href="#sppb-carousel-1630921595815" class="sppb-carousel-arrow right sppb-carousel-control" data-slide="next" aria-label="Next"><i class="fa fa-chevron-right" aria-hidden="true"></i></a></div></div></div></div></div></div></div></div><section id="section-id-1630924552084" class="sppb-section " ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12"><div id="column-id-1630924552083" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1630921595820" class="clearfix" ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content"><h3 class="sppb-addon-title">Posljednje objave</h3>		<div id="lnee_138" class="lnee newslist horizontal">
 
-				
-				
-				
-				<section class="article-intro clearfix">
-					<p><img class="pull-left" style="margin: 10px;" src="/lzmk/images/Knjizara2020/lzmk70.jpg" width="300" height="168" /></p>
-<p>Leksikografski zavod Miroslav Krleža na hrvatskoj je petostoljetnoj leksikografskoj tradiciji sagradio djelo koje može stajati uz bok najvećim europskim i svjetskim leksikografskim ostvarenjima. Osnovan je 5. listopada 1950. kao znanstvena ustanova za enciklopedijsku i leksikografsku djelatnost i jedina je hrvatska institucija koja se sedamdeset godina sustavno bavi leksikografijom. Utemeljitelj i idejni tvorac Zavoda bio je hrvatski književnik, leksikograf i erudit Miroslav Krleža koji je okupio suradnike iz svih znanstvenih područja i pokrenuo enciklopedijsko-leksikografsku djelatnost unutar modernoga hrvatskog društva. Nositelj poslova u djelatnosti leksikografije i enciklopedike od interesa za Republiku Hrvatsku, Zavod je izdao više od 400 svezaka enciklopedija, rječnika, leksikona i drugih izdanja koja su važan prinos održavanju i podizanju hrvatskoga intelektualnoga standarda. Izdanja Zavoda tradicionalno su pouzdana i na prepoznatljiv način tumače činjenice iz hrvatskoga naslijeđa i društvene zbilje.</p>
-				</section>
-    
-		    <!-- footer -->
-		    		    <!-- //footer -->
-
-			    			      			    
-									<section class="readmore">
-						<a class="btn btn-default" href="/lzmk/vijesti/arhiva-vijesti/608-70-godina-leksikografskoga-zavoda-miroslav-krleza">
-							<span>
-							Opširnije...							</span>
-						</a>
-					</section>
-					</article>
-	<!-- //Article -->
-
- 		</div>
-			</div>
-	
 		
-		<div class="items-row cols-1 row-0 row">
-					<div class="item column-1 col-md-12">
-			
-
-	<!-- Article -->
-	<article>
-
-					
-<header class="article-header clearfix">
-	<h2 class="article-title" itemprop="headline">
-					<a href="/lzmk/vijesti/637-predstavljanje-turopoljskoga-leksikona-u-leksikografskome-zavodu" itemprop="url" title="Predstavljanje Turopoljskoga leksikona u Leksikografskome zavodu">
-				Predstavljanje Turopoljskoga leksikona u Leksikografskome zavodu</a>
-			</h2>
-
-			</header>
+													<ul class="latestnews-items">
+											<li class="latestnews-item id-637 catid-2 featured">
+										<div class="news odd head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img src="/lzmk/images/thumbnails/lne/thumb_138_637.jpg" alt="Predstavljanje Turopoljskoga leksikona u Leksikografskome zavodu" loading="eager" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																																	<a href="/lzmk/vijesti/637-predstavljanje-turopoljskoga-leksikona-u-leksikografskome-zavodu" class="hasTooltip" title="Predstavljanje Turopoljskoga leksikona u Leksikografskome zavodu">													<span>Predstavljanje Turopoljskoga leksikona u Leksikografskome zavodu</span>
+												</a>
+																																									</h4>
+																	
+								
+																	<div class="newsintro">
+										U srijedu 30. lipnja u 18 sati Leksikografski zavod Miroslav Krleža predstavio je u atriju zgrade u Frankopanskoj ulici najnovije izdanje iz niza »Enciklopedije i leksikoni hrvatskih gradova i...																			</div>
+								
+								
+																											<p class="link">
+											<a href="/lzmk/vijesti/637-predstavljanje-turopoljskoga-leksikona-u-leksikografskome-zavodu" class="hasTooltip" title="Predstavljanje Turopoljskoga leksikona u Leksikografskome zavodu" aria-label="Read more about Predstavljanje Turopoljskoga leksikona u Leksikografskome zavodu">												<span>Opširinije...</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-636 catid-2 featured">
+										<div class="news even head_right">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img src="/lzmk/images/thumbnails/lne/thumb_138_636.jpg" alt="Predstavljanje Turopoljskoga leksikona u Mraclinu" loading="eager" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																																	<a href="/lzmk/vijesti/636-predstavljanje-turopoljskoga-leksikona-u-mraclinu" class="hasTooltip" title="Predstavljanje Turopoljskoga leksikona u Mraclinu">													<span>Predstavljanje Turopoljskoga leksikona u Mraclinu</span>
+												</a>
+																																									</h4>
+																	
+								
+																	<div class="newsintro">
+										<em>Turopoljski leksikon</em> nastavlja niz »Enciklopedije i leksikoni hrvatskih gradova i regija« kojim Leksikografski zavod nastoji potaknuti zanimanje za lokalnu povijest i zavičajnost. Nizinsko područje...																			</div>
+								
+								
+																											<p class="link">
+											<a href="/lzmk/vijesti/636-predstavljanje-turopoljskoga-leksikona-u-mraclinu" class="hasTooltip" title="Predstavljanje Turopoljskoga leksikona u Mraclinu" aria-label="Read more about Predstavljanje Turopoljskoga leksikona u Mraclinu">												<span>Opširinije...</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-626 catid-2">
+										<div class="news odd head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img src="/lzmk/images/thumbnails/lne/thumb_138_626.jpg" alt="Predstavljanje Turopoljskoga leksikona u Velikoj Gorici" loading="eager" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																																	<a href="/lzmk/vijesti/626-predstavljanje-turopoljskoga-leksikona-u-velikoj-gorici" class="hasTooltip" title="Predstavljanje Turopoljskoga leksikona u Velikoj Gorici">													<span>Predstavljanje Turopoljskoga leksikona u Velikoj Gorici</span>
+												</a>
+																																									</h4>
+																	
+								
+																	<div class="newsintro">
+										U središtu Velike Gorice, pred Turopoljskim gradom, danas sjedištem Muzeja Turopolja, na Jurjevo, 23. travnja 2021. održana je svečana promocija <em>Turopoljskoga leksikona</em><em>,</em> u organizaciji Grada Velike Gorice...																			</div>
+								
+								
+																											<p class="link">
+											<a href="/lzmk/vijesti/626-predstavljanje-turopoljskoga-leksikona-u-velikoj-gorici" class="hasTooltip" title="Predstavljanje Turopoljskoga leksikona u Velikoj Gorici" aria-label="Read more about Predstavljanje Turopoljskoga leksikona u Velikoj Gorici">												<span>Opširinije...</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-625 catid-2">
+										<div class="news even head_right">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img src="/lzmk/images/thumbnails/lne/thumb_138_625.jpg" alt="»Knjiga svima i svuda« u Leksikografskoj knjižari od 23. do 30. travnja 2021." loading="eager" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																																	<a href="/lzmk/vijesti/625-knjiga-svima-i-svuda-u-leksikografskoj-knjizari-od-23-do-30-travnja-2021" class="hasTooltip" title="»Knjiga svima i svuda« u Leksikografskoj knjižari od 23. do 30. travnja 2021.">													<span>»Knjiga svima i svuda« u Leksikografskoj knjižari od 23. do 30. travnja 2021.</span>
+												</a>
+																																									</h4>
+																	
+								
+																	<div class="newsintro">
+										U sklopu ovogodišnje Noći knjige, koja će se održati u petak 23. travnja u organizaciji Zajednice nakladnika i knjižara Hrvatske gospodarske komore, od 23. do 30. travnja održat će se i proljetna...																			</div>
+								
+								
+																											<p class="link">
+											<a href="/lzmk/vijesti/625-knjiga-svima-i-svuda-u-leksikografskoj-knjizari-od-23-do-30-travnja-2021" class="hasTooltip" title="»Knjiga svima i svuda« u Leksikografskoj knjižari od 23. do 30. travnja 2021." aria-label="Read more about »Knjiga svima i svuda« u Leksikografskoj knjižari od 23. do 30. travnja 2021.">												<span>Opširinije...</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-623 catid-2 featured">
+										<div class="news odd head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img src="/lzmk/images/thumbnails/lne/thumb_138_623.jpg" alt="Novi Turopoljski leksikon nastao je na desetljećima iskustva" loading="eager" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																																	<a href="/lzmk/vijesti/623-novi-turopoljski-leksikon-nastao-je-na-desetljecima-iskustva" class="hasTooltip" title="Novi Turopoljski leksikon nastao je na desetljećima iskustva">													<span>Novi Turopoljski leksikon nastao je na desetljećima iskustva</span>
+												</a>
+																																									</h4>
+																	
+								
+																	<div class="newsintro">
+										Razgovor s leksikografom i geografom Mladenom Klemenčićem
+U travnju iz tiska izlazi <em>Turopoljski leksikon,</em> sveobuhvatno izdanje o povijesti, događajima i mjestima turopoljskoga kraja, kao rezultat...																			</div>
+								
+								
+																											<p class="link">
+											<a href="/lzmk/vijesti/623-novi-turopoljski-leksikon-nastao-je-na-desetljecima-iskustva" class="hasTooltip" title="Novi Turopoljski leksikon nastao je na desetljećima iskustva" aria-label="Read more about Novi Turopoljski leksikon nastao je na desetljećima iskustva">												<span>Opširinije...</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-621 catid-2">
+										<div class="news even head_right">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img src="/lzmk/images/thumbnails/lne/thumb_138_621.jpg" alt="Posebna ponuda – Hrvatski mjesni rječnik i Hrvatski egzonimi" loading="eager" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																																	<a href="/lzmk/vijesti/621-posebna-ponuda-hrvatski-mjesni-rjecnik-i-hrvatski-egzonimi" class="hasTooltip" title="Posebna ponuda – Hrvatski mjesni rječnik i Hrvatski egzonimi">													<span>Posebna ponuda – Hrvatski mjesni rječnik i Hrvatski egzonimi</span>
+												</a>
+																																									</h4>
+																	
+								
+																	<div class="newsintro">
+										Standardizirana – jedinstvena, točna i dosljedna – zemljopisna imena imaju višestruku praktičnu korist. Njima se nedvosmisleno označuje određeni zemljopisni objekt, čime se olakšava orijentacija te...																			</div>
+								
+								
+																											<p class="link">
+											<a href="/lzmk/vijesti/621-posebna-ponuda-hrvatski-mjesni-rjecnik-i-hrvatski-egzonimi" class="hasTooltip" title="Posebna ponuda – Hrvatski mjesni rječnik i Hrvatski egzonimi" aria-label="Read more about Posebna ponuda – Hrvatski mjesni rječnik i Hrvatski egzonimi">												<span>Opširinije...</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-620 catid-2">
+										<div class="news odd head_left">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="picture">
+																																	<div class="innerpicture">
+																											<img src="/lzmk/images/thumbnails/lne/thumb_138_620.jpg" alt="Prihvaćene Preporuke za standardizaciju geografskih imena u Republici Hrvatskoj " loading="eager" />																									</div>
+																						</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																																	<a href="/lzmk/vijesti/620-prihvacene-preporuke-za-standardizaciju-geografskih-imena-u-republici-hrvatskoj" class="hasTooltip" title="Prihvaćene Preporuke za standardizaciju geografskih imena u Republici Hrvatskoj ">													<span>Prihvaćene Preporuke za standardizaciju geografskih imena u Republici Hrvatskoj </span>
+												</a>
+																																									</h4>
+																	
+								
+																	<div class="newsintro">
+										Povjerenstvo za standardizaciju geografskih imena prihvatilo je u svibnju 2020. <em>Preporuke za standardizaciju geografskih imena u Republici Hrvatskoj – pisanje i uporaba geografskih imena iz stranih</em>...																			</div>
+								
+								
+																											<p class="link">
+											<a href="/lzmk/vijesti/620-prihvacene-preporuke-za-standardizaciju-geografskih-imena-u-republici-hrvatskoj" class="hasTooltip" title="Prihvaćene Preporuke za standardizaciju geografskih imena u Republici Hrvatskoj " aria-label="Read more about Prihvaćene Preporuke za standardizaciju geografskih imena u Republici Hrvatskoj ">												<span>Opširinije...</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+											<li class="latestnews-item id-619 catid-2">
+										<div class="news even head_right">
+						<div class="innernews">
+																					
+																								<div class="newshead picturetype">
+																					<div class="nopicture">
+																																														<span></span>
+																																		</div>
+									</div>
+															
+															<div class="newsinfo">
+																							
+									
+																			<h4 class="newstitle">
+																																	<a href="/lzmk/vijesti/619-imenovan-ravnatelj-leksikografskoga-zavoda" class="hasTooltip" title="Imenovan ravnatelj Leksikografskoga zavoda">													<span>Imenovan ravnatelj Leksikografskoga zavoda</span>
+												</a>
+																																									</h4>
+																	
+								
+																	<div class="newsintro">
+										Dr. sc. Filip Hameršak, dosadašnji v. d. ravnatelja Leksikografskoga zavoda, imenovan je odlukom Ravnateljstva od 8. prosinca 2020. ravnateljem Leksikografskoga zavoda Miroslav Krleža od 1. siječnja...																			</div>
+								
+								
+																											<p class="link">
+											<a href="/lzmk/vijesti/619-imenovan-ravnatelj-leksikografskoga-zavoda" class="hasTooltip" title="Imenovan ravnatelj Leksikografskoga zavoda" aria-label="Read more about Imenovan ravnatelj Leksikografskoga zavoda">												<span>Opširinije...</span>
+											</a>
+										</p>
+																																</div>
+						</div>
+					</div>
+				</li>
+					</ul>
+														<div class="clearfix"></div>
+										<div class="items_pagination bottom"></div>													
 		
-		    <!-- Aside -->
-		    		    <aside class="article-aside clearfix">
-		      		      
-		      		      
+	</div>
+		</div></div></div><div id="sppb-addon-1630924552087" class="clearfix" ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><style>
 
-			<div class="btn-group pull-right">
-			<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="fa fa-cog"></span> <span class="caret"><span class="element-invisible">Empty</span></span> </a>
-						<ul class="dropdown-menu">
-									<li class="print-icon"> <a href="/lzmk/vijesti/637-predstavljanje-turopoljskoga-leksikona-u-leksikografskome-zavodu?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Ispis" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="fa fa-print"></span>&#160;Ispis&#160;</a> </li>
-													<li class="email-icon"> <a href="/lzmk/component/mailto/?tmpl=component&amp;template=purity_iii&amp;link=5b812265b9213fbbef3b027d2ed61f68aba0733d" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><span class="fa fa-envelope"></span> E-mail</a> </li>
-											</ul>
-		</div>
-	
-		      		    </aside>  
-		    		    <!-- //Aside -->
-
-				
-				
-				
-				<section class="article-intro clearfix">
-					<p><span class="d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j keod5gw0 nxhoafnm aigsh9s9 d3f4x2em fe6kdd0r mau55g9w c8b282yb iv3no6db jq4qci2q a3bd9o3v knj5qynh oo9gr5id hzawbc8m" dir="auto"><img src="/lzmk/images/Turopoljski_leksikon/Turopoljski_za_promociju.jpg" alt="Turopoljski za promociju" width="330" height="240" class="pull-left" style="margin: 10px;" />U srijedu 30. lipnja u 18 sati Leksikografski zavod Miroslav Krleža predstavio je u atriju zgrade u Frankopanskoj ulici najnovije izdanje iz niza »Enciklopedije i leksikoni hrvatskih gradova i regija«, nakon promocija u Velikoj Gorici 23. travnja i Mraclinu 15. lipnja. <a href="/lzmk/izdanja/leksikoni/624-turopoljski-leksikon"><em>Turopoljski leksikon</em></a> predstavlja bogatu materijalnu i duhovnu baštinu nizinskoga kraja koji je danas u sastavu Grada Zagreba te Zagrebačke i Sisačko-moslavačke županije. Ovo vrijedno izdanje predstavljeno je, svečano i u skladu s epidemiološkim ograničenjima medijima, suradnicima, čitateljima i zainteresiranim posjetiteljima koji su tom prigodom <em>Turopoljski leksikon</em> mogli kupiti po promotivnoj cijeni. O knjizi su govorili ravnatelj Leksikografskoga zavoda dr. sc. Filip Hameršak, suurednici Katja Matković Mikulčić, ravnateljica Gradske knjižnice Velika Gorica, i Mladen Klemenčić, geograf i leksikograf u Leksikografskome zavodu Miroslav Krleža te dr. sc. Mario Stipančević iz Hrvatskoga državnog arhiva. Svečanost je upotpunio nastup umjetnice i muzikologinje dr. sc. Lidije Bajuk.</span></p>
-				</section>
-    
-		    <!-- footer -->
-		    		    <!-- //footer -->
-
-			    			      			    
-									<section class="readmore">
-						<a class="btn btn-default" href="/lzmk/vijesti/637-predstavljanje-turopoljskoga-leksikona-u-leksikografskome-zavodu">
-							<span>
-							Opširnije...							</span>
-						</a>
-					</section>
-					</article>
-	<!-- //Article -->
-
- 			</div>
-			
-			
-		</div>
-		
-	
-		
-		<div class="items-row cols-1 row-1 row">
-					<div class="item column-1 col-md-12">
-			
-
-	<!-- Article -->
-	<article>
-
-					
-<header class="article-header clearfix">
-	<h2 class="article-title" itemprop="headline">
-					<a href="/lzmk/vijesti/636-predstavljanje-turopoljskoga-leksikona-u-mraclinu" itemprop="url" title="Predstavljanje Turopoljskoga leksikona u Mraclinu">
-				Predstavljanje Turopoljskoga leksikona u Mraclinu</a>
-			</h2>
-
-			</header>
-		
-		    <!-- Aside -->
-		    		    <aside class="article-aside clearfix">
-		      		      
-		      		      
-
-			<div class="btn-group pull-right">
-			<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="fa fa-cog"></span> <span class="caret"><span class="element-invisible">Empty</span></span> </a>
-						<ul class="dropdown-menu">
-									<li class="print-icon"> <a href="/lzmk/vijesti/636-predstavljanje-turopoljskoga-leksikona-u-mraclinu?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Ispis" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="fa fa-print"></span>&#160;Ispis&#160;</a> </li>
-													<li class="email-icon"> <a href="/lzmk/component/mailto/?tmpl=component&amp;template=purity_iii&amp;link=4b413cab676dfcd1cd73acfcba5e5b020257ea43" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><span class="fa fa-envelope"></span> E-mail</a> </li>
-											</ul>
-		</div>
-	
-		      		    </aside>  
-		    		    <!-- //Aside -->
-
-				
-				
-				
-				<section class="article-intro clearfix">
-					<p><img src="/lzmk/images/Turopoljski_leksikon/Naslovna_Mraclin.jpg" alt="Naslovna Mraclin" width="350" height="254" class="pull-left" style="margin: 10px;" /><em><a href="/lzmk/izdanja/leksikoni/624-turopoljski-leksikon">Turopoljski leksikon</a></em> nastavlja niz »Enciklopedije i leksikoni hrvatskih gradova i regija« kojim Leksikografski zavod nastoji potaknuti zanimanje za lokalnu povijest i zavičajnost. Nizinsko područje između Zagreba i Siska kraj je bogate baštine iz kojega su potekle mnoge istaknute osobe i nacionalni velikani. Ideja o sintezi turopoljskoga kraja koja će obuhvatiti raznolike teme, od povijesti i jezika do gospodarstva i kulture, potekla je iz Mraclina, naselja u središnjem dijelu turopoljske nizine. Stoga je Leksikografski zavod nakon prvoga službenog predstavljanja <em>Leksikona</em> na Jurjevo u Velikoj Gorici ovo vrijedno izdanje predstavio Mraclinkama i Mraclincima, i to upravo na blagdan sv. Vida, mjesnoga sveca zaštitnika kojemu je posvećena i kapela u središtu mjesta, a u sklopu manifestacije Dani sv. Vida koja se održava od 14. do 20. lipnja. Svečana promocija <em>Turopoljskoga leksikona</em> održana je u mraclinskome perivoju 15. lipnja u 20.30, u organizaciji KUD-a Dučec.</p>
-				</section>
-    
-		    <!-- footer -->
-		    		    <!-- //footer -->
-
-			    			      			    
-									<section class="readmore">
-						<a class="btn btn-default" href="/lzmk/vijesti/636-predstavljanje-turopoljskoga-leksikona-u-mraclinu">
-							<span>
-							Opširnije...							</span>
-						</a>
-					</section>
-					</article>
-	<!-- //Article -->
-
- 			</div>
-			
-			
-		</div>
-		
-	
-		
-		<div class="items-row cols-1 row-2 row">
-					<div class="item column-1 col-md-12">
-			
-
-	<!-- Article -->
-	<article>
-
-					
-<header class="article-header clearfix">
-	<h2 class="article-title" itemprop="headline">
-					<a href="/lzmk/vijesti/623-novi-turopoljski-leksikon-nastao-je-na-desetljecima-iskustva" itemprop="url" title="Novi Turopoljski leksikon nastao je na desetljećima iskustva">
-				Novi Turopoljski leksikon nastao je na desetljećima iskustva</a>
-			</h2>
-
-			</header>
-		
-		    <!-- Aside -->
-		    		    <aside class="article-aside clearfix">
-		      		      
-		      		      
-
-			<div class="btn-group pull-right">
-			<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="fa fa-cog"></span> <span class="caret"><span class="element-invisible">Empty</span></span> </a>
-						<ul class="dropdown-menu">
-									<li class="print-icon"> <a href="/lzmk/vijesti/623-novi-turopoljski-leksikon-nastao-je-na-desetljecima-iskustva?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Ispis" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="fa fa-print"></span>&#160;Ispis&#160;</a> </li>
-													<li class="email-icon"> <a href="/lzmk/component/mailto/?tmpl=component&amp;template=purity_iii&amp;link=d75d8dfcb4cddebc2e145a7e578aa93c39bf3f46" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><span class="fa fa-envelope"></span> E-mail</a> </li>
-											</ul>
-		</div>
-	
-		      		    </aside>  
-		    		    <!-- //Aside -->
-
-				
-				
-				
-				<section class="article-intro clearfix">
-					<p><img class="pull-left" style="margin: 10px;" src="/lzmk/images/Turopoljski_leksikon/Turopoljski_leksikon_web.jpg" width="270" height="212" /></p>
-<p>Razgovor s leksikografom i geografom Mladenom Klemenčićem</p>
-<p>U travnju iz tiska izlazi <em>Turopoljski leksikon,</em> sveobuhvatno izdanje o povijesti, događajima i mjestima turopoljskoga kraja, kao rezultat suradnje Grada Velike Gorice i Leksikografskoga zavoda Miroslav Krleža. To izdanje na 700 stranica donosi pregled pojmova i osoba vezanih uz turopoljski kraj od prapovijesti do danas. U pisanju članaka i istraživanju sudjelovalo je više od 70 suradnika koji su istražili i opisali povijesna, geografska, politička, etnografska i ostala obilježja toga poviješću bogatog kraja te tako u jednoj publikaciji pokazali jedinstven identitet Turopolja. Knjiga obiluje fotografijama, fotoprilozima i zemljovidima. Tim povodom razgovarali smo s leksikografom i geografom <a href="/lzmk/o-nama/leksikografska-djelatnost/leksikografi/209-klemencic-mladen" target="_blank" rel="noopener noreferrer">Mladenom Klemenčićem</a>, voditeljem projekta i jednim od dvoje urednika <em>Turopoljskoga leksikona</em>.</p>
-				</section>
-    
-		    <!-- footer -->
-		    		    <!-- //footer -->
-
-			    			      			    
-									<section class="readmore">
-						<a class="btn btn-default" href="/lzmk/vijesti/623-novi-turopoljski-leksikon-nastao-je-na-desetljecima-iskustva">
-							<span>
-							Opširnije...							</span>
-						</a>
-					</section>
-					</article>
-	<!-- //Article -->
-
- 			</div>
-			
-			
-		</div>
-		
-	
-
-
+#t3-mainbody {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+	padding-top: 0;
+}
+#t3-content{padding-top: 0;}
+</style></div></div></div></div></div></div></div></div></section><section id="section-id-1630928661575" class="sppb-section " ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12"><div id="column-id-1630928661574" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1630928661578" class="clearfix" ><div class="sppb-addon sppb-addon-text-block  "><h3 class="sppb-addon-title">Online izvori Leksikografskoga zavoda</h3><div class="sppb-addon-content"></div></div></div></div></div></div></div></div></section><section id="section-id-1630928661551" class="sppb-section  online-izvori-naslovnica" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-3"><div id="column-id-1630928661550" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1630928661558" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="https://enciklopedija.hr/"><img class="sppb-img-responsive" src="https://localhost/lzmk/images/banners/banner_hefinal.jpg"  alt="Image" title=""   loading="lazy"></a></div></div></div></div><div id="sppb-addon-1630929638795" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1630929638771" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="https://tehnika.lzmk.hr/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/BANNER-HTE-za-web.jpg"  alt="Image" title=""   loading="lazy"></a></div></div></div></div><div id="sppb-addon-1630929638798" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1630929638783" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="http://zbl.lzmk.hr/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/zidovski-biografski-leksikon-banner.jpg"  alt="Image" title=""   loading="lazy"></a></div></div></div></div></div></div></div><div class="sppb-col-md-3"><div id="column-id-1630928661552" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1630928661563" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="https://hbl.lzmk.hr/"><img class="sppb-img-responsive" src="https://localhost/lzmk/images/banners/HBLbanner.png"  alt="Image" title=""   loading="lazy"></a></div></div></div></div><div id="sppb-addon-1630929638801" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1630929638774" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="https://egzonimi.lzmk.hr/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/baner_HEG.jpg"  alt="Image" title=""   loading="lazy"></a></div></div></div></div><div id="sppb-addon-1630929638804" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1630929638786" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="http://studialexicographica.lzmk.hr/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/studia-lexikographica-banner-1.jpg"  alt="Image" title=""   loading="lazy"></a></div></div></div></div></div></div></div><div class="sppb-col-md-3"><div id="column-id-1630928661553" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1630928661566" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="https://proleksis.lzmk.hr/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/proleksis-banner.jpg"  alt="Image" title=""   loading="lazy"></a></div></div></div></div><div id="sppb-addon-1630929638807" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1630929638777" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="http://www.croatia.eu/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/hrvatska_zemlja-i-ljudi.png"  alt="Image" title=""   loading="lazy"></a></div></div></div></div><div id="sppb-addon-1630929638810" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1630929638789" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="http://katalog.lzmk.hr/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/katalog-digitalizirani-banner.jpg"  alt="Image" title=""   loading="lazy"></a></div></div></div></div></div></div></div><div class="sppb-col-md-3"><div id="column-id-1630928661555" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1630928661569" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="http://enciklopedija.lzmk.hr/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/portal-znanja-bener.jpg"  alt="Image" title=""   loading="lazy"></a></div></div></div></div><div id="sppb-addon-1630929638813" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1630929638780" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="http://leksikon.muzej-marindrzic.eu/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/Leksikon-Marina-Drzica_banner.jpg"  alt="Image" title=""   loading="lazy"></a></div></div></div></div><div id="sppb-addon-1630929638816" class="clearfix" ><div class="sppb-empty-space  clearfix"></div></div><div id="sppb-addon-1630929638792" class="clearfix" ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="http://hemu.lzmk.hr/"><img class="sppb-img-responsive" src="https://www.lzmk.hr/images/banners/HEMUbanner3.png"  alt="Image" title=""   loading="lazy"></a></div></div></div></div></div></div></div></div></div></section>			</div>
 </div>
 
 		</div>
 		<!-- //MAIN CONTENT -->
 
-		<!-- SIDEBAR RIGHT -->
-		<div class="t3-sidebar t3-sidebar-right col-xs-12 col-sm-4  col-md-3 ">
-			<div class="t3-module module " id="Mod88"><div class="module-inner"><div class="module-ct"><div class="bannergroup">
-
-	<div class="banneritem">
-																																																																			<a
-							href="/lzmk/component/banners/click/1" target="_blank" rel="noopener noreferrer"
-							title="Hrvatska enciklopedija">
-							<img
-								src="https://localhost/lzmk/images/banners/banner_hefinal.jpg"
-								alt="Hrvatska enciklopedija"
-								 width="170"								 height="60"							/>
-						</a>
-																<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://hbl.lzmk.hr/" target="_blank" title="Hrvatski biografski leksikon"><img src="/lzmk/images/banners/HBLbanner.png" style="margin-top: 12px" alt="Hrvatski biografski leksikon"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://proleksis.lzmk.hr" target="_blank" title="Proleksis enciklopedija"><img src="/lzmk/images/banners/proleksis-banner.jpg" style="margin-top: 12px" alt="Proleksis enciklopedija"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://enciklopedija.lzmk.hr" target="_blank" title="Portal znanja"><img src="/lzmk/images/banners/portal-znanja-bener.jpg" style="margin-top: 12px" alt="Portal znanja"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://tehnika.lzmk.hr/" target="_blank" title="Hrvatska tehnička enciklopedija"><img src="/lzmk/images/banners/BANNER-HTE-za-web.jpg" style="margin-top: 12px" alt="Hrvatska tehnička enciklopedija"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://egzonimi.lzmk.hr/" target="_blank" title="Hrvatski egzonimi"><img src="/lzmk/images/banners/baner_HEG.jpg" style="margin-top: 12px" alt="Hrvatski egzonimi"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://www.croatia.eu" target="_blank" title="Hrvatska: zemlja i ljudi"><img src="/lzmk/images/banners/hrvatska_zemlja-i-ljudi.png" style="margin-top: 12px" alt="Hrvatska: zemlja i ljudi"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://leksikon.muzej-marindrzic.eu" target="_blank" title="Leksikon Marina Držića"><img src="/lzmk/images/banners/Leksikon-Marina-Drzica_banner.jpg" style="margin-top: 12px" alt="Leksikon Marina Držića"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://zbl.lzmk.hr" target="_blank" title="Židovski biografski leksikon"><img src="/lzmk/images/banners/zidovski-biografski-leksikon-banner.jpg" style="margin-top: 12px" alt="Židovski biografski leksikon"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://studialexicographica.lzmk.hr" target="_blank" title="Studia Lexicographica"><img src="/lzmk/images/banners/studia-lexikographica-banner-1.jpg" style="margin-top: 12px" alt="Studia Lexicographica"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://katalog.lzmk.hr/" target="_blank" title="Digitalizirani katalog"><img src="/lzmk/images/banners/katalog-digitalizirani-banner.jpg" style="margin-top: 12px" alt="Digitalizirani katalog"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://hemu.lzmk.hr/" target="_blank" title="Hrvatska enciklopedija Mate Ujevića"><img src="/lzmk/images/banners/HEMUbanner3.png" style="margin-top: 12px" alt="Hrvatska enciklopedija Mate Ujevića"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="/lzmk/images/Dokumenti/Strategija-LZMK-2015-20.pdf" target="_blank" title="Strategija LZMK"><img src="/lzmk/images/banners/strategija-lzmk.jpg" style="margin-top: 12px" alt="Strategija LZMK"/></a>				<div class="clr"></div>
-	</div>
-
-</div>
-</div></div></div>
-		</div>
-		<!-- //SIDEBAR RIGHT -->
-
 	</div>
 </div> 
-
 
 
   
@@ -866,7 +918,7 @@ jQuery(window).on('load',  function() {
   			<!-- SPOTLIGHT -->
 	<div class="t3-spotlight t3-spotlight-2  row">
 					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
-								<div class="t3-module module " id="Mod93"><div class="module-inner"><div class="module-ct">
+								<div class="t3-module module " id="Mod141"><div class="module-inner"><div class="module-ct">
 <ol class="breadcrumb ">
 	<li class="active">Nalazite se ovdje: &#160;</li><li><span>Naslovnica</span></li></ol>
 </div></div></div>
@@ -936,7 +988,7 @@ jQuery(window).on('load',  function() {
 								<div class="t3-module module " id="Mod94"><div class="module-inner"><h3 class="module-title "><span>Uvjeti korištenja</span></h3><div class="module-ct">
 
 <div class="custom"  >
-	<p><a href="/lzmk/8-o-nama/19-uvjeti-koristenja">Uvjeti korištenja</a></p></div>
+	<p><a href="/lzmk/component/content/article/8-o-nama/19-uvjeti-koristenja?Itemid=101">Uvjeti korištenja</a></p></div>
 </div></div></div>
 							</div>
 			</div>

@@ -20,11 +20,11 @@
 	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
-	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -96,6 +96,49 @@ jQuery(window).on('load',  function() {
 </head>
 
   <body class="contentpane">
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
     <div id="window-mainbody" class="window-mainbody">
       <div id="system-message-container">
 	</div>
@@ -132,13 +175,13 @@ jQuery(window).on('load',  function() {
 	<section class="article-content clearfix">
 		<p>dr. sc. Ivana Crljenko<br />leksikograf, drugi izbor<br /><a href="/lzmk/projekti/154-rjecnik-stranih-geografskih-imena" hreflang="hr">Rječnik stranih geografskih imena</a></p>
 <p> </p>
-<p>tel. +385 1 4800 340<br /><span id="cloak2b50913e633f2b03674e02d8ee42611d">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
-				document.getElementById('cloak2b50913e633f2b03674e02d8ee42611d').innerHTML = '';
+<p>tel. +385 1 4800 340<br /><span id="cloak16d788e243460e53e1960cf73f313660">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloak16d788e243460e53e1960cf73f313660').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addy2b50913e633f2b03674e02d8ee42611d = '&#105;v&#97;n&#97;.crlj&#101;nk&#111;' + '&#64;';
-				addy2b50913e633f2b03674e02d8ee42611d = addy2b50913e633f2b03674e02d8ee42611d + 'lzmk' + '&#46;' + 'hr';
-				var addy_text2b50913e633f2b03674e02d8ee42611d = '&#105;v&#97;n&#97;.crlj&#101;nk&#111;' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak2b50913e633f2b03674e02d8ee42611d').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy2b50913e633f2b03674e02d8ee42611d + '\'>'+addy_text2b50913e633f2b03674e02d8ee42611d+'<\/a>';
+				var addy16d788e243460e53e1960cf73f313660 = '&#105;v&#97;n&#97;.crlj&#101;nk&#111;' + '&#64;';
+				addy16d788e243460e53e1960cf73f313660 = addy16d788e243460e53e1960cf73f313660 + 'lzmk' + '&#46;' + 'hr';
+				var addy_text16d788e243460e53e1960cf73f313660 = '&#105;v&#97;n&#97;.crlj&#101;nk&#111;' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak16d788e243460e53e1960cf73f313660').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy16d788e243460e53e1960cf73f313660 + '\'>'+addy_text16d788e243460e53e1960cf73f313660+'<\/a>';
 		</script></p>
 <p><strong>Obrazovanje:</strong><br />Prirodoslovno–matematički fakultet u Zagrebu, geografija, 1999; <br />Prirodoslovno–matematički fakultet u Zagrebu, magisterij  <em>Regionalni identitet u urbanom pejsažu Sjevernoga hrvatskoga primorja: prostorna i značenjska analiza gradske toponimije</em>, 2006. (mr. sc.); <br />Prirodoslovno-matematički fakultet u Zagrebu, geografski odsjek doktorat <em>Kulturni pejzaži zagrebačke Dubrave - tipološki pristup</em> 2011. (dr. sc.)</p>
 <p><strong>Djelatnost u Zavodu:</strong><br />u Leksikografskom zavodu od 2002.<br />suradnica na projektima: <em>Enciklopedije na novim medijima</em> (voditelj projekta dr. sc. Nenad Prelog) 2002. i <em>Hrvatska bio-bibliografska baština</em> (voditelj projekta dr. sc. Trpimir Macan) 2003-06. <br />voditeljica projekta <em>Rječnik stranih geografskih imena</em> od 2013.<br />suvoditeljica bilateralnog slovensko-hrvatskog znanstvenog projekta <em>Poredbena analiza hrvatskih i slovenskim egzonima</em> 2014-15<br />urednica priručnika <em>Hrvatski egzonimi I.: imena država, glavnih gradova i njihovih stanovnika</em>, 2016. i <em>Hrvatski egzonimi II.: popis suvremenih i povijesnih egzonima</em> 2018.<br />članica uredništva <em>Atlasa svijeta</em>, 2006; <em>Nautičkog vodiča hrvatskoga Jadrana</em>, 2007; <em>Ekonomskog leksikona</em>, 2011; <em>Hrvatskog općeg leksikona</em>, 2012. <br />suradnica na izdanjima: <em>Hrvatska enciklopedija</em> (kartografski dio, 6-11. svezak); <em>Zagrebački leksikon</em>, 2006; <em>Istarska enciklopedija</em>, 2005; <em>Hrvatski obiteljski leksikon</em>, 2005; <em> Hrvatski biografski leksikon</em> (7-9. svezak); <em>Filozofski leksikon</em>, 2012; <em>Hrvatska – zemlja i ljudi</em>, 2013; <em>Enciklopedija hrvatskoga zagorja</em>; <em>Hrvatska enciklopedija on-line</em></p>

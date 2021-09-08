@@ -20,11 +20,11 @@
 	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
-	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -96,6 +96,49 @@ jQuery(window).on('load',  function() {
 </head>
 
   <body class="contentpane">
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
     <div id="window-mainbody" class="window-mainbody">
       <div id="system-message-container">
 	</div>
@@ -132,13 +175,13 @@ jQuery(window).on('load',  function() {
 	<section class="article-content clearfix">
 		<p>Željka Richter-Novosel<br />leksikograf, drugi izbor<br /><a href="/lzmk/o-nama/odjeli/35-leksikografski-odjel" hreflang="hr">Leksikografski odjel</a>, Kartografska redakcija, voditeljica</p>
 <p> </p>
-<p>tel. +385 1 4800 477<br /><span id="cloakc4ad3158dfbc7bd160778e9e4965f3d7">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
-				document.getElementById('cloakc4ad3158dfbc7bd160778e9e4965f3d7').innerHTML = '';
+<p>tel. +385 1 4800 477<br /><span id="cloak75542baacf08717362008c9e0b091c6e">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloak75542baacf08717362008c9e0b091c6e').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addyc4ad3158dfbc7bd160778e9e4965f3d7 = 'z&#101;ljk&#97;.r&#105;cht&#101;r.n&#111;v&#111;s&#101;l' + '&#64;';
-				addyc4ad3158dfbc7bd160778e9e4965f3d7 = addyc4ad3158dfbc7bd160778e9e4965f3d7 + 'lzmk' + '&#46;' + 'hr';
-				var addy_textc4ad3158dfbc7bd160778e9e4965f3d7 = 'z&#101;ljk&#97;.r&#105;cht&#101;r.n&#111;v&#111;s&#101;l' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloakc4ad3158dfbc7bd160778e9e4965f3d7').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyc4ad3158dfbc7bd160778e9e4965f3d7 + '\'>'+addy_textc4ad3158dfbc7bd160778e9e4965f3d7+'<\/a>';
+				var addy75542baacf08717362008c9e0b091c6e = 'z&#101;ljk&#97;.r&#105;cht&#101;r.n&#111;v&#111;s&#101;l' + '&#64;';
+				addy75542baacf08717362008c9e0b091c6e = addy75542baacf08717362008c9e0b091c6e + 'lzmk' + '&#46;' + 'hr';
+				var addy_text75542baacf08717362008c9e0b091c6e = 'z&#101;ljk&#97;.r&#105;cht&#101;r.n&#111;v&#111;s&#101;l' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak75542baacf08717362008c9e0b091c6e').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy75542baacf08717362008c9e0b091c6e + '\'>'+addy_text75542baacf08717362008c9e0b091c6e+'<\/a>';
 		</script></p>
 <p><strong>Obrazovanje:</strong><br />Prirodoslovno-matematički fakultet u Zagrebu, geografija, 1987.</p>
 <p><strong>Djelatnost u Zavodu:<br /></strong>u Leksikografskom zavodu od 1990.<br /> članica uredništva <em>Zemljopisnog atlasa Republike Hrvatske</em> (1993), <em>A Concise Atlas of the Republic of Croatia</em> (1993), <em>Atlasa Europe</em> (1997), <em>Atlasa svijeta</em> (2006), <em>Hrvatskog općeg leksikona</em> (2012).<br /> suradnica na izdanjima: <em>Enciklopedija Jugoslavije</em> (1990), <em>Hrvatska enciklopedija</em> (urednica geografskih karata i struke kartografija; 1-11. svezak), <em>Hrvatski obiteljski leksikon</em> (2005), <em>Hrvatska - zemlja i ljudi</em> (2013), <em>Enciklopedija Hrvatskoga zagorja</em> (2017), <em>Hrvatska enciklopedija on-line</em> (urednica struka kartografija i geografija).<br /> suradnica na projektu <em>Rječnik stranih geografskih imena</em> (2013–17).<br /> članica Znanstvenog vijeća (2017).</p>

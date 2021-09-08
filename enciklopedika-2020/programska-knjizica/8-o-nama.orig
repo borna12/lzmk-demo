@@ -22,15 +22,16 @@
 	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/layouts/corporate.css" rel="stylesheet" type="text/css" />
-	<link href="/lzmk/media/mod_languages/css/template.css?50c444a0b4e97c55e688dc0ffe257e82" rel="stylesheet" type="text/css" />
-	<script type="application/json" class="joomla-script-options new">{"csrf.token":"e4ce8245716e24b5aac947daefd917be","system.paths":{"root":"\/lzmk","base":"\/lzmk"}}</script>
-	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/mootools-core.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/core.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<link href="https://localhost/lzmk/plugins/content/fastsocialshare/style/style.css" rel="stylesheet" type="text/css" />
+	<link href="/lzmk/media/mod_languages/css/template.css?fba399d7fe04ce3f7653ba6431790c9e" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"0c413f8a557d36d42a99aa5e804276a7","system.paths":{"root":"\/lzmk","base":"\/lzmk"}}</script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/mootools-core.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/core.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -103,6 +104,49 @@ jQuery(window).on('load',  function() {
 </head>
 
 <body>
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
 
 <div class="t3-wrapper corporate"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
 
@@ -155,7 +199,7 @@ jQuery(window).on('load',  function() {
 				<nav class="t3-navbar-collapse navbar-collapse collapse"></nav>
 		
 		<nav class="t3-navbar navbar-collapse collapse">
-			<div  class="t3-megamenu"  data-responsive="true">
+			<div  class="t3-megamenu animate slide"  data-duration="400" data-responsive="true">
 <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav level0">
 <li itemprop='name'  data-id="101" data-level="1">
 <a itemprop='url' class=""  href="/lzmk/"   data-target="#">Početna </a>
@@ -545,6 +589,22 @@ jQuery(window).on('load',  function() {
 
 
   
+	<!-- SPOTLIGHT 1 -->
+	<div class="wrap t3-sl t3-sl-1">
+    <div class="container">
+  			<!-- SPOTLIGHT -->
+	<div class="t3-spotlight t3-spotlight-1  row">
+					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
+								<div class="t3-module module " id="Mod93"><div class="module-inner"><div class="module-ct">
+<ol class="breadcrumb ">
+	<li class="active">Nalazite se ovdje: &#160;</li><li><a href="/lzmk/" class="pathway">Naslovnica</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="/lzmk/enciklopedika-2020" class="pathway">Skup Enciklopedika 2020</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="/lzmk/enciklopedika-2020/programska-knjizica" class="pathway">Knjižica sažetaka</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><span>O nama</span></li></ol>
+</div></div></div>
+							</div>
+			</div>
+<!-- SPOTLIGHT -->
+    </div>
+	</div>
+	<!-- //SPOTLIGHT 1 -->
 
 
 	
@@ -614,8 +674,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<i class="fa fa-eye"></i>
-					<meta itemprop="interactionCount" content="UserPageVisits:19769" />
-					Hitova: 19769			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:19779" />
+					Hitova: 19779			</dd>						</dl>
           </aside>  
         <!-- //Aside -->
 
@@ -701,8 +761,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<i class="fa fa-eye"></i>
-					<meta itemprop="interactionCount" content="UserPageVisits:108403" />
-					Hitova: 108403			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:108527" />
+					Hitova: 108527			</dd>						</dl>
           </aside>  
         <!-- //Aside -->
 
@@ -783,8 +843,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<i class="fa fa-eye"></i>
-					<meta itemprop="interactionCount" content="UserPageVisits:36003" />
-					Hitova: 36003			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:36015" />
+					Hitova: 36015			</dd>						</dl>
           </aside>  
         <!-- //Aside -->
 
@@ -859,8 +919,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<i class="fa fa-eye"></i>
-					<meta itemprop="interactionCount" content="UserPageVisits:46436" />
-					Hitova: 46436			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:46532" />
+					Hitova: 46532			</dd>						</dl>
           </aside>  
         <!-- //Aside -->
 
@@ -947,22 +1007,6 @@ jQuery(window).on('load',  function() {
 
 
   
-	<!-- SPOTLIGHT 2 -->
-	<div class="wrap t3-sl t3-sl-2">
-    <div class="container">
-  			<!-- SPOTLIGHT -->
-	<div class="t3-spotlight t3-spotlight-2  row">
-					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
-								<div class="t3-module module " id="Mod93"><div class="module-inner"><div class="module-ct">
-<ol class="breadcrumb ">
-	<li class="active">Nalazite se ovdje: &#160;</li><li><a href="/lzmk/" class="pathway">Naslovnica</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="/lzmk/enciklopedika-2020" class="pathway">Skup Enciklopedika 2020</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="/lzmk/enciklopedika-2020/programska-knjizica" class="pathway">Knjižica sažetaka</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><span>O nama</span></li></ol>
-</div></div></div>
-							</div>
-			</div>
-<!-- SPOTLIGHT -->
-    </div>
-	</div>
-	<!-- //SPOTLIGHT 2 -->
 
 
   

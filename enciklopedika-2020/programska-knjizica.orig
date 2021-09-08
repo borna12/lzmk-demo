@@ -9,11 +9,16 @@
 	<base href="https://localhost/lzmk/enciklopedika-2020/programska-knjizica" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="author" content="Cvijeta Kraus" />
+	<meta property="og:title" content="Knjižica sažetaka" />
+	<meta property="twitter:title" content="Knjižica sažetaka" />
+	<meta property="og:description" content="Knjižica sažetaka.pdf " />
+	<meta property="twitter:description" content="Knjižica sažetaka.pdf " />
 	<meta name="generator" content="Joomla! - Open Source Content Management" />
 	<title>Knjižica sažetaka</title>
 	<link href="/lzmk/templates/purity_iii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 	<link href="https://localhost/lzmk/component/search/?Itemid=211&amp;format=opensearch" rel="search" title="Traži www.lzmk.hr" type="application/opensearchdescription+xml" />
 	<link href="/lzmk/templates/purity_iii/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="https://localhost/lzmk/plugins/content/fastsocialshare/style/style.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/system/css/system.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/template.css" rel="stylesheet" type="text/css" />
@@ -21,12 +26,12 @@
 	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/layouts/corporate.css" rel="stylesheet" type="text/css" />
-	<link href="/lzmk/media/mod_languages/css/template.css?50c444a0b4e97c55e688dc0ffe257e82" rel="stylesheet" type="text/css" />
-	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<link href="/lzmk/media/mod_languages/css/template.css?fba399d7fe04ce3f7653ba6431790c9e" rel="stylesheet" type="text/css" />
+	<script src="/lzmk/media/jui/js/jquery.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -99,6 +104,49 @@ jQuery(window).on('load',  function() {
 </head>
 
 <body>
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
 
 <div class="t3-wrapper corporate"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
 
@@ -151,7 +199,7 @@ jQuery(window).on('load',  function() {
 				<nav class="t3-navbar-collapse navbar-collapse collapse"></nav>
 		
 		<nav class="t3-navbar navbar-collapse collapse">
-			<div  class="t3-megamenu"  data-responsive="true">
+			<div  class="t3-megamenu animate slide"  data-duration="400" data-responsive="true">
 <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav level0">
 <li itemprop='name'  data-id="101" data-level="1">
 <a itemprop='url' class=""  href="/lzmk/"   data-target="#">Početna </a>
@@ -541,6 +589,22 @@ jQuery(window).on('load',  function() {
 
 
   
+	<!-- SPOTLIGHT 1 -->
+	<div class="wrap t3-sl t3-sl-1">
+    <div class="container">
+  			<!-- SPOTLIGHT -->
+	<div class="t3-spotlight t3-spotlight-1  row">
+					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
+								<div class="t3-module module " id="Mod93"><div class="module-inner"><div class="module-ct">
+<ol class="breadcrumb ">
+	<li class="active">Nalazite se ovdje: &#160;</li><li><a href="/lzmk/" class="pathway">Naslovnica</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="/lzmk/enciklopedika-2020" class="pathway">Skup Enciklopedika 2020</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><span>Knjižica sažetaka</span></li></ol>
+</div></div></div>
+							</div>
+			</div>
+<!-- SPOTLIGHT -->
+    </div>
+	</div>
+	<!-- //SPOTLIGHT 1 -->
 
 
 	
@@ -595,8 +659,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<i class="fa fa-eye"></i>
-					<meta itemprop="interactionCount" content="UserPageVisits:1029" />
-					Hitova: 1029			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:1031" />
+					Hitova: 1031			</dd>						</dl>
         
           
 
@@ -618,7 +682,101 @@ jQuery(window).on('load',  function() {
   
 	
 	<section class="article-content clearfix">
-		<p><a href="/lzmk/images/Dokumenti/Programska_knjizica.pdf">Knjižica sažetaka.pdf</a></p> 	</section>
+		<p><a href="/lzmk/images/Dokumenti/Programska_knjizica.pdf">Knjižica sažetaka.pdf</a></p> <div class="fastsocialshare_container fastsocialshare-align-left"><div class="fastsocialshare-subcontainer"><script>
+					var loadAsyncDeferredFacebook = function() {
+						(function(d, s, id) {
+						  var js, fjs = d.getElementsByTagName(s)[0];
+						  if (d.getElementById(id)) return;
+						  js = d.createElement(s); js.id = id;
+						  js.src = "//connect.facebook.net/hr_HR/sdk.js#xfbml=1&version=v3.0";
+						  fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));
+					}
+	
+			  		if (window.addEventListener)
+						window.addEventListener("load", loadAsyncDeferredFacebook, false);
+					else if (window.attachEvent)
+						window.attachEvent("onload", loadAsyncDeferredFacebook);
+					else
+				  		window.onload = loadAsyncDeferredFacebook;
+					</script><div class="fastsocialshare-share-fbl fastsocialshare-button_count">
+				<div class="fb-like"
+					data-href="https://localhost/lzmk/enciklopedika-2020/programska-knjizica"
+					data-layout="button_count"
+                	data-width="100"
+					data-action="like"
+					data-show-faces="true"
+					data-share="false">
+				</div></div><div class="fastsocialshare-share-fbsh fb-shareme-core">
+					<div class="fb-share-button fb-shareme-core"
+						data-href="https://localhost/lzmk/enciklopedika-2020/programska-knjizica"
+						data-layout="button"
+						data-size="small">
+					</div></div><div class="fastsocialshare-share-tw">
+						<a href="https://twitter.com/intent/tweet" data-dnt="true" class="twitter-share-button"  data-text="Knjižica sažetaka" data-count="horizontal" data-via="" data-url="https://localhost/lzmk/enciklopedika-2020/programska-knjizica" data-lang="hr">Tweet</a>
+						</div>
+						<script>
+							var loadAsyncDeferredTwitter =  function() {
+	            						var d = document;
+	            						var s = 'script';
+	            						var id = 'twitter-wjs';
+					            		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){
+						        		js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}
+					        		}
+						
+							if (window.addEventListener)
+								window.addEventListener("load", loadAsyncDeferredTwitter, false);
+							else if (window.attachEvent)
+								window.attachEvent("onload", loadAsyncDeferredTwitter);
+							else
+								window.onload = loadAsyncDeferredTwitter;
+						</script><div class="fastsocialshare-share-lin">
+						<script type="text/javascript">
+							var loadAsyncDeferredLinkedin =  function() {
+								var po = document.createElement('script');
+								po.type = 'text/javascript';
+								po.async = true;
+								po.src = 'https://platform.linkedin.com/in.js';
+								po.innerHTML = 'lang: hr_HR';
+								var s = document.getElementsByTagName('script')[0];
+								s.parentNode.insertBefore(po, s);
+							};
+		
+							 if (window.addEventListener)
+							  window.addEventListener("load", loadAsyncDeferredLinkedin, false);
+							else if (window.attachEvent)
+							  window.attachEvent("onload", loadAsyncDeferredLinkedin);
+							else
+							  window.onload = loadAsyncDeferredLinkedin;
+						</script>
+						<script type="in/share" data-url="https://localhost/lzmk/enciklopedika-2020/programska-knjizica" data-counter="right"></script>
+						</div><div class="fastsocialshare-share-pinterest">
+						<a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" alt="Pin It" /></a>
+						<script type="text/javascript">
+							(function (w, d, load) {
+							 var script, 
+							 first = d.getElementsByTagName('SCRIPT')[0],  
+							 n = load.length, 
+							 i = 0,
+							 go = function () {
+							   for (i = 0; i < n; i = i + 1) {
+							     script = d.createElement('SCRIPT');
+							     script.type = 'text/javascript';
+							     script.async = true;
+							     script.src = load[i];
+							     first.parentNode.insertBefore(script, first);
+							   }
+							 }
+							 if (w.attachEvent) {
+							   w.attachEvent('onload', go);
+							 } else {
+							   w.addEventListener('load', go, false);
+							 }
+							}(window, document, 
+							 ['//assets.pinterest.com/js/pinit.js']
+							));    
+							</script>
+						</div></div></div>	</section>
   
   <!-- footer -->
     <!-- //footer -->
@@ -640,22 +798,6 @@ jQuery(window).on('load',  function() {
 
 
   
-	<!-- SPOTLIGHT 2 -->
-	<div class="wrap t3-sl t3-sl-2">
-    <div class="container">
-  			<!-- SPOTLIGHT -->
-	<div class="t3-spotlight t3-spotlight-2  row">
-					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
-								<div class="t3-module module " id="Mod93"><div class="module-inner"><div class="module-ct">
-<ol class="breadcrumb ">
-	<li class="active">Nalazite se ovdje: &#160;</li><li><a href="/lzmk/" class="pathway">Naslovnica</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="/lzmk/enciklopedika-2020" class="pathway">Skup Enciklopedika 2020</a><span class="divider"><img src="/lzmk/templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><span>Knjižica sažetaka</span></li></ol>
-</div></div></div>
-							</div>
-			</div>
-<!-- SPOTLIGHT -->
-    </div>
-	</div>
-	<!-- //SPOTLIGHT 2 -->
 
 
   

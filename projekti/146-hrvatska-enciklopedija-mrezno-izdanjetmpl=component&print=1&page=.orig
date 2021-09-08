@@ -20,11 +20,11 @@
 	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
-	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -96,6 +96,49 @@ jQuery(window).on('load',  function() {
 </head>
 
   <body class="contentpane">
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
     <div id="window-mainbody" class="window-mainbody">
       <div id="system-message-container">
 	</div>
@@ -140,13 +183,13 @@ jQuery(window).on('load',  function() {
 		<p>Mrežno izdanje Hrvatske enciklopedije <a title="Hrvatska enciklopedija — mrežno izdanje" href="http://www.enciklopedija.hr" target="_blank" rel="noopener noreferrer">www.enciklopedija.hr</a> profesionalno je uređivana enciklopedija besplatno dostupna i komunikacijski otvorena svojim čitateljima (korisnicima). Za razliku od otvorenih mrežnih enciklopedija, koje teže donijeti sve o svemu, u profesionalnim enciklopedijama nalazimo sređeno i usustavljeno znanje o onome što je najvažnije.</p>
  
 <p>Danas, kada se broj izvora znanja umnožio, količina informacija silno povećala, ali se njihova relevantnost i pouzdanost smanjila, profesionalne enciklopedije postale su neka vrsta vodiča koji sređuje i sistematizira ukupno znanje te čuva leksikografske standarde. One daju korpus relevantnog, usustavljenog i pouzdanog znanja koje je takvo jer ih rade vrhunski stručnjaci. No Hrvatska enciklopedija otvorena je za inicijative, prijedloge i doprinose svojih čitatelja (korisnika), koji mogu postati i njezini suradnici. Svaki je doprinos dobrodošao: u obliku komentara, prijedloga za poboljšanje ili ispravljanja netočnosti, ali i kao posve suradnička dopuna postojećih članaka ili iniciranje novih. Time je enciklopedija otvorena za komunikaciju s korisnicima i za njihove doprinose, a ispunjava svoju temeljnu zadaću – istinita, pouzdana, uravnotežena i razumljiva informacija o svemu relevantnom. <a title="Predgovor mrežnom izdanju Hrvatske enciklopedije" href="http://enciklopedija.hr/predgovor.aspx" target="_blank" rel="noopener noreferrer">Opširnije...</a></p>
-<p>Glavni urednik: Slaven Ravlić<br />Osoba za kontakt: Slaven Ravlić, <span id="cloakc102dde4507c7816344c5a484a6c6b29">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
-				document.getElementById('cloakc102dde4507c7816344c5a484a6c6b29').innerHTML = '';
+<p>Glavni urednik: Slaven Ravlić<br />Osoba za kontakt: Slaven Ravlić, <span id="cloak089c532e9381082681980ba2cb1c6092">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloak089c532e9381082681980ba2cb1c6092').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addyc102dde4507c7816344c5a484a6c6b29 = 'sl&#97;v&#101;n.r&#97;vl&#105;c' + '&#64;';
-				addyc102dde4507c7816344c5a484a6c6b29 = addyc102dde4507c7816344c5a484a6c6b29 + 'lzmk' + '&#46;' + 'hr';
-				var addy_textc102dde4507c7816344c5a484a6c6b29 = 'sl&#97;v&#101;n.r&#97;vl&#105;c' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloakc102dde4507c7816344c5a484a6c6b29').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyc102dde4507c7816344c5a484a6c6b29 + '\'>'+addy_textc102dde4507c7816344c5a484a6c6b29+'<\/a>';
+				var addy089c532e9381082681980ba2cb1c6092 = 'sl&#97;v&#101;n.r&#97;vl&#105;c' + '&#64;';
+				addy089c532e9381082681980ba2cb1c6092 = addy089c532e9381082681980ba2cb1c6092 + 'lzmk' + '&#46;' + 'hr';
+				var addy_text089c532e9381082681980ba2cb1c6092 = 'sl&#97;v&#101;n.r&#97;vl&#105;c' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak089c532e9381082681980ba2cb1c6092').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy089c532e9381082681980ba2cb1c6092 + '\'>'+addy_text089c532e9381082681980ba2cb1c6092+'<\/a>';
 		</script>, tel. +385 1 4800 391</p>
 <p> </p>
 <p>Mrežna Hrvatska enciklopedija temelji se na <a href="/lzmk/izdanja/enciklopedije/62-hrvatska-enciklopedija">knjižnom (tiskanom) izdanju</a> koje je objavljeno u 11 svezaka od 1999. do 2009. godine.</p>	</section>

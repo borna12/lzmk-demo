@@ -20,11 +20,11 @@
 	<link href="../../templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="../../templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="../../templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
-	<script src="../../media/jui/js/jquery.min.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../media/jui/js/jquery-noconflict.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../media/jui/js/jquery-migrate.min.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../media/system/js/caption.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="../../media/jui/js/jquery.min.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../media/jui/js/jquery-noconflict.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../media/jui/js/jquery-migrate.min.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../media/system/js/caption.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="../../plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="../../plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="../../plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -96,6 +96,49 @@ jQuery(window).on('load',  function() {
 </head>
 
   <body class="contentpane">
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
     <div id="window-mainbody" class="window-mainbody">
       <div id="system-message-container">
 	</div>
@@ -142,8 +185,8 @@ jQuery(window).on('load',  function() {
 			
 										<dd class="hits">
 					<i class="fa fa-eye"></i>
-					<meta itemprop="interactionCount" content="UserPageVisits:841" />
-					Hitova: 841			</dd>						</dl>
+					<meta itemprop="interactionCount" content="UserPageVisits:843" />
+					Hitova: 843			</dd>						</dl>
         
           
 
@@ -160,7 +203,7 @@ jQuery(window).on('load',  function() {
   
 	
 	<section class="article-content clearfix">
-		<p><span style="font-size: 12pt;"><strong><span style="color: #8b2323;"><a style="color: #8b2323;" href="../../en/component/banners/click/1.html" target="_blank" rel="noopener noreferrer">Hrvatska enciklopedija</a></span></strong> redovito se ažurira i dopunjuje novim i zanimljivim člancima iz područja znanosti, umjetnosti, književnosti, geografije, povijesti i tehnike. Predstavljamo vam dva nova članka o <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?id=58410" target="_blank" rel="noopener noreferrer">stripu</a></span></strong> koji pripada području <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/struke.aspx#podrucje5" target="_blank" rel="noopener noreferrer">umjetnosti</a>,</span> o dvojici junaka komičnoga stripa koji su desetljećima svojim dogodovštinama zabavljali čitatelje. <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70941" target="_blank" rel="noopener noreferrer">Tintin</a></strong></span> je mladi reporter, <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70933" target="_blank" rel="noopener noreferrer">Spirou</a></span></strong> novinar, a obojica upadaju u razne kriminalističke, znanstvenofantastične i pustolovne zaplete smještene u egzotične krajeve.<br /></span></p>
+		<p><span style="font-size: 12pt;"><strong><span style="color: #8b2323;"><a style="color: #8b2323;" href="https://enciklopedija.hr/" target="_blank" rel="noopener noreferrer">Hrvatska enciklopedija</a></span></strong> redovito se ažurira i dopunjuje novim i zanimljivim člancima iz područja znanosti, umjetnosti, književnosti, geografije, povijesti i tehnike. Predstavljamo vam dva nova članka o <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/natuknica.aspx?id=58410" target="_blank" rel="noopener noreferrer">stripu</a></span></strong> koji pripada području <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/struke.aspx#podrucje5" target="_blank" rel="noopener noreferrer">umjetnosti</a>,</span> o dvojici junaka komičnoga stripa koji su desetljećima svojim dogodovštinama zabavljali čitatelje. <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70941" target="_blank" rel="noopener noreferrer">Tintin</a></strong></span> je mladi reporter, <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=70933" target="_blank" rel="noopener noreferrer">Spirou</a></span></strong> novinar, a obojica upadaju u razne kriminalističke, znanstvenofantastične i pustolovne zaplete smještene u egzotične krajeve.<br /></span></p>
  
 <p> </p>
 <p><span style="font-size: 12pt;"><strong>Tintin</strong> je junak belgijskoga komičnog stripa <em>Tintinove pustolovine</em> <em>(Les Aventures de Tintin)</em> kojega u njegovim pustolovinama prati pas Čupko (franc. Milou). Prvi nastavak <em>Pustolovine Tintina, reportera »Mladog stoljeća« u zemlji Sovjeta</em> počeo je izlaziti početkom 1929., a posljednja, 24. epizoda ostala je nedovršena i tiskana je 1986. Autor crtanih priča i pustolovnih zapleta je belgijski crtač i scenarist <strong>Hergé</strong> (pravim imenom Georges Remi). Belgijsku školu stripa odlikuje čist i moderan grafički stil bez sjenčanja te ravnomjerne, nepromjenjive linije kojima se naglašavaju obrisi.</span><br /><br /><span style="font-size: 12pt;"><strong>Spirou</strong> je junak stripa <em>Spirou i Fantasio</em> u kojem se prikazuju doživljaji istoimenih likova i koji spaja pustolovno-špijunske zaplete, ironijski humor i blago karikaturalan realistički crtež. Spirou i Fantasio su prijatelji i novinari, Spirouov je kućni ljubimac vjeverica Spip, a u stripu se pojavljuje i velik broj stalnih likova: ekscentrični izumitelj grof Champignac, egzotična životinja Marsupilami, zli izumitelj Zorglub i mnogi drugi. Stvorio ga je crtač <strong>Rob-Vel</strong> (pravim imenom Robert Velter). Strip je počeo izlaziti 1938., no njegovo klasično razdoblje, u kojem je postigao svjetski uspjeh, počelo je 1946. kada ga preuzima crtač i scenarist André Franquin. Ukupno je do 2019. izišlo 55 albuma u glavnome nizu. </span><br /><br /><span style="font-size: 12pt;">Tintin i Spirou najpoznatija su djela belgijsko-francuske tradicije stripa koja su prevedena na više desetaka jezika i adaptirana u radiodramske i animirane serije, igrane i crtane filmove te videoigre. No ako želite saznati nešto više o hrvatskome stripu, u <span style="color: #8b2323;">Hrvatskoj enciklopediji</span> možete pročitati kako se <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=58410#poglavlje189633" target="_blank" rel="noopener noreferrer">strip u Hrvatskoj</a></span> razvijao, kako se zvao prvi hrvatski strip, tko su <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=39560" target="_blank" rel="noopener noreferrer">Andrija Maurović</a></span>, braća Neugebauer i <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=51465" target="_blank" rel="noopener noreferrer">Julio Radilović Jules</a></span>, što je <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://enciklopedija.hr/Natuknica.aspx?ID=44279" target="_blank" rel="noopener noreferrer">Novi kvadrat</a></span> te koji su hrvatski crtači postigli zapaženu međunarodnu karijeru.<br /></span></p>

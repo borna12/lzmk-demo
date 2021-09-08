@@ -20,11 +20,11 @@
 	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
-	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -96,6 +96,49 @@ jQuery(window).on('load',  function() {
 </head>
 
   <body class="contentpane">
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
     <div id="window-mainbody" class="window-mainbody">
       <div id="system-message-container">
 	</div>
@@ -131,13 +174,13 @@ jQuery(window).on('load',  function() {
 	
 	<section class="article-content clearfix">
 		<p>Ivan Krašnjak<br />leksikografski suradnik<br /><a href="/lzmk/izdanja/leksikoni/84-hrvatski-biografski-leksikon" hreflang="hr">Hrvatski biografski leksikon</a></p>
-<p>tel. +385 1 4800 412<br /><span id="cloak3a9331238d691759d460c0a433ffa96f">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
-				document.getElementById('cloak3a9331238d691759d460c0a433ffa96f').innerHTML = '';
+<p>tel. +385 1 4800 412<br /><span id="cloak83056dd03693b90d85a56468ee919d6a">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloak83056dd03693b90d85a56468ee919d6a').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addy3a9331238d691759d460c0a433ffa96f = '&#105;v&#97;n.kr&#97;snj&#97;k' + '&#64;';
-				addy3a9331238d691759d460c0a433ffa96f = addy3a9331238d691759d460c0a433ffa96f + 'lzmk' + '&#46;' + 'hr';
-				var addy_text3a9331238d691759d460c0a433ffa96f = '&#105;v&#97;n.kr&#97;snj&#97;k' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak3a9331238d691759d460c0a433ffa96f').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy3a9331238d691759d460c0a433ffa96f + '\'>'+addy_text3a9331238d691759d460c0a433ffa96f+'<\/a>';
+				var addy83056dd03693b90d85a56468ee919d6a = '&#105;v&#97;n.kr&#97;snj&#97;k' + '&#64;';
+				addy83056dd03693b90d85a56468ee919d6a = addy83056dd03693b90d85a56468ee919d6a + 'lzmk' + '&#46;' + 'hr';
+				var addy_text83056dd03693b90d85a56468ee919d6a = '&#105;v&#97;n.kr&#97;snj&#97;k' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak83056dd03693b90d85a56468ee919d6a').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy83056dd03693b90d85a56468ee919d6a + '\'>'+addy_text83056dd03693b90d85a56468ee919d6a+'<\/a>';
 		</script></p>
 <p><strong>Obrazovanje:</strong><br />Filozofski fakultet u Zagrebu, povijest umjetnosti i komparativna književnost, 2003.</p>
 <p><strong>Djelatnost u Zavodu:<br /></strong>u Leksikografskom zavodu od 2017.<br /> Hrvatski biografski leksikon</p> 	</section>

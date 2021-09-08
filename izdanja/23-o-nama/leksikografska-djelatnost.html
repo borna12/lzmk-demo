@@ -22,15 +22,16 @@
 	<link href="../../templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="../../templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="../../templates/purity_iii/css/layouts/corporate.css" rel="stylesheet" type="text/css" />
-	<link href="../../media/mod_languages/css/template.css%3F50c444a0b4e97c55e688dc0ffe257e82.css" rel="stylesheet" type="text/css" />
-	<script type="application/json" class="joomla-script-options new">{"csrf.token":"e4ce8245716e24b5aac947daefd917be","system.paths":{"root":"\/lzmk","base":"\/lzmk"}}</script>
-	<script src="../../media/jui/js/jquery.min.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../media/jui/js/jquery-noconflict.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../media/jui/js/jquery-migrate.min.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../media/system/js/caption.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../media/system/js/mootools-core.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="../../media/system/js/core.js%3F50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<link href="../../plugins/content/fastsocialshare/style/style.css" rel="stylesheet" type="text/css" />
+	<link href="../../media/mod_languages/css/template.css%3Ffba399d7fe04ce3f7653ba6431790c9e.css" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"0c413f8a557d36d42a99aa5e804276a7","system.paths":{"root":"\/lzmk","base":"\/lzmk"}}</script>
+	<script src="../../media/jui/js/jquery.min.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../media/jui/js/jquery-noconflict.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../media/jui/js/jquery-migrate.min.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../media/system/js/caption.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../media/system/js/mootools-core.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="../../media/system/js/core.js%3Ffba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="../../plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="../../plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="../../plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -103,6 +104,49 @@ jQuery(window).on('load',  function() {
 </head>
 
 <body>
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
 
 <div class="t3-wrapper corporate"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
 
@@ -155,7 +199,7 @@ jQuery(window).on('load',  function() {
 				<nav class="t3-navbar-collapse navbar-collapse collapse"></nav>
 		
 		<nav class="t3-navbar navbar-collapse collapse">
-			<div  class="t3-megamenu"  data-responsive="true">
+			<div  class="t3-megamenu animate slide"  data-duration="400" data-responsive="true">
 <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav level0">
 <li itemprop='name'  data-id="101" data-level="1">
 <a itemprop='url' class=""  href="../../hr/index.html"   data-target="#">Početna </a>
@@ -545,14 +589,34 @@ jQuery(window).on('load',  function() {
 
 
   
+	<!-- SPOTLIGHT 1 -->
+	<div class="wrap t3-sl t3-sl-1">
+    <div class="container">
+  			<!-- SPOTLIGHT -->
+	<div class="t3-spotlight t3-spotlight-1  row">
+					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
+								<div class="t3-module module " id="Mod93"><div class="module-inner"><div class="module-ct">
+<ol class="breadcrumb ">
+	<li class="active">Nalazite se ovdje: &#160;</li><li><a href="../../hr/index.html" class="pathway">Naslovnica</a><span class="divider"><img src="../../templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="../../izdanja.html" class="pathway">Izdanja</a><span class="divider"><img src="../../templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="../8-o-nama.html" class="pathway">O nama</a><span class="divider"><img src="../../templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><span>Leksikografska djelatnost</span></li></ol>
+</div></div></div>
+							</div>
+			</div>
+<!-- SPOTLIGHT -->
+    </div>
+	</div>
+	<!-- //SPOTLIGHT 1 -->
 
 
 	
+
 <div id="t3-mainbody" class="container t3-mainbody">
 	<div class="row">
 
 		<!-- MAIN CONTENT -->
-		<div id="t3-content" class="t3-content col-xs-12 col-sm-8  col-md-9">
+		<div id="t3-content" class="t3-content col-xs-12">
+						<div id="system-message-container">
+	</div>
+
 						
 <div class="blog" itemscope itemtype="https://schema.org/Blog">
 		
@@ -612,85 +676,11 @@ jQuery(window).on('load',  function() {
 		</div>
 		<!-- //MAIN CONTENT -->
 
-		<!-- SIDEBAR RIGHT -->
-		<div class="t3-sidebar t3-sidebar-right col-xs-12 col-sm-4  col-md-3 ">
-			<div class="t3-module module " id="Mod88"><div class="module-inner"><div class="module-ct"><div class="bannergroup">
-
-	<div class="banneritem">
-																																																																			<a
-							href="../../component/banners/click/1.html" target="_blank" rel="noopener noreferrer"
-							title="Hrvatska enciklopedija">
-							<img
-								src="../../images/banners/banner_hefinal.jpg"
-								alt="Hrvatska enciklopedija"
-								 width="170"								 height="60"							/>
-						</a>
-																<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://hbl.lzmk.hr/" target="_blank" title="Hrvatski biografski leksikon"><img src="../../images/banners/HBLbanner.png" style="margin-top: 12px" alt="Hrvatski biografski leksikon"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://proleksis.lzmk.hr" target="_blank" title="Proleksis enciklopedija"><img src="../../images/banners/proleksis-banner.jpg" style="margin-top: 12px" alt="Proleksis enciklopedija"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://enciklopedija.lzmk.hr" target="_blank" title="Portal znanja"><img src="../../images/banners/portal-znanja-bener.jpg" style="margin-top: 12px" alt="Portal znanja"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://tehnika.lzmk.hr/" target="_blank" title="Hrvatska tehnička enciklopedija"><img src="../../images/banners/BANNER-HTE-za-web.jpg" style="margin-top: 12px" alt="Hrvatska tehnička enciklopedija"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://egzonimi.lzmk.hr/" target="_blank" title="Hrvatski egzonimi"><img src="../../images/banners/baner_HEG.jpg" style="margin-top: 12px" alt="Hrvatski egzonimi"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://www.croatia.eu" target="_blank" title="Hrvatska: zemlja i ljudi"><img src="../../images/banners/hrvatska_zemlja-i-ljudi.png" style="margin-top: 12px" alt="Hrvatska: zemlja i ljudi"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://leksikon.muzej-marindrzic.eu" target="_blank" title="Leksikon Marina Držića"><img src="../../images/banners/Leksikon-Marina-Drzica_banner.jpg" style="margin-top: 12px" alt="Leksikon Marina Držića"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://zbl.lzmk.hr" target="_blank" title="Židovski biografski leksikon"><img src="../../images/banners/zidovski-biografski-leksikon-banner.jpg" style="margin-top: 12px" alt="Židovski biografski leksikon"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://studialexicographica.lzmk.hr" target="_blank" title="Studia Lexicographica"><img src="../../images/banners/studia-lexikographica-banner-1.jpg" style="margin-top: 12px" alt="Studia Lexicographica"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://katalog.lzmk.hr/" target="_blank" title="Digitalizirani katalog"><img src="../../images/banners/katalog-digitalizirani-banner.jpg" style="margin-top: 12px" alt="Digitalizirani katalog"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="http://hemu.lzmk.hr/" target="_blank" title="Hrvatska enciklopedija Mate Ujevića"><img src="../../images/banners/HEMUbanner3.png" style="margin-top: 12px" alt="Hrvatska enciklopedija Mate Ujevića"/></a>				<div class="clr"></div>
-	</div>
-	<div class="banneritem">
-										<a href="../../images/Dokumenti/Strategija-LZMK-2015-20.pdf" target="_blank" title="Strategija LZMK"><img src="../../images/banners/strategija-lzmk.jpg" style="margin-top: 12px" alt="Strategija LZMK"/></a>				<div class="clr"></div>
-	</div>
-
-</div>
-</div></div></div>
-		</div>
-		<!-- //SIDEBAR RIGHT -->
-
 	</div>
 </div> 
 
 
-
   
-	<!-- SPOTLIGHT 2 -->
-	<div class="wrap t3-sl t3-sl-2">
-    <div class="container">
-  			<!-- SPOTLIGHT -->
-	<div class="t3-spotlight t3-spotlight-2  row">
-					<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
-								<div class="t3-module module " id="Mod93"><div class="module-inner"><div class="module-ct">
-<ol class="breadcrumb ">
-	<li class="active">Nalazite se ovdje: &#160;</li><li><a href="../../hr/index.html" class="pathway">Naslovnica</a><span class="divider"><img src="../../templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="../../izdanja.html" class="pathway">Izdanja</a><span class="divider"><img src="../../templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><a href="../8-o-nama.html" class="pathway">O nama</a><span class="divider"><img src="../../templates/purity_iii/images/system/arrow.png" alt="" /></span></li><li><span>Leksikografska djelatnost</span></li></ol>
-</div></div></div>
-							</div>
-			</div>
-<!-- SPOTLIGHT -->
-    </div>
-	</div>
-	<!-- //SPOTLIGHT 2 -->
 
 
   

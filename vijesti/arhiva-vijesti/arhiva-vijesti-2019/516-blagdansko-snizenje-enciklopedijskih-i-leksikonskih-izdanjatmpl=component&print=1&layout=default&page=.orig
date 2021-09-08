@@ -20,11 +20,11 @@
 	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
-	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -96,6 +96,49 @@ jQuery(window).on('load',  function() {
 </head>
 
   <body class="contentpane">
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
     <div id="window-mainbody" class="window-mainbody">
       <div id="system-message-container">
 	</div>
@@ -158,13 +201,13 @@ jQuery(window).on('load',  function() {
 		<p><img class="pull-left" style="margin: 10px;" src="/lzmk/images/Blagdansko_snizenje/Knjige_Leksikografski_1.jpg" width="250" />Leksikografski zavod pripremio je prigodno blagdansko sniženje enciklopedijskih i leksikonskih izdanja.</p>
 <p>Iskoristite prigodno sniženje i upotpunite svoju kućnu biblioteku vrijednim zavodskim izdanjima: <em><a href="/lzmk/izdanja/enciklopedije/495-hrvatska-tehnicka-enciklopedija" target="_blank" rel="noopener noreferrer">Hrvatskom tehničkom enciklopedijom</a>, <a href="/lzmk/izdanja/atlasi/150-hrvatski-povijesni-atlas-ii-izdanje" target="_blank" rel="noopener noreferrer">Hrvatskim povijesnim atlasom</a>,<a href="/lzmk/izdanja/enciklopedije/7-enciklopedija-hrvatskoga-zagorja" target="_blank" rel="noopener noreferrer"> Enciklopedijom Hrvatskoga zagorja</a>, <a href="/lzmk/izdanja/rjecnici/491-hrvatski-egzonimi-ii" target="_blank" rel="noopener noreferrer">Hrvatskim egzonimima</a>, <a href="/lzmk/izdanja/leksikoni/144-filozofski-leksikon" target="_blank" rel="noopener noreferrer">Filozofskim leksikonom</a>, <a href="/lzmk/izdanja/leksikoni/99-pravni-leksikon" target="_blank" rel="noopener noreferrer">Pravnim leksikonom</a>, <a href="/lzmk/izdanja/leksikoni/84-hrvatski-biografski-leksikon" target="_blank" rel="noopener noreferrer">Hrvatskim biografskim leksikonom</a>, <a href="/lzmk/izdanja/rjecnici/106-osmojezicni-enciklopedijski-rjecnik" target="_blank" rel="noopener noreferrer">Osmojezičnim enciklopedijskim rječnikom</a>, <a href="/lzmk/izdanja/leksikoni/94-likovni-leksikon" target="_blank" rel="noopener noreferrer">Likovnim leksikonom</a>, <a href="/lzmk/izdanja/leksikoni/89-leksikon-antuna-gustava-matosa" target="_blank" rel="noopener noreferrer">Leksikonom Antuna Gustava Matoša</a></em> i mnogima drugima.</p>
  
-<p>Odabrane naslove po povoljnijim cijenama možete nabaviti u Leksikografskoj knjižari (Frankopanska 24) ili putem naše <a href="/lzmk/knjizara" target="_blank" rel="noopener noreferrer">internetske stranice</a> (upit na <span id="cloak2343a1f28333c0e35b054953041ba09f">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
-				document.getElementById('cloak2343a1f28333c0e35b054953041ba09f').innerHTML = '';
+<p>Odabrane naslove po povoljnijim cijenama možete nabaviti u Leksikografskoj knjižari (Frankopanska 24) ili putem naše <a href="/lzmk/knjizara" target="_blank" rel="noopener noreferrer">internetske stranice</a> (upit na <span id="cloak72b3bf5c40354c0b973850fd041fd225">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloak72b3bf5c40354c0b973850fd041fd225').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addy2343a1f28333c0e35b054953041ba09f = 'k&#111;m&#101;rc&#105;j&#97;l&#97;' + '&#64;';
-				addy2343a1f28333c0e35b054953041ba09f = addy2343a1f28333c0e35b054953041ba09f + 'lzmk' + '&#46;' + 'hr';
-				var addy_text2343a1f28333c0e35b054953041ba09f = 'k&#111;m&#101;rc&#105;j&#97;l&#97;' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak2343a1f28333c0e35b054953041ba09f').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy2343a1f28333c0e35b054953041ba09f + '\'>'+addy_text2343a1f28333c0e35b054953041ba09f+'<\/a>';
+				var addy72b3bf5c40354c0b973850fd041fd225 = 'k&#111;m&#101;rc&#105;j&#97;l&#97;' + '&#64;';
+				addy72b3bf5c40354c0b973850fd041fd225 = addy72b3bf5c40354c0b973850fd041fd225 + 'lzmk' + '&#46;' + 'hr';
+				var addy_text72b3bf5c40354c0b973850fd041fd225 = 'k&#111;m&#101;rc&#105;j&#97;l&#97;' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak72b3bf5c40354c0b973850fd041fd225').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy72b3bf5c40354c0b973850fd041fd225 + '\'>'+addy_text72b3bf5c40354c0b973850fd041fd225+'<\/a>';
 		</script>).</p>
 <p>Želimo vam ugodne blagdane!</p>
 <p><a href="/lzmk/images/Cjenici/Cjenik_izdanja.pdf" target="_blank" rel="noopener noreferrer">Cjenik_Leksikografski zavod_Blagdanski 2019</a></p>

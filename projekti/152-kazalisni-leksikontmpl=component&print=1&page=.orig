@@ -20,11 +20,11 @@
 	<link href="/lzmk/templates/purity_iii/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/custom.css" rel="stylesheet" type="text/css" />
 	<link href="/lzmk/templates/purity_iii/css/windows.css" rel="stylesheet" type="text/css" />
-	<script src="/lzmk/media/jui/js/jquery.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-noconflict.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/media/system/js/caption.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
-	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?50c444a0b4e97c55e688dc0ffe257e82" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-noconflict.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/jui/js/jquery-migrate.min.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/media/system/js/caption.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
+	<script src="/lzmk/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js?fba399d7fe04ce3f7653ba6431790c9e" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/jquery.tap.min.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/script.js" type="text/javascript"></script>
 	<script src="/lzmk/plugins/system/t3/base-bs3/js/menu.js" type="text/javascript"></script>
@@ -96,6 +96,49 @@ jQuery(window).on('load',  function() {
 </head>
 
   <body class="contentpane">
+<style>
+
+.t3-megamenu .mega-nav > li.open > a, .t3-megamenu .dropdown-menu .mega-nav > li.open > a {
+    background: #0067A2;
+}
+.dropdown-menu{background-color: #0077BB;}
+
+.page-masthead .container {width:100%}
+
+.sppb-carousel-text {text-shadow: 1px 1px 2px rgba(0, 0, 0, 1);}
+.sppb-addon-single-image-container{
+    -webkit-box-shadow: 1px 1px 4px rgb(51 51 51 / 20%);
+    box-shadow: 1px 1px 10px rgb(51 51 51 / 20%);
+    height: calc(100% - 22px);
+    padding: 10px;
+	transition-property: opacity; 
+opacity: 1;
+	transition-duration: 1s;
+}
+.moduletable{background:#EEEEEE}
+.wrap.t3-sl.t3-sl-1{background: #EEEEEE;padding-top:0!important}
+.sppb-addon-single-image-container:hover{opacity:0.6}
+.sppb-carousel-content{text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);}
+@media (min-width: 768px){
+.mod-languages {
+margin:auto;
+    width: 760px;
+}
+}
+@media (min-width: 992px){
+.mod-languages {
+margin:auto;
+    width: 980px;
+}
+}
+@media (min-width: 1200px){.mod-languages {
+margin:auto;
+    width: 1180px;
+}}
+
+
+
+</style>
     <div id="window-mainbody" class="window-mainbody">
       <div id="system-message-container">
 	</div>
@@ -143,13 +186,13 @@ jQuery(window).on('load',  function() {
 <p> </p>
 <p>Naziv projekta: <strong>Kazališni leksikon</strong></p>
 <p>Glavni urednik projekta: prof. dr. sc. Boris Senker</p>
-<p>Osoba za kontakt: Jasna Ivančić, <span id="cloaka5d05ea7090d64163c5f8b51ebeeb6b0">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
-				document.getElementById('cloaka5d05ea7090d64163c5f8b51ebeeb6b0').innerHTML = '';
+<p>Osoba za kontakt: Jasna Ivančić, <span id="cloak241ff2da3fb23547cf217404687e1768">Ova e-mail adresa je zaštićena od spambota. Potrebno je omogućiti JavaScript da je vidite.</span><script type='text/javascript'>
+				document.getElementById('cloak241ff2da3fb23547cf217404687e1768').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addya5d05ea7090d64163c5f8b51ebeeb6b0 = 'j&#97;sn&#97;.&#105;v&#97;nc&#105;c' + '&#64;';
-				addya5d05ea7090d64163c5f8b51ebeeb6b0 = addya5d05ea7090d64163c5f8b51ebeeb6b0 + 'lzmk' + '&#46;' + 'hr';
-				var addy_texta5d05ea7090d64163c5f8b51ebeeb6b0 = 'j&#97;sn&#97;.&#105;v&#97;nc&#105;c' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloaka5d05ea7090d64163c5f8b51ebeeb6b0').innerHTML += '<a ' + path + '\'' + prefix + ':' + addya5d05ea7090d64163c5f8b51ebeeb6b0 + '\'>'+addy_texta5d05ea7090d64163c5f8b51ebeeb6b0+'<\/a>';
+				var addy241ff2da3fb23547cf217404687e1768 = 'j&#97;sn&#97;.&#105;v&#97;nc&#105;c' + '&#64;';
+				addy241ff2da3fb23547cf217404687e1768 = addy241ff2da3fb23547cf217404687e1768 + 'lzmk' + '&#46;' + 'hr';
+				var addy_text241ff2da3fb23547cf217404687e1768 = 'j&#97;sn&#97;.&#105;v&#97;nc&#105;c' + '&#64;' + 'lzmk' + '&#46;' + 'hr';document.getElementById('cloak241ff2da3fb23547cf217404687e1768').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy241ff2da3fb23547cf217404687e1768 + '\'>'+addy_text241ff2da3fb23547cf217404687e1768+'<\/a>';
 		</script>, tel. +385 1 4800 314</p>
 <p>Kratki opis projekta: Kazališni leksikon prvi je takve vrste u Hrvatskoj kao i u zemljama iz okruženja, a dio je niza jednosveščanih leksikonskih izdanja Leksikografskog zavoda. Na oko 1000 stranica (otprilike 120 000 redaka) primjerno ilustriranih, bit će obrađeno oko 7 000 leksikografskih natuknica o svjetskom i hrvatskom dramskom kazalištu, operi, opereti i mjuziklu, baletu i plesu te ostalim izvedbenim oblicima kao što su revija, kabaret, varijete, pantomima, lutkarstvo, hepening i performans. Uz biografske članke o dramatičarima, glumcima, redateljima, intendantima, scenografima, kostimografima, lutkarima, skladateljima, libretistima, pjevačima, plesačima koreografima i dirigentima, Kazališni leksikon uključuje povijesne preglede nacionalnih kazališta, potom članke o kazališnim ustanovama i družinama, umjetničkim smjerovima, pokretima i razdobljima, izvedbenim žanrovima te dramaturškim i teatrološkim pojmovima. Premda će hrvatska sastavnica biti naglašenija, uz glavninu europskih i američkih kazališta bit će obrađena i tradicionalna te moderna kazališta s drugih kontinenata kao i njima pripadajuće nazivlje.</p>	</section>
   
